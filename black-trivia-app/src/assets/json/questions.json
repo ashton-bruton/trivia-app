@@ -184,7 +184,7 @@
       "question": "What movie stars Eddie Murphy as Prince Akeem?",
       "answer": "Coming to America",
       "incorrect_answers": ["Trading Places", "The Nutty Professor", "The Lion King"],
-      "content": "https://www.youtube.com/embed/Aoe-Vrs3-oE?si=hudN4wfwLBwWOwfw&amp;controls=0",
+      "content": "https://www.youtube.com/embed/Aoe-Vrs3-oE?si=KIlLCWMPiGYBBKj6&amp;controls=0&amp;start=381&amp;end=458",
       "content_type": "youtube_video",
       "category": ["film", "comedy"],
       "challenge": 1

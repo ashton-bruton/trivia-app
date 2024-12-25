@@ -4,7 +4,7 @@ import Scoreboard from './components/Scoreboard';
 import TriviaGame from './components/TriviaGame';
 
 const App = () => {
-    const [timer, setTimer] = useState(15);
+    const [timer, setTimer] = useState(20);
     const [isTimerRunning, setIsTimerRunning] = useState(false);
     const [gameConfig, setGameConfig] = useState(null); // Updated in GameConfig
     const [currentTeam, setCurrentTeam] = useState(1);
