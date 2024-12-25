@@ -1004,7 +1004,7 @@
       "question": "[Finish the line] - But Black Dynamite...",
       "answer": "...I sell drugs to the community.",
       "incorrect_answers": ["...ain't nobody messing with my kung fu skills!","...the orphans need their cereal!","...justice never takes a day off!"],
-      "content": "https://www.youtube.com/embed/l4-8eh3caY0?si=g8UJRrltp_juZjRH&amp;start=175",
+      "content": "https://www.youtube.com/embed/l4-8eh3caY0?si=g8UJRrltp_juZjRH&amp;controls=0&amp;start=175",
       "content_type": "youtube_video",
       "category": ["comedy", "pop culture", "film"],
       "challenge": 2
@@ -1014,7 +1014,7 @@
       "question": "[Finish the lyric] - Hey Dirty!...",
       "answer": "...baby, I got your money!",
       "incorrect_answers": ["...don't you mess with my style!","...shimmy shimmy ya!","...your reputation precedes you!"],
-      "content": "https://www.youtube.com/embed/XXTzm5GtqVo?si=Bb9A1q0dluPl7VDJ&amp;start=198",
+      "content": "https://www.youtube.com/embed/XXTzm5GtqVo?si=Bb9A1q0dluPl7VDJ&amp;controls=0&amp;start=198",
       "content_type": "youtube_video",
       "category": ["music", "comedy", "pop culture"],
       "challenge": 1
@@ -1024,7 +1024,7 @@
       "question": "[Finish the line] - I started thinking to myself...",
       "answer": "...Man, what did he do to make them ni**as that mad?",
       "incorrect_answers": ["...What if this is exactly where I'm supposed to be?","...Am I the drama?","...Did these fools eat all the cereal?"],
-      "content": "https://www.youtube.com/embed/A6Tzg0tTJ1Y?si=xw0O8jDn_zrsLtg5&amp;start=18",
+      "content": "https://www.youtube.com/embed/A6Tzg0tTJ1Y?si=xw0O8jDn_zrsLtg5&amp;controls=0&amp;start=18",
       "content_type": "youtube_video",
       "category": ["comedy", "pop culture"],
       "challenge": 3
@@ -1034,7 +1034,7 @@
       "question": "[Finish the lyric] - Before I let you...",
       "answer": "...go",
       "incorrect_answers": ["...leave","...down","...walk away"],
-      "content": "https://www.youtube.com/embed/y4854yQ1sHc?si=taUdA0zugxbip7K7&amp;start=125",
+      "content": "https://www.youtube.com/embed/y4854yQ1sHc?si=taUdA0zugxbip7K7&amp;controls=0&amp;start=125",
       "content_type": "youtube_video",
       "category": ["music", "pop culture", "soul"],
       "challenge": 1
@@ -1044,7 +1044,7 @@
       "question": "[Finish the lyric] - I can't leave you alone...",
       "answer": "...you got me feenin'.",
       "incorrect_answers": ["...because I love you.","...you got me going.","...but I'll try."],
-      "content": "https://www.youtube.com/embed/eB6pGn2UK2U?si=zE38dciqyXEp6fAA&amp;start=114",
+      "content": "https://www.youtube.com/embed/eB6pGn2UK2U?si=zE38dciqyXEp6fAA&amp;controls=0&amp;start=114",
       "content_type": "youtube_video",
       "category": ["music", "R&B", "pop culture"],
       "challenge": 2
