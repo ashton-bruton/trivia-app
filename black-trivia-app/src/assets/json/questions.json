@@ -274,7 +274,7 @@
       "question": "What is the name of the spin-off series of 'Black-ish' featuring Zoey Johnson?",
       "answer": "Grown-ish",
       "incorrect_answers": ["Mixed-ish", "College-ish", "Young-ish"],
-      "content": "https://www.youtube.com/embed/iN9NVMPoHRs?si=9i-Kn8dxpD5qH0fx&amp;controls=0",
+      "content": "https://www.youtube.com/embed/9bdXZzQvb0U?si=ogdfHLBfFKbSdg06&amp;controls=0",
       "content_type": "youtube_video",
       "category": ["television", "pop culture"],
       "challenge": 1
@@ -1068,6 +1068,16 @@
         "content_type": "youtube_video",
         "category": ["film", "music", "comedy"],
         "challenge": 1
+      },
+      {
+        "id": 108,
+        "question": "Which TV show is named after a U.S. city and stars LaKeith Stanfield",
+        "answer": "Atlanta",
+        "incorrect_answers": ["Dallas","Chicago P.D.","Las Vegas"],
+        "content": "https://www.youtube.com/embed/vXO_GUu5KKo?si=sshKTsStnrXh45pI&amp;controls=0",
+        "content_type": "youtube_video",
+        "category": ["television", "comedy", "culture"],
+        "challenge": 2
       }
   ]
   

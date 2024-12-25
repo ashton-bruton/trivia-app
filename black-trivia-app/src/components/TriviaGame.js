@@ -25,7 +25,7 @@ const TriviaGame = ({
         setCurrentTeam(1);
         setGameOver(false);
         setWinner('');
-        setTimer(15);
+        setTimer(20);
         setNextQuestionFlag(false);
     };
 

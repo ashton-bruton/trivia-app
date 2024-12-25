@@ -30,7 +30,7 @@ const GameConfig = ({ setGameConfig }) => {
                     flexDirection: 'column',
                     alignItems: 'center',
                     justifyContent: 'center',
-                    height: '50vh',
+                    height: '76vh',
                     width: '50%',
                     margin: 'auto',
                     border: '1px solid #ccc',
@@ -39,6 +39,17 @@ const GameConfig = ({ setGameConfig }) => {
                     borderRadius: '10px',
                 }}
             >
+                <p className="instructions-header">RULES & INSTRUCTIONS</p>
+                <ul className="instructions">
+                    <li>Appoint a team leader and create a team name.</li>
+                    <li>Select the game length: 1, 3, 5, 11, or 21.</li>
+                    <li>The moderator reads the questions and answer choices by default.</li>
+                    <li>Teams can agree to read the questions themselves, but the team lead must still confirm the answer with the moderator.</li>
+                    <li>The active team has 20 seconds to answer the question.</li>
+                    <li>An answer is not official until the team lead confirms it to the moderator.</li>
+                    <li>The active team determines whether to continue to the next question immediately or watch the clips.</li>
+                </ul>
+
                 <label style={{ marginBottom: '10px', width: '80%' }}>
                     Team 1 Name:
                     <input

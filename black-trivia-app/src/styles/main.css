@@ -4001,7 +4001,8 @@ button:hover {
         cursor: pointer; /* Pointer cursor */
         width: 80%; /* Maintain consistent width */
         box-sizing: border-box; /* Include padding in width calculation */
-        height:100px;
+		height:100px;
+		line-height: normal;
     /* } */
     
 }
@@ -4047,6 +4048,17 @@ button:hover {
 .feedback button {
     font-size: 20px;
     padding: 10px 20px;
+}
+
+.instructions {
+	font-size: 13px;
+    color: yellow;
+    font-weight: bold;
+}
+
+.instructions-header {
+	color: white;
+	font-weight: bold;;
 }
 
   

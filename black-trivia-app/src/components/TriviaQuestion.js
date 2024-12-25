@@ -66,7 +66,7 @@ const TriviaQuestion = ({
         setNextQuestionFlag(false);
         setFeedback('');
         setSelectedAnswer(null);
-        setTimer(15);
+        setTimer(20);
         setCurrentTeam((prevTeam) => (prevTeam === 1 ? 2 : 1)); // Alternate teams
     };
 
