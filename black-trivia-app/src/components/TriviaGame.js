@@ -1,10 +1,10 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import GameConfig from './GameConfig';
 import TriviaQuestion from './TriviaQuestion';
 import EndGame from './EndGame';
 
 const TriviaGame = ({
-    setGameConfig, // Use the function from App.js
+    setGameConfig,
     timer,
     setTimer,
     isTimerRunning,
@@ -14,10 +14,41 @@ const TriviaGame = ({
     scores,
     setScores,
 }) => {
-    const [localGameConfig, setLocalGameConfig] = useState(null); // Manage local game state
+    const [localGameConfig, setLocalGameConfig] = useState(null);
     const [gameOver, setGameOver] = useState(false);
     const [winner, setWinner] = useState('');
     const [nextQuestionFlag, setNextQuestionFlag] = useState(false);
+    const [askedQuestions, setAskedQuestions] = useState([]);
+
+    // Load `askedQuestions` from localStorage on mount
+    useEffect(() => {
+        const savedQuestions = JSON.parse(localStorage.getItem('askedQuestions')) || [];
+        const timestamp = localStorage.getItem('askedQuestionsTimestamp');
+        if (savedQuestions.length > 0 && timestamp) {
+            const now = Date.now();
+            if (now - parseInt(timestamp, 10) < 5 * 60 * 60 * 1000) {
+                setAskedQuestions(savedQuestions);
+            } else {
+                localStorage.removeItem('askedQuestions');
+                localStorage.removeItem('askedQuestionsTimestamp');
+            }
+        }
+    }, []);
+
+    // Save `askedQuestions` to localStorage whenever it changes
+    useEffect(() => {
+        if (askedQuestions.length > 0) {
+            localStorage.setItem('askedQuestions', JSON.stringify(askedQuestions));
+            localStorage.setItem('askedQuestionsTimestamp', Date.now().toString());
+        }
+    }, [askedQuestions]);
+
+    // Set the timer when the game config is initialized
+    useEffect(() => {
+        if (localGameConfig) {
+            setTimer(localGameConfig.timerDuration || 20);
+        }
+    }, [localGameConfig, setTimer]);
 
     const resetGame = () => {
         setLocalGameConfig(null);
@@ -25,17 +56,13 @@ const TriviaGame = ({
         setCurrentTeam(1);
         setGameOver(false);
         setWinner('');
-        setTimer(20);
         setNextQuestionFlag(false);
+        setAskedQuestions([]);
     };
 
     const checkGameOver = (updatedScores) => {
         const maxScore = localGameConfig?.gameLength || 1;
-
-        console.log(maxScore + " <= MAX SCORE | TEAM 1 SCORE => " + updatedScores.team1);
-        console.log(maxScore + " <= MAX SCORE | TEAM 2 SCORE => " + updatedScores.team2);
         if (updatedScores.team1 >= maxScore) {
-            console.log("GAME OVER");
             setGameOver(true);
             setWinner(localGameConfig.team1);
         } else if (updatedScores.team2 >= maxScore) {
@@ -44,22 +71,13 @@ const TriviaGame = ({
         }
     };
 
-    // Updated setScores logic
     const handleScoreUpdate = (team) => {
         setScores((prevScores) => {
             const updatedScores = {
-                team1: prevScores.team1 || 0,
-                team2: prevScores.team2 || 0,
-                [team]: (prevScores[team] || 0) + 1,
+                ...prevScores,
+                [team]: prevScores[team] + 1,
             };
-    
-            // Log debug information
-            console.log("PREVIOUS SCORE:", prevScores);
-            console.log("UPDATED SCORE:", updatedScores);
-    
-            // Pass updated scores directly to checkGameOver
             checkGameOver(updatedScores);
-    
             return updatedScores;
         });
     };
@@ -68,8 +86,8 @@ const TriviaGame = ({
         return (
             <GameConfig
                 setGameConfig={(config) => {
-                    setLocalGameConfig(config); // Update local state
-                    setGameConfig(config); // Pass to App.js
+                    setLocalGameConfig(config);
+                    setGameConfig(config);
                 }}
             />
         );
@@ -80,7 +98,7 @@ const TriviaGame = ({
     }
 
     return (
-        <div style={{width:'100%'}}>
+        <div style={{ width: '100%' }}>
             <TriviaQuestion
                 currentTeam={currentTeam}
                 setCurrentTeam={setCurrentTeam}
@@ -93,6 +111,8 @@ const TriviaGame = ({
                 scores={scores}
                 setScores={handleScoreUpdate}
                 checkGameOver={checkGameOver}
+                askedQuestions={askedQuestions}
+                setAskedQuestions={setAskedQuestions}
             />
         </div>
     );
