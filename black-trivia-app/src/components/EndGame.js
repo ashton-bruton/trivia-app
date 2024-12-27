@@ -1,29 +1,58 @@
-// src/components/EndGame.js
-
 import React from 'react';
+import { Box, Button, Typography } from '@mui/material';
 
 const EndGame = ({ winner, resetGame, iframeContent }) => {
     console.log("IFRAME CONTENT " + iframeContent);
+
     return (
-        <div style={{ textAlign: 'center', width: '80%', margin: '0 auto', height: '80vh', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center' }}>
-            <h1>Congratulations, {winner}!</h1>
+        <Box
+            className="end-game-container"
+            sx={{
+                display: 'flex',
+                flexDirection: 'column',
+                alignItems: 'center',
+                justifyContent: 'center',
+                height: '100vh',
+                textAlign: 'center',
+                padding: '20px',
+                backgroundColor: 'background.default',
+                color: 'text.primary',
+            }}
+        >
+            <Typography variant="h3" sx={{ marginBottom: '20px' }}>
+                Congratulations, {winner}!
+            </Typography>
             {iframeContent && (
-                <iframe
+                <Box
+                    component="iframe"
                     src={`${iframeContent}&autoplay=1`}
                     title="Winning Content"
-                    frameBorder="0"
+                    sx={{
+                        width: '80%',
+                        height: '50%',
+                        border: 0,
+                        marginBottom: '20px',
+                        boxShadow: '0px 4px 8px rgba(0, 0, 0, 0.2)',
+                        borderRadius: '8px',
+                    }}
                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                     allowFullScreen
-                    style={{ width: '100%', height: '50%', marginBottom: '20px' }}
-                ></iframe>
+                ></Box>
             )}
-            <button
+            <Button
                 onClick={resetGame}
-                style={{ marginTop: '20px', padding: '10px 20px', fontSize: '16px', backgroundColor: '#28a745', color: '#fff', border: 'none', borderRadius: '5px', cursor: 'pointer' }}
+                variant="contained"
+                color="error"
+                sx={{
+                    fontSize: '1.2rem',
+                    padding: '10px 30px',
+                    borderRadius: '8px',
+                    fontWeight: 'bold',
+                }}
             >
                 Reset Game
-            </button>
-        </div>
+            </Button>
+        </Box>
     );
 };
 

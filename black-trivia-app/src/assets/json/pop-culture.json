@@ -430,9 +430,9 @@
     },
     {
         "id": 40,
-        "question": "Who is known for the song 'Billie Jean'?",
-        "answer": "Michael Jackson",
-        "incorrect_answers": ["Prince", "Stevie Wonder", "Lionel Richie"],
+        "question": "Who is known for the album 'Songs in the Key of Life'?",
+        "answer": "Stevie Wonder",
+        "incorrect_answers": ["Prince", "Michael Jackson", "Lionel Richie"],
         "content": "",
         "content_type": "",
         "category": ["Music", "Pop"],

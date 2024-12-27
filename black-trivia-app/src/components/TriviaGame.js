@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+import { Box, Paper, Typography } from '@mui/material';
 import GameConfig from './GameConfig';
 import TriviaQuestion from './TriviaQuestion';
 import EndGame from './EndGame';
@@ -84,37 +85,63 @@ const TriviaGame = ({
 
     if (!localGameConfig) {
         return (
-            <GameConfig
-                setGameConfig={(config) => {
-                    setLocalGameConfig(config);
-                    setGameConfig(config);
-                }}
-            />
+            <Box sx={{ padding: '20px', textAlign: 'center' }}>
+                <GameConfig
+                    setGameConfig={(config) => {
+                        setLocalGameConfig(config);
+                        setGameConfig(config);
+                    }}
+                />
+            </Box>
         );
     }
 
     if (gameOver) {
-        return <EndGame winner={winner} resetGame={resetGame} iframeContent={null} />;
+        return (
+            <Box sx={{ padding: '20px', textAlign: 'center' }}>
+                <EndGame winner={winner} resetGame={resetGame} iframeContent={null} />
+            </Box>
+        );
     }
 
     return (
-        <div style={{ width: '100%' }}>
-            <TriviaQuestion
-                currentTeam={currentTeam}
-                setCurrentTeam={setCurrentTeam}
-                gameConfig={localGameConfig}
-                setIsTimerRunning={setIsTimerRunning}
-                timer={timer}
-                setTimer={setTimer}
-                nextQuestionFlag={nextQuestionFlag}
-                setNextQuestionFlag={setNextQuestionFlag}
-                scores={scores}
-                setScores={handleScoreUpdate}
-                checkGameOver={checkGameOver}
-                askedQuestions={askedQuestions}
-                setAskedQuestions={setAskedQuestions}
-            />
-        </div>
+        <Box
+            sx={{
+                // width: '100%',
+                padding: '20px',
+                textAlign: 'center',
+                display: 'flex',
+                justifyContent: 'center',
+            }}
+        >
+            <Paper
+                elevation={3}
+                sx={{
+                    width: '90%',
+                    maxWidth: '1200px',
+                    padding: '20px',
+                }}
+            >
+                <Typography variant="h4" gutterBottom>
+                    Trivia Game
+                </Typography>
+                <TriviaQuestion
+                    currentTeam={currentTeam}
+                    setCurrentTeam={setCurrentTeam}
+                    gameConfig={localGameConfig}
+                    setIsTimerRunning={setIsTimerRunning}
+                    timer={timer}
+                    setTimer={setTimer}
+                    nextQuestionFlag={nextQuestionFlag}
+                    setNextQuestionFlag={setNextQuestionFlag}
+                    scores={scores}
+                    setScores={handleScoreUpdate}
+                    checkGameOver={checkGameOver}
+                    askedQuestions={askedQuestions}
+                    setAskedQuestions={setAskedQuestions}
+                />
+            </Paper>
+        </Box>
     );
 };
 

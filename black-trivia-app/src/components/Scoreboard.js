@@ -1,7 +1,5 @@
-// src/components/Scoreboard.js
-
 import React from 'react';
-import '../styles/main.css';
+import { Box, Typography, Paper } from '@mui/material';
 
 const Scoreboard = ({ timer, gameConfig, currentTeam, scores }) => {
     const formatTime = (time) => {
@@ -11,70 +9,110 @@ const Scoreboard = ({ timer, gameConfig, currentTeam, scores }) => {
     };
 
     return (
-        <div
+        <Box
             id="scoreboard-container"
-            style={{
-                textAlign: 'center',
-                position: 'fixed',
-                top: 0,
-                width: '100%',
-                backgroundColor: 'white',
-                zIndex: 10,
-                boxShadow: '0px 4px 6px rgba(0, 0, 0, 0.1)',
+            sx={{
                 display: 'flex',
-                justifyContent: 'center',
-                left: '0px'
+                justifyContent: 'space-around',
+                alignItems: 'center',
+                backgroundColor: 'background.default', // Using dark theme background
+                color: 'text.primary', // Theme text color
+                padding: '20px',
+                boxShadow: '0px 4px 6px rgba(0, 0, 0, 0.1)',
+                position: 'sticky',
+                top: 0,
+                zIndex: 10,
             }}
         >
-            <div
-                id="scoreboard"
-                style={{
-                    display: 'flex',
-                    justifyContent: 'space-around',
-                    alignItems: 'center',
-                    width: '100%',
-                    
+            {/* Team 1 Score */}
+            <Paper
+                elevation={currentTeam === 1 ? 4 : 1}
+                sx={{
+                    padding: '15px',
+                    borderRadius: '8px',
+                    backgroundColor: currentTeam === 1 ? 'primary.main' : 'background.paper', // Theme colors
+                    color: currentTeam === 1 ? 'text.primary' : 'text.primary',
+                    flex: 1,
+                    textAlign: 'center',
                 }}
             >
-                <div
-                    className="team"
-                    style={{
-                        boxShadow: currentTeam === 1 ? '0 0 15px 5px yellow' : 'none',
-                        padding: '10px',
-                        borderRadius: '5px',
-                        flex: '1',
-                        textAlign: 'center',
+                <Typography
+                    variant="h6"
+                    component="h3"
+                    sx={{
+                        fontWeight: 'bold',
+                        color: currentTeam === 1 ? 'text.primary' : 'inherit', // Dark text for active team
                     }}
                 >
-                    <h3>{gameConfig.team1}</h3>
-                    <p>Score: {scores.team1}</p>
-                </div>
-                <div id="timer-message-container" style={{ flex: '1', textAlign: 'center' }}>
-                    <div
-                        id="timer"
-                        style={{
-                            fontSize: '70px',
-                            fontWeight: 'bold',
-                        }}
-                    >
-                        {formatTime(timer)}
-                    </div>
-                </div>
-                <div
-                    className="team"
-                    style={{
-                        boxShadow: currentTeam === 2 ? '0 0 15px 5px yellow' : 'none',
-                        padding: '10px',
-                        borderRadius: '5px',
-                        flex: '1',
-                        textAlign: 'center',
+                    {gameConfig.team1}
+                </Typography>
+                <Typography
+                    variant="h5"
+                    sx={{
+                        color: currentTeam === 1 ? 'text.primary' : 'inherit', // Dark text for active team
                     }}
                 >
-                    <h3>{gameConfig.team2}</h3>
-                    <p>Score: {scores.team2}</p>
-                </div>
-            </div>
-        </div>
+                    Score: {scores.team1}
+                </Typography>
+            </Paper>
+
+            {/* Timer */}
+            <Box
+                id="timer-message-container"
+                sx={{
+                    flex: 1,
+                    textAlign: 'center',
+                }}
+            >
+                <Typography
+                    id="timer"
+                    variant="h3"
+                    sx={{
+                        fontWeight: 'bold',
+                        fontSize: {
+                            xs: '1.5rem',
+                            sm: '2rem',
+                            md: '3rem',
+                        },
+                        color: 'secondary.main', // Timer color from theme
+                    }}
+                >
+                    {formatTime(timer)}
+                </Typography>
+            </Box>
+
+            {/* Team 2 Score */}
+            <Paper
+                elevation={currentTeam === 2 ? 4 : 1}
+                sx={{
+                    padding: '15px',
+                    borderRadius: '8px',
+                    backgroundColor: currentTeam === 2 ? 'primary.main' : 'background.paper', // Theme colors
+                    color: currentTeam === 2 ? 'text.primary' : 'text.primary',
+                    flex: 1,
+                    textAlign: 'center',
+                }}
+            >
+                <Typography
+                    variant="h6"
+                    component="h3"
+                    sx={{
+                        fontWeight: 'bold',
+                        color: currentTeam === 2 ? 'text.primary' : 'inherit', // Dark text for active team
+                    }}
+                >
+                    {gameConfig.team2}
+                </Typography>
+                <Typography
+                    variant="h5"
+                    sx={{
+                        color: currentTeam === 2 ? 'text.primary' : 'inherit', // Dark text for active team
+                    }}
+                >
+                    Score: {scores.team2}
+                </Typography>
+            </Paper>
+        </Box>
     );
 };
 

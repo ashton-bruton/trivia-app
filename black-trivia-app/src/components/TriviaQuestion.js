@@ -1,5 +1,12 @@
 import React, { useState, useEffect } from 'react';
-import '../styles/main.css';
+import {
+    Box,
+    Button,
+    Typography,
+    Paper,
+    CircularProgress,
+    Grid,
+} from '@mui/material';
 
 const TriviaQuestion = ({
     currentTeam,
@@ -30,23 +37,29 @@ const TriviaQuestion = ({
 
             if (questionType === 'any') {
                 const files = [
-                    import('../assets/json/black-trivia.json'),
-                    import('../assets/json/sports.json'),
-                    import('../assets/json/music.json'),
-                    import('../assets/json/politics.json'),
-                    import('../assets/json/history.json'),
-                    import('../assets/json/pop-culture.json'),
-                    import('../assets/json/literature.json'),
-                    import('../assets/json/movies.json'),
-                    import('../assets/json/television.json'),
-                    import('../assets/json/nerd-culture.json'),
+                    { filename: 'black-trivia', module: import('../assets/json/black-trivia.json') },
+                    { filename: 'sports', module: import('../assets/json/sports.json') },
+                    { filename: 'music', module: import('../assets/json/music.json') },
+                    { filename: 'politics', module: import('../assets/json/politics.json') },
+                    { filename: 'history', module: import('../assets/json/history.json') },
+                    { filename: 'pop-culture', module: import('../assets/json/pop-culture.json') },
+                    { filename: 'literature', module: import('../assets/json/literature.json') },
+                    { filename: 'movies', module: import('../assets/json/movies.json') },
+                    { filename: 'television', module: import('../assets/json/television.json') },
+                    { filename: 'nerd-culture', module: import('../assets/json/nerd-culture.json') },
                 ];
 
-                const allQuestions = await Promise.all(files);
-                questions = allQuestions.flatMap((module) => module.default);
+                const allQuestions = await Promise.all(
+                    files.map(async ({ filename, module }) => {
+                        const data = await module;
+                        return data.default.map((q) => ({ ...q, filename })); // Attach filename to each question
+                    })
+                );
+
+                questions = allQuestions.flat();
             } else {
                 const file = await import(`../assets/json/${questionType}.json`);
-                questions = file.default;
+                questions = file.default.map((q) => ({ ...q, filename: questionType })); // Attach filename to each question
             }
 
             setQuestionPool(questions);
@@ -72,7 +85,7 @@ const TriviaQuestion = ({
         if (!nextQuestionFlag) {
             const difficulty = determineDifficulty();
             const availableQuestions = questionPool.filter(
-                (q) => q.challenge === difficulty && !askedQuestions.includes(`questions-${q.id}`)
+                (q) => q.challenge === difficulty && !askedQuestions.includes(`${q.filename}-${q.id}`)
             );
 
             if (availableQuestions.length > 0) {
@@ -103,14 +116,14 @@ const TriviaQuestion = ({
             return () => clearInterval(interval);
         } else if (timer === 0) {
             setFeedback(`Time's up! The correct answer is: ${currentQuestion?.answer}`);
-            markQuestionAsAsked(currentQuestion?.id);
+            markQuestionAsAsked(currentQuestion);
             setNextQuestionFlag(true);
         }
     }, [timer, nextQuestionFlag, setTimer, currentQuestion]);
 
-    const markQuestionAsAsked = (questionId) => {
-        if (questionId) {
-            const questionKey = `questions-${questionId}`;
+    const markQuestionAsAsked = (question) => {
+        if (question) {
+            const questionKey = `${question.filename}-${question.id}`; // Format: {filename}-{id}
             if (!askedQuestions.includes(questionKey)) {
                 setAskedQuestions((prev) => [...prev, questionKey]);
             }
@@ -127,12 +140,12 @@ const TriviaQuestion = ({
             setFeedback(`Incorrect! The correct answer is: ${currentQuestion.answer}`);
         }
 
-        markQuestionAsAsked(currentQuestion?.id);
+        markQuestionAsAsked(currentQuestion);
         setNextQuestionFlag(true);
     };
 
     const handleSkip = () => {
-        markQuestionAsAsked(currentQuestion?.id);
+        markQuestionAsAsked(currentQuestion);
         setSelectedAnswer(null);
         setFeedback('');
         setNextQuestionFlag(false);
@@ -147,44 +160,49 @@ const TriviaQuestion = ({
         setCurrentTeam((prevTeam) => (prevTeam === 1 ? 2 : 1)); // Alternate teams
     };
 
-    if (!currentQuestion) return <p>Loading...</p>;
+    if (!currentQuestion) return <CircularProgress />;
 
     return (
-        <div id="trivia-question" style={{ textAlign: 'center', width: '80%', margin: '0 auto', paddingTop: '100px' }}>
+        <Box sx={{ textAlign: 'center', width: '80%', margin: '0 auto', paddingTop: {xs: '25px', sm: '75px', md: '75px',} }}>
             {!nextQuestionFlag ? (
                 <>
-                    <h2 className="question">{currentQuestion.question}</h2>
-                    <div className="answers" style={{ display: 'flex', flexDirection: 'column', gap: '10px' }}>
+                    <Typography variant="h3" className="question" sx={{ fontSize: {
+                                        xs: '1.5rem',
+                                        sm: '2rem',
+                                        md: '3rem',
+                                    } }}>
+                        {currentQuestion.question}
+                    </Typography>
+                    <Grid container spacing={2} justifyContent="center" sx={{ mt: 2 }}>
                         {answers.map((answer, index) => (
-                            <button
-                                key={index}
-                                onClick={() => handleAnswerClick(answer)}
-                                className={selectedAnswer === answer ? 'selected' : ''}
-                                style={{ padding: '10px', borderRadius: '5px', textAlign: 'center' }}
-                            >
-                                {answer}
-                            </button>
+                            <Grid item xs={12} sm={12} md={12} key={index}>
+                                <Button
+                                    variant={selectedAnswer === answer ? 'contained' : 'outlined'}
+                                    onClick={() => handleAnswerClick(answer)}
+                                    fullWidth
+                                    sx={{ fontSize: {
+                                        xs: '1rem',
+                                        sm: '1.5rem',
+                                        md: '2rem',
+                                    } }}
+                                >
+                                    {answer}
+                                </Button>
+                            </Grid>
                         ))}
-                    </div>
-                    <button
+                    </Grid>
+                    <Button
                         onClick={handleSkip}
-                        style={{
-                            marginTop: '20px',
-                            padding: '10px 20px',
-                            fontSize: '16px',
-                            backgroundColor: '#FFA500',
-                            color: '#fff',
-                            border: 'none',
-                            borderRadius: '5px',
-                            cursor: 'pointer',
-                        }}
+                        sx={{ mt: 2 }}
+                        variant="contained"
+                        color="warning"
                     >
                         Skip Question
-                    </button>
+                    </Button>
                 </>
             ) : (
-                <div className="feedback" style={{ textAlign: 'center', width: '80%', margin: '0 auto', marginTop: '150px', height: '80vh', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center' }}>
-                    <p>{feedback}</p>
+                <Box className="feedback" sx={{ mt: 4 }}>
+                    <Typography variant="h5">{feedback}</Typography>
                     {currentQuestion?.content_type === 'youtube_video' && (
                         <iframe
                             src={`${currentQuestion.content}&autoplay=1`}
@@ -192,13 +210,20 @@ const TriviaQuestion = ({
                             frameBorder="0"
                             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                             allowFullScreen
-                            style={{ width: '100%', height: '70%' }}
+                            style={{ width: '100%', height: '400px', marginTop: '20px' }}
                         ></iframe>
                     )}
-                    <button onClick={handleNextQuestion} style={{ marginTop: '10px', padding: '10px 20px', fontSize: '16px' }}>Next Question</button>
-                </div>
+                    <Button
+                        onClick={handleNextQuestion}
+                        sx={{ mt: 2 }}
+                        variant="contained"
+                        color="primary"
+                    >
+                        Next Question
+                    </Button>
+                </Box>
             )}
-        </div>
+        </Box>
     );
 };
 
