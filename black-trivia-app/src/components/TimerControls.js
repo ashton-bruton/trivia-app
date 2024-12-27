@@ -1,7 +1,5 @@
-// src/components/TimerControls.js
-
 import React from 'react';
-import '../styles/main.css';
+import { Box, Button } from '@mui/material';
 
 const TimerControls = ({ isTimerRunning, setIsTimerRunning, setTimerReset }) => {
     const handleStartStop = () => {
@@ -15,10 +13,36 @@ const TimerControls = ({ isTimerRunning, setIsTimerRunning, setTimerReset }) => 
     };
 
     return (
-        <div id="timer-controls">
-            <button onClick={handleStartStop}>{isTimerRunning ? 'Stop Timer' : 'Start Timer'}</button>
-            <button onClick={handleReset}>Reset Timer</button>
-        </div>
+        <Box
+            id="timer-controls"
+            sx={{
+                display: 'flex',
+                justifyContent: 'center',
+                alignItems: 'center',
+                gap: 2,
+                marginTop: '20px',
+            }}
+        >
+            {/* Start/Stop Button */}
+            <Button
+                variant="contained"
+                color={isTimerRunning ? 'secondary' : 'primary'}
+                onClick={handleStartStop}
+                sx={{ padding: '10px 20px', fontSize: '16px' }}
+            >
+                {isTimerRunning ? 'Stop Timer' : 'Start Timer'}
+            </Button>
+
+            {/* Reset Button */}
+            <Button
+                variant="outlined"
+                color="error"
+                onClick={handleReset}
+                sx={{ padding: '10px 20px', fontSize: '16px' }}
+            >
+                Reset Timer
+            </Button>
+        </Box>
     );
 };
 

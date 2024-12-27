@@ -1,5 +1,3 @@
-// src/components/Feedback.js
-
 import React from 'react';
 import '../styles/main.css';
 
@@ -11,7 +9,6 @@ const Feedback = ({ feedback, currentQuestion, handleNextQuestion }) => {
                 <iframe
                     src={currentQuestion.content}
                     title="Question Content"
-                    frameBorder="0"
                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                     allowFullScreen
                     className="feedback-iframe"

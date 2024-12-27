@@ -1078,6 +1078,171 @@
         "content_type": "youtube_video",
         "category": ["television", "comedy", "culture"],
         "challenge": 2
+      },
+      {
+        "id": 109,
+        "question": "Who was the first African American to win the Pulitzer Prize for Fiction?",
+        "answer": "Gwendolyn Brooks",
+        "incorrect_answers": ["Toni Morrison", "Alice Walker", "Ralph Ellison"],
+        "content": "",
+        "content_type": "",
+        "category": ["Literature", "History"],
+        "era": "20th Century",
+        "challenge": 3
+      },
+      {
+        "id": 110,
+        "question": "What groundbreaking hip-hop group was formed by DJ Kool Herc in the Bronx in the 1970s?",
+        "answer": "The Herculoids",
+        "incorrect_answers": ["Grandmaster Flash and The Furious Five", "Run-DMC", "A Tribe Called Quest"],
+        "content": "",
+        "content_type": "",
+        "category": ["Music", "Hip Hop", "History"],
+        "era": "20th Century",
+        "challenge": 3
+      },
+      {
+        "id": 111,
+        "question": "Who directed the critically acclaimed film 'Daughters of the Dust,' which influenced Beyoncé's 'Lemonade' visual album?",
+        "answer": "Julie Dash",
+        "incorrect_answers": ["Ava DuVernay", "Spike Lee", "Kasi Lemmons"],
+        "content": "",
+        "content_type": "",
+        "category": ["Film", "History", "Women"],
+        "era": "20th Century",
+        "challenge": 3
+      },
+      {
+        "id": 112,
+        "question": "What was the name of the influential Black arts movement that took place in Harlem during the 1920s and 1930s?",
+        "answer": "Harlem Renaissance",
+        "incorrect_answers": ["Black Power Movement", "Civil Rights Movement", "New Negro Movement"],
+        "content": "",
+        "content_type": "",
+        "category": ["Art", "Literature", "History"],
+        "era": "20th Century",
+        "challenge": 3
+      },
+      {
+        "id": 113,
+        "question": "Who was the first African American ballerina to become a principal dancer at American Ballet Theatre?",
+        "answer": "Misty Copeland",
+        "incorrect_answers": ["Raven Wilkinson", "Virginia Johnson", "Lauren Anderson"],
+        "content": "",
+        "content_type": "",
+        "category": ["Dance", "History"],
+        "era": "21st Century",
+        "challenge": 3
+      },
+        {
+        "id": 114,
+        "question": "What is the name of the historic Black-owned record label founded by Berry Gordy Jr. in Detroit?",
+        "answer": "Motown Records",
+        "incorrect_answers": ["Stax Records", "Chess Records", "Philadelphia International Records"],
+        "content": "",
+        "content_type": "",
+        "category": ["Music", "History", "Business"],
+        "era": "20th Century",
+        "challenge": 1
+      },
+        {
+        "id": 115,
+        "question": "Who wrote the play 'A Raisin in the Sun,' which explores the dreams and struggles of a Black family in Chicago?",
+        "answer": "Lorraine Hansberry",
+        "incorrect_answers": ["August Wilson", "Langston Hughes", "James Baldwin"],
+        "content": "",
+        "content_type": "",
+        "category": ["Theater", "Literature", "History"],
+        "era": "20th Century",
+        "challenge": 3
+      },
+        {
+        "id": 116,
+        "question": "What was the name of the ship that brought the first enslaved Africans to the English colony of Jamestown, Virginia, in 1619?",
+        "answer": "The White Lion",
+        "incorrect_answers": ["The Mayflower", "The Susan Constant", "The Godspeed"],
+        "content": "",
+        "content_type": "",
+        "category": ["History", "Slavery"],
+        "era": "17th Century",
+        "challenge": 3
+      },
+        {
+        "id": 117,
+        "question": "Who is considered the 'Father of Black History' and established Negro History Week (now Black History Month)?",
+        "answer": "Carter G. Woodson",
+        "incorrect_answers": ["W.E.B. Du Bois", "Booker T. Washington", "Marcus Garvey"],
+        "content": "",
+        "content_type": "",
+        "category": ["History", "Education"],
+        "era": "20th Century",
+        "challenge": 3
+      },
+        {
+        "id": 118,
+        "question": "What influential Black feminist and civil rights activist coined the term 'intersectionality'?",
+        "answer": "Kimberlé Crenshaw",
+        "incorrect_answers": ["Angela Davis", "bell hooks", "Patricia Hill Collins"],
+        "content": "",
+        "content_type": "",
+        "category": ["Sociology", "History", "Women"],
+        "era": "20th Century",
+        "challenge": 3
+      },
+        {
+        "id": 119,
+        "question": "Which jazz musician is known for his innovative use of the saxophone and his role in the development of bebop?",
+        "answer": "Charlie Parker",
+        "incorrect_answers": ["John Coltrane", "Miles Davis", "Duke Ellington"],
+        "content": "",
+        "content_type": "",
+        "category": ["Music", "Jazz", "History"],
+        "era": "20th Century",
+        "challenge": 3
+      },
+        {
+        "id": 120,
+        "question": "What was the name of the series of protests and boycotts aimed at desegregating the public transportation system in Montgomery, Alabama?",
+        "answer": "Montgomery Bus Boycott",
+        "incorrect_answers": ["Greensboro Sit-ins", "Freedom Rides", "Selma to Montgomery marches"],
+        "content": "",
+        "content_type": "",
+        "category": ["History", "Civil Rights Movement"],
+        "era": "20th Century",
+        "challenge": 3
+      },
+        {
+        "id": 121,
+        "question": "Who was the first African American to win the Nobel Peace Prize?",
+        "answer": "Ralph Bunche",
+        "incorrect_answers": ["Martin Luther King Jr.", "Desmond Tutu", "Nelson Mandela"],
+        "content": "",
+        "content_type": "",
+        "category": ["History", "Politics"],
+        "era": "20th Century",
+        "challenge": 3
+      },
+        {
+        "id": 122,
+        "question": "What Pan-Africanist organization was founded by Marcus Garvey in 1914?",
+        "answer": "Universal Negro Improvement Association (UNIA)",
+        "incorrect_answers": ["National Association for the Advancement of Colored People (NAACP)", "Southern Christian Leadership Conference (SCLC)", "Student Nonviolent Coordinating Committee (SNCC)"],
+        "content": "",
+        "content_type": "",
+        "category": ["History", "Politics", "Pan-Africanism"],
+        "era": "20th Century",
+        "challenge": 3
+      },
+          {
+        "id": 123,
+        "question": "What genre of music, originating in the late 1960s and early 1970s, combined funk, soul, and psychedelic rock, with artists like Sly and the Family Stone and Parliament-Funkadelic?",
+        "answer": "Funk",
+        "incorrect_answers": ["Disco", "R&B", "Jazz Fusion"],
+        "content": "",
+        "content_type": "",
+        "category": ["Music", "History"],
+        "era": "20th Century",
+        "challenge": 3
       }
   ]
   

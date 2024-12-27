@@ -1,105 +1,201 @@
-// src/components/GameConfig.js
-
 import React, { useState } from 'react';
+import {
+    Box,
+    Button,
+    Container,
+    FormControl,
+    InputLabel,
+    MenuItem,
+    Select,
+    TextField,
+    Typography,
+} from '@mui/material';
 
 const GameConfig = ({ setGameConfig }) => {
     const [team1, setTeam1] = useState('');
     const [team2, setTeam2] = useState('');
     const [gameLength, setGameLength] = useState(1);
+    const [timerDuration, setTimerDuration] = useState(20);
+    const [startingDifficulty, setStartingDifficulty] = useState(1);
+    const [questionType, setQuestionType] = useState('any');
 
     const handleSubmit = (e) => {
         e.preventDefault();
-        const config = {
+        setGameConfig({
             team1: team1 || 'Red',
             team2: team2 || 'Blue',
             gameLength,
-        };
-        console.log("GameConfig Submitted:", config); // Debugging
-        setGameConfig(config);
+            timerDuration,
+            startingDifficulty,
+            questionType,
+        });
     };
-    
 
     return (
-        <div style={{ width: '1040px', paddingTop: '100px' }}>
-            <h1 style={{ textAlign: 'center', marginBottom: '20px' }}>Game Configuration</h1>
-            <form
-                onSubmit={handleSubmit}
-                id="game-config"
-                style={{
-                    display: 'flex',
-                    flexDirection: 'column',
-                    alignItems: 'center',
-                    justifyContent: 'center',
-                    height: '76vh',
-                    width: '50%',
-                    margin: 'auto',
-                    border: '1px solid #ccc',
+        <Box
+            sx={{
+                position: 'relative',
+                minHeight: '100vh',
+                overflow: 'hidden',
+                backgroundColor: 'background.default',
+                display: 'flex',
+                alignItems: 'center',
+                justifyContent: 'center',
+            }}
+        >
+            {/* Animated Background */}
+            <Box
+                sx={{
+                    position: 'absolute',
+                    top: 0,
+                    left: 0,
+                    width: '100%',
+                    height: '100%',
+                    background: `radial-gradient(circle, rgba(63,81,181,0.5) 0%, rgba(255,69,0,0.3) 40%, rgba(0,0,0,0) 80%)`,
+                    animation: 'move 15s linear infinite',
+                    zIndex: 0,
+                    '@keyframes move': {
+                        '0%': { transform: 'translateY(-5%)' },
+                        '50%': { transform: 'translateY(5%)' },
+                        '100%': { transform: 'translateY(-5%)' },
+                    },
+                }}
+            />
+
+            {/* Game Configuration Form */}
+            <Container
+                maxWidth="sm"
+                sx={{
                     padding: '20px',
-                    boxShadow: '0 4px 8px rgba(0, 0, 0, 0.2)',
+                    textAlign: 'center',
+                    backgroundColor: 'background.paper',
+                    boxShadow: '0px 4px 20px rgba(0,0,0,0.4)',
                     borderRadius: '10px',
+                    border: '1px solid',
+                    borderColor: 'primary.main',
+                    position: 'relative',
+                    zIndex: 1,
                 }}
             >
-                <p className="instructions-header">RULES & INSTRUCTIONS</p>
-                <ul className="instructions">
-                    <li>Appoint a team leader and create a team name.</li>
-                    <li>Select the game length: 1, 3, 5, 11, or 21.</li>
-                    <li>The moderator reads the questions and answer choices by default.</li>
-                    <li>Teams can agree to read the questions themselves, but the team lead must still confirm the answer with the moderator.</li>
-                    <li>The active team has 20 seconds to answer the question.</li>
-                    <li>An answer is not official until the team lead confirms it to the moderator.</li>
-                    <li>The active team determines whether to continue to the next question immediately or watch the clips.</li>
-                </ul>
-
-                <label style={{ marginBottom: '10px', width: '80%' }}>
-                    Team 1 Name:
-                    <input
-                        type="text"
-                        value={team1}
-                        onChange={(e) => setTeam1(e.target.value)}
-                        style={{ padding: '5px', fontSize: '16px', width: '100%' }}
-                    />
-                </label>
-                <label style={{ marginBottom: '10px', width: '80%' }}>
-                    Team 2 Name:
-                    <input
-                        type="text"
-                        value={team2}
-                        onChange={(e) => setTeam2(e.target.value)}
-                        style={{ padding: '5px', fontSize: '16px', width: '100%' }}
-                    />
-                </label>
-                <label style={{ marginBottom: '10px', width: '80%' }}>
-                    Game Length:
-                    <select
-                        value={gameLength}
-                        onChange={(e) => setGameLength(parseInt(e.target.value, 10))}
-                        style={{ padding: '5px', fontSize: '16px', width: '100%' }}
+                <Typography variant="h4" color="primary" gutterBottom>
+                    Game Configuration
+                </Typography>
+                <form onSubmit={handleSubmit} id="game-config">
+                    <Box
+                        sx={{
+                            display: 'flex',
+                            flexDirection: 'column',
+                            gap: '20px',
+                            marginBottom: '20px',
+                        }}
                     >
-                        <option value={1}>1</option>
-                        <option value={3}>3</option>
-                        <option value={5}>5</option>
-                        <option value={11}>11</option>
-                        <option value={21}>21</option>
-                    </select>
-                </label>
-                <button
-                    type="submit"
-                    style={{
-                        marginTop: '20px',
-                        padding: '10px 20px',
-                        fontSize: '16px',
-                        backgroundColor: '#007BFF',
-                        color: '#fff',
-                        border: 'none',
-                        borderRadius: '5px',
-                        cursor: 'pointer',
-                        width: '80%',
-                    }}
-                >
-                    Start Game
-                </button>
-            </form>
-        </div>
+                        <TextField
+                            label="Team 1 Name"
+                            variant="outlined"
+                            fullWidth
+                            value={team1}
+                            onChange={(e) => setTeam1(e.target.value)}
+                        />
+                        <TextField
+                            label="Team 2 Name"
+                            variant="outlined"
+                            fullWidth
+                            value={team2}
+                            onChange={(e) => setTeam2(e.target.value)}
+                        />
+                        <FormControl fullWidth>
+                            <InputLabel>Game Length</InputLabel>
+                            <Select
+                                value={gameLength}
+                                onChange={(e) =>
+                                    setGameLength(parseInt(e.target.value, 10))
+                                }
+                                label="Game Length"
+                            >
+                                <MenuItem value={1}>1</MenuItem>
+                                <MenuItem value={3}>3</MenuItem>
+                                <MenuItem value={5}>5</MenuItem>
+                                <MenuItem value={11}>11</MenuItem>
+                                <MenuItem value={21}>21</MenuItem>
+                            </Select>
+                        </FormControl>
+                        <TextField
+                            label="Timer Duration (seconds)"
+                            type="number"
+                            variant="outlined"
+                            fullWidth
+                            value={timerDuration}
+                            onChange={(e) =>
+                                setTimerDuration(parseInt(e.target.value, 10))
+                            }
+                        />
+                        <FormControl fullWidth>
+                            <InputLabel>Starting Difficulty</InputLabel>
+                            <Select
+                                value={startingDifficulty}
+                                onChange={(e) =>
+                                    setStartingDifficulty(parseInt(e.target.value, 10))
+                                }
+                                label="Starting Difficulty"
+                            >
+                                <MenuItem value={1}>Easy</MenuItem>
+                                <MenuItem value={2}>Medium</MenuItem>
+                                <MenuItem value={3}>Hard</MenuItem>
+                            </Select>
+                        </FormControl>
+                        <FormControl fullWidth>
+                            <InputLabel>Question Type</InputLabel>
+                            <Select
+                                value={questionType}
+                                onChange={(e) => setQuestionType(e.target.value)}
+                                label="Question Type"
+                            >
+                                <MenuItem value="any">Any</MenuItem>
+                                <MenuItem value="black-trivia">Black Trivia</MenuItem>
+                                <MenuItem value="sports">Sports</MenuItem>
+                                <MenuItem value="music">Music</MenuItem>
+                                <MenuItem value="politics">Politics</MenuItem>
+                                <MenuItem value="history">History</MenuItem>
+                                <MenuItem value="pop-culture">Pop Culture</MenuItem>
+                                <MenuItem value="literature">Literature</MenuItem>
+                                <MenuItem value="movies">Movies</MenuItem>
+                                <MenuItem value="television">Television</MenuItem>
+                                <MenuItem value="nerd-culture">Nerd Culture</MenuItem>
+                            </Select>
+                        </FormControl>
+                    </Box>
+                    <Button
+                        type="submit"
+                        variant="contained"
+                        color="primary"
+                        fullWidth
+                        sx={{
+                            padding: '10px 20px',
+                            fontSize: '16px',
+                            backgroundImage:
+                                'linear-gradient(to right, #ff5722, #ff9800)',
+                            boxShadow: '0px 4px 6px rgba(255, 87, 34, 0.3)',
+                        }}
+                    >
+                        Start Game
+                    </Button>
+                </form>
+            </Container>
+
+            {/* Footer */}
+            {/* <Box
+                component="footer"
+                sx={{
+                    position: 'absolute',
+                    bottom: '10px',
+                    right: '10px',
+                    fontSize: '12px',
+                    color: 'text.secondary',
+                }}
+            >
+                Project Blvckjvck: Trivia 2024
+            </Box> */}
+        </Box>
     );
 };
 
