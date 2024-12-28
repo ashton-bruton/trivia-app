@@ -21,7 +21,7 @@ const Scoreboard = ({ timer, gameConfig, currentTeam, scores }) => {
                 boxShadow: '0px 4px 6px rgba(0, 0, 0, 0.1)',
                 position: 'sticky',
                 top: 0,
-                zIndex: 10,
+                zIndex: 1000, // Higher z-index to ensure it appears above other elements
             }}
         >
             {/* Team 1 Score */}

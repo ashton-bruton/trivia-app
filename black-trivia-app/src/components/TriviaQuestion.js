@@ -70,24 +70,36 @@ const TriviaQuestion = ({
 
     // Determine difficulty level
     const determineDifficulty = () => {
-        if (gameConfig?.startingDifficulty) return gameConfig.startingDifficulty;
-
+        if (gameConfig?.startingDifficulty) {
+            return gameConfig.startingDifficulty;
+        }
+    
         const totalQuestions = gameConfig?.gameLength || questionPool.length;
         const progress = askedQuestions.length / totalQuestions;
-
+    
         if (progress < 0.33) return 1; // Start easy
         if (progress < 0.66) return 2; // Move to medium
         return 3; // End with hard
-    };
+    };    
 
     // Select a random question based on difficulty and exclude `askedQuestions`
     useEffect(() => {
         if (!nextQuestionFlag) {
-            const difficulty = determineDifficulty();
-            const availableQuestions = questionPool.filter(
-                (q) => q.challenge === difficulty && !askedQuestions.includes(`${q.filename}-${q.id}`)
-            );
-
+            let availableQuestions;
+    
+            if (gameConfig?.startingDifficulty === 0) {
+                // If "any" difficulty, allow all difficulties
+                availableQuestions = questionPool.filter(
+                    (q) => !askedQuestions.includes(`${q.filename}-${q.id}`)
+                );
+            } else {
+                // Filter based on the current difficulty
+                const difficulty = determineDifficulty();
+                availableQuestions = questionPool.filter(
+                    (q) => q.challenge === difficulty && !askedQuestions.includes(`${q.filename}-${q.id}`)
+                );
+            }
+    
             if (availableQuestions.length > 0) {
                 const randomIndex = Math.floor(Math.random() * availableQuestions.length);
                 const question = availableQuestions[randomIndex];
@@ -98,6 +110,7 @@ const TriviaQuestion = ({
             }
         }
     }, [nextQuestionFlag, askedQuestions, questionPool]);
+    
 
     // Load questions on game start or when question type changes
     useEffect(() => {

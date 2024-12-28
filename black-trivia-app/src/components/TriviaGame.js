@@ -27,7 +27,7 @@ const TriviaGame = ({
         const timestamp = localStorage.getItem('askedQuestionsTimestamp');
         if (savedQuestions.length > 0 && timestamp) {
             const now = Date.now();
-            if (now - parseInt(timestamp, 10) < 5 * 60 * 60 * 1000) {
+            if (now - parseInt(timestamp, 10) < 2 * 60 * 60 * 1000) {
                 setAskedQuestions(savedQuestions);
             } else {
                 localStorage.removeItem('askedQuestions');
