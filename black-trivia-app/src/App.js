@@ -11,71 +11,92 @@ const App = () => {
     const [scores, setScores] = useState({ team1: 0, team2: 0 });
 
     return (
-        <Container
-            maxWidth="lg"
+        <Box
             sx={{
-                padding: '20px',
+                height: '100vh',
                 display: 'flex',
                 flexDirection: 'column',
-                alignItems: 'center',
-                justifyContent: 'center',
-                height: '100vh',
-                textAlign: 'center',
-                position: 'relative',
                 background: 'linear-gradient(135deg, #1c1c1e, #343a40)',
                 backgroundImage: `url('/path-to-your-image.jpg')`,
                 backgroundSize: 'cover',
                 backgroundRepeat: 'no-repeat',
                 backgroundPosition: 'center',
                 color: 'white',
+                overflow: 'hidden', // Ensures no extra content spills
             }}
         >
-            <Box
-                id="page-wrapper"
-                sx={{
-                    width: '100%',
-                    display: 'flex',
-                    flexDirection: 'column',
-                    gap: '20px',
-                    backgroundColor: 'rgba(0, 0, 0, 0.7)', // Semi-transparent overlay
-                    borderRadius: '10px',
-                    padding: '20px',
-                }}
-            >
-                {gameConfig && (
+            {/* Sticky Scoreboard */}
+            {gameConfig && (
+                <Box
+                    sx={{
+                        position: 'sticky',
+                        top: 0,
+                        zIndex: 10,
+                        width: '100%',
+                        backgroundColor: 'rgba(0, 0, 0, 0.85)', // Semi-transparent backdrop for clarity
+                        boxShadow: '0px 4px 6px rgba(0, 0, 0, 0.3)', // Add slight shadow
+                    }}
+                >
                     <Scoreboard
                         timer={timer}
                         gameConfig={gameConfig}
                         currentTeam={currentTeam}
                         scores={scores}
                     />
-                )}
-                <TriviaGame
-                    setGameConfig={setGameConfig}
-                    timer={timer}
-                    setTimer={setTimer}
-                    isTimerRunning={isTimerRunning}
-                    setIsTimerRunning={setIsTimerRunning}
-                    currentTeam={currentTeam}
-                    setCurrentTeam={setCurrentTeam}
-                    scores={scores}
-                    setScores={setScores}
-                />
+                </Box>
+            )}
+
+            {/* Main Content */}
+            <Box
+                sx={{
+                    flex: 1,
+                    overflowY: 'auto', // Allows scrolling for main content
+                    display: 'flex',
+                    justifyContent: 'center',
+                    alignItems: 'center',
+                    padding: '20px',
+                }}
+            >
+                <Container
+                    maxWidth="lg"
+                    sx={{
+                        display: 'flex',
+                        flexDirection: 'column',
+                        gap: '20px',
+                        backgroundColor: 'rgba(0, 0, 0, 0.7)', // Semi-transparent overlay for readability
+                        borderRadius: '10px',
+                        padding: '20px',
+                        width: '100%',
+                        textAlign: 'center',
+                    }}
+                >
+                    <TriviaGame
+                        setGameConfig={setGameConfig}
+                        timer={timer}
+                        setTimer={setTimer}
+                        isTimerRunning={isTimerRunning}
+                        setIsTimerRunning={setIsTimerRunning}
+                        currentTeam={currentTeam}
+                        setCurrentTeam={setCurrentTeam}
+                        scores={scores}
+                        setScores={setScores}
+                    />
+                </Container>
             </Box>
+
             {/* Footer */}
             <Box
                 component="footer"
                 sx={{
-                    position: 'absolute',
-                    bottom: '10px',
-                    right: '70px',
+                    textAlign: 'right',
+                    padding: '10px 20px',
                     fontSize: '12px',
                     color: 'text.secondary',
                 }}
             >
                 Project Blvckjvck: Trivia 2024
             </Box>
-        </Container>
+        </Box>
     );
 };
 

@@ -16,7 +16,7 @@ const GameConfig = ({ setGameConfig }) => {
     const [team2, setTeam2] = useState('');
     const [gameLength, setGameLength] = useState(1);
     const [timerDuration, setTimerDuration] = useState(20);
-    const [startingDifficulty, setStartingDifficulty] = useState(1);
+    const [startingDifficulty, setStartingDifficulty] = useState(0);
     const [questionType, setQuestionType] = useState('any');
 
     const handleSubmit = (e) => {
@@ -35,7 +35,7 @@ const GameConfig = ({ setGameConfig }) => {
         <Box
             sx={{
                 position: 'relative',
-                minHeight: '100vh',
+                minHeight: '83vh',
                 overflow: 'hidden',
                 backgroundColor: 'background.default',
                 display: 'flex',
@@ -138,6 +138,7 @@ const GameConfig = ({ setGameConfig }) => {
                                 }
                                 label="Starting Difficulty"
                             >
+                                <MenuItem value={0}>Any</MenuItem>
                                 <MenuItem value={1}>Easy</MenuItem>
                                 <MenuItem value={2}>Medium</MenuItem>
                                 <MenuItem value={3}>Hard</MenuItem>
@@ -181,20 +182,6 @@ const GameConfig = ({ setGameConfig }) => {
                     </Button>
                 </form>
             </Container>
-
-            {/* Footer */}
-            {/* <Box
-                component="footer"
-                sx={{
-                    position: 'absolute',
-                    bottom: '10px',
-                    right: '10px',
-                    fontSize: '12px',
-                    color: 'text.secondary',
-                }}
-            >
-                Project Blvckjvck: Trivia 2024
-            </Box> */}
         </Box>
     );
 };
