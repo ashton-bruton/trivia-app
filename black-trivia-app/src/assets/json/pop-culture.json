@@ -1,1102 +1,1849 @@
 [
-    {
-      "id": 1,
-      "question": "Who sings 'Like a Virgin'?",
-      "answer": "Madonna",
-      "incorrect_answers": ["Cyndi Lauper", "Whitney Houston", "Paula Abdul"],
-      "content": "",
-      "content_type": "",
-      "category": ["Music", "Pop"],
-      "era": "1980s",
-      "challenge": 1
-    },
-    {
-      "id": 2,
-      "question": "What is the name of Harry Potter's owl?",
-      "answer": "Hedwig",
-      "incorrect_answers": ["Crookshanks", "Scabbers", "Pigwidgeon"],
-      "content": "",
-      "content_type": "",
-      "category": ["Film", "Books", "Fantasy"],
-      "era": "2000s",
-      "challenge": 1
-    },
-    {
-      "id": 3,
-      "question": "Who played Jack Dawson in 'Titanic'?",
-      "answer": "Leonardo DiCaprio",
-      "incorrect_answers": ["Brad Pitt", "Matt Damon", "Tom Cruise"],
-      "content": "",
-      "content_type": "",
-      "category": ["Film", "Romance", "Drama"],
-      "era": "1990s",
-      "challenge": 1
-    },
-    {
-      "id": 4,
-      "question": "What is the name of the Simpsons' town?",
-      "answer": "Springfield",
-      "incorrect_answers": ["Shelbyville", "Capital City", "Ogdenville"],
-      "content": "",
-      "content_type": "",
-      "category": ["Television", "Animation", "Comedy"],
-      "era": "1980s-Present",
-      "challenge": 1
-    },
-    {
-      "id": 5,
-      "question": "Who is known as the 'King of Pop'?",
-      "answer": "Michael Jackson",
-      "incorrect_answers": ["Prince", "Elvis Presley", "Stevie Wonder"],
-      "content": "",
-      "content_type": "",
-      "category": ["Music", "Pop"],
-      "era": "1980s-1990s",
-      "challenge": 1
-    },
-      {
-      "id": 6,
-      "question": "What is the name of the superhero played by Robert Downey Jr. in the Marvel Cinematic Universe?",
-      "answer": "Iron Man",
-      "incorrect_answers": ["Captain America", "Thor", "Hulk"],
-      "content": "",
-      "content_type": "",
-      "category": ["Film", "Superheroes"],
-      "era": "2000s-2010s",
-      "challenge": 1
-    },
-      {
-      "id": 7,
-      "question": "Which band released the album 'Nevermind'?",
-      "answer": "Nirvana",
-      "incorrect_answers": ["Pearl Jam", "Soundgarden", "Alice in Chains"],
-      "content": "",
-      "content_type": "",
-      "category": ["Music", "Grunge"],
-      "era": "1990s",
-      "challenge": 1
-    },
-      {
-      "id": 8,
-      "question": "Who directed the movie 'Jurassic Park'?",
-      "answer": "Steven Spielberg",
-      "incorrect_answers": ["James Cameron", "George Lucas", "Ridley Scott"],
-      "content": "",
-      "content_type": "",
-      "category": ["Film", "Science Fiction", "Action"],
-      "era": "1990s",
-      "challenge": 1
-    },
-      {
-      "id": 9,
-      "question": "What is the name of the main character in the 'Tomb Raider' video game series?",
-      "answer": "Lara Croft",
-      "incorrect_answers": ["Jill Valentine", "Samus Aran", "Chun-Li"],
-      "content": "",
-      "content_type": "",
-      "category": ["Video Games", "Action-Adventure"],
-      "era": "1990s-Present",
-      "challenge": 1
-    },
-      {
-      "id": 10,
-      "question": "Which TV show features a group of friends living in New York City?",
-      "answer": "Friends",
-      "incorrect_answers": ["Seinfeld", "Frasier", "Cheers"],
-      "content": "",
-      "content_type": "",
-      "category": ["Television", "Sitcom", "Comedy"],
-      "era": "1990s",
-      "challenge": 1
-    },
-      {
-      "id": 11,
-      "question": "Who sang 'Bohemian Rhapsody'?",
-      "answer": "Queen",
-      "incorrect_answers": ["The Rolling Stones", "Led Zeppelin", "The Who"],
-      "content": "",
-      "content_type": "",
-      "category": ["Music", "Rock"],
-      "era": "1970s",
-      "challenge": 1
-    },
-      {
-      "id": 12,
-      "question": "What is the name of the spaceship in 'Star Trek'?",
-      "answer": "Enterprise",
-      "incorrect_answers": ["Millennium Falcon", "Serenity", "Death Star"],
-      "content": "",
-      "content_type": "",
-      "category": ["Television", "Film", "Science Fiction"],
-      "era": "1960s-Present",
-      "challenge": 1
-    },
-      {
-      "id": 13,
-      "question": "Who painted the Mona Lisa?",
-      "answer": "Leonardo da Vinci",
-      "incorrect_answers": ["Michelangelo", "Raphael", "Donatello"],
-      "content": "",
-      "content_type": "",
-      "category": ["Art", "History"],
-      "era": "Renaissance",
-      "challenge": 2
-    },
-      {
-      "id": 14,
-      "question": "What is the name of the yellow cartoon family created by Matt Groening?",
-      "answer": "The Simpsons",
-      "incorrect_answers": ["Family Guy", "South Park", "The Flintstones"],
-      "content": "",
-      "content_type": "",
-      "category": ["Television", "Animation", "Comedy"],
-      "era": "1980s-Present",
-      "challenge": 1
-    },
-      {
-      "id": 15,
-      "question": "Which singer is known for wearing elaborate costumes and performing as Ziggy Stardust?",
-      "answer": "David Bowie",
-      "incorrect_answers": ["Elton John", "Freddie Mercury", "Mick Jagger"],
-      "content": "",
-      "content_type": "",
-      "category": ["Music", "Rock", "Glam Rock"],
-      "era": "1970s",
-      "challenge": 2
-    },
-      {
-      "id": 16,
-      "question": "What is the name of the social media platform where users share photos and videos?",
-      "answer": "Instagram",
-      "incorrect_answers": ["Twitter", "Facebook", "TikTok"],
-      "content": "",
-      "content_type": "",
-      "category": ["Social Media", "Technology"],
-      "era": "2010s-Present",
-      "challenge": 1
-    },
-      {
-      "id": 17,
-      "question": "Which actress played Hermione Granger in the Harry Potter films?",
-      "answer": "Emma Watson",
-      "incorrect_answers": ["Bonnie Wright", "Evanna Lynch", "Maggie Smith"],
-      "content": "",
-      "content_type": "",
-      "category": ["Film", "Celebrity"],
-      "era": "2000s",
-      "challenge": 1
-    },
-      {
-      "id": 18,
-      "question": "Who directed the movie 'Pulp Fiction'?",
-      "answer": "Quentin Tarantino",
-      "incorrect_answers": ["Martin Scorsese", "Christopher Nolan", "David Fincher"],
-      "content": "",
-      "content_type": "",
-      "category": ["Film", "Crime", "Drama"],
-      "era": "1990s",
-      "challenge": 2
-    },
-    {
-        "id": 19,
-        "question": "Which video game features a plumber named Mario?",
-        "answer": "Super Mario Bros.",
-        "incorrect_answers": ["Sonic the Hedgehog", "The Legend of Zelda", "Pac-Man"],
-        "content": "",
-        "content_type": "",
-        "category": ["Video Games", "Platformer"],
-        "era": "1980s-Present",
-        "challenge": 1
-      },
-      {
-        "id": 20,
-        "question": "Who is the host of 'The Tonight Show'?",
-        "answer": "Jimmy Fallon",
-        "incorrect_answers": ["Stephen Colbert", "Jimmy Kimmel", "Conan O'Brien"],
-        "content": "",
-        "content_type": "",
-        "category": ["Television", "Talk Show"],
-        "era": "2010s-Present",
-        "challenge": 1
-      },
-      {
-        "id": 21,
-        "question": "What is the name of Beyoncé's fan base?",
-        "answer": "BeyHive",
-        "incorrect_answers": ["Little Monsters", "Selenators", "Swifties"],
-        "content": "",
-        "content_type": "",
-        "category": ["Music", "Celebrity"],
-        "era": "2000s-Present",
-        "challenge": 2
-      },
-      {
-        "id": 22,
-        "question": "Which movie features a hobbit named Frodo Baggins?",
-        "answer": "The Lord of the Rings: The Fellowship of the Ring",
-        "incorrect_answers": ["The Chronicles of Narnia", "Harry Potter and the Sorcerer's Stone", "Eragon"],
-        "content": "",
-        "content_type": "",
-        "category": ["Film", "Fantasy", "Adventure"],
-        "era": "2000s",
-        "challenge": 1
-      },
-      {
-        "id": 23,
-        "question": "Who is the lead singer of the band Maroon 5?",
-        "answer": "Adam Levine",
-        "incorrect_answers": ["Chris Martin", "Justin Timberlake", "Bruno Mars"],
-        "content": "",
-        "content_type": "",
-        "category": ["Music", "Pop"],
-        "era": "2000s-Present",
-        "challenge": 1
-      },
-      {
-        "id": 24,
-        "question": "What is the name of the main character in the 'Grand Theft Auto' series?",
-        "answer": "Varies by game (e.g., CJ, Niko, Michael, Franklin)",
-        "incorrect_answers": ["Master Chief", "Solid Snake", "Link"],
-        "content": "",
-        "content_type": "",
-        "category": ["Video Games", "Action-Adventure"],
-        "era": "1990s-Present",
-        "challenge": 2
-      },
-      {
-        "id": 25,
-        "question": "Which TV show is about a high school chemistry teacher who turns to cooking meth?",
-        "answer": "Breaking Bad",
-        "incorrect_answers": ["Dexter", "The Wire", "Ozark"],
-        "content": "",
-        "content_type": "",
-        "category": ["Television", "Drama", "Crime"],
-        "era": "2000s-2010s",
-        "challenge": 2
-      },
-      {
-        "id": 26,
-        "question": "Who is known for the song 'Single Ladies (Put a Ring on It)'?",
-        "answer": "Beyoncé",
-        "incorrect_answers": ["Rihanna", "Lady Gaga", "Katy Perry"],
-        "content": "",
-        "content_type": "",
-        "category": ["Music", "R&B", "Pop"],
-        "era": "2000s-Present",
-        "challenge": 1
-      },
-        {
-        "id": 27,
-        "question": "Which actor played the role of Joker in 'The Dark Knight'?",
-        "answer": "Heath Ledger",
-        "incorrect_answers": ["Jack Nicholson", "Joaquin Phoenix", "Jared Leto"],
-        "content": "",
-        "content_type": "",
-        "category": ["Film", "Superheroes", "Drama"],
-        "era": "2000s",
-        "challenge": 2
-      },
-        {
-        "id": 28,
-        "question": "What is the name of the popular dance move involving crossing your arms and swinging them back and forth?",
-        "answer": "The Dab",
-        "incorrect_answers": ["The Macarena", "The Twist", "The Moonwalk"],
-        "content": "",
-        "content_type": "",
-        "category": ["Dance", "Internet Culture"],
-        "era": "2010s",
-        "challenge": 2
-      },
-      {
-        "id": 29,
-        "question": "Which social media app is known for short-form videos?",
-        "answer": "TikTok",
-        "incorrect_answers": ["Facebook", "Twitter", "Instagram"],
-        "content": "",
-        "content_type": "",
-        "category": ["Social Media", "Technology"],
-        "era": "2010s-Present",
-        "challenge": 1
-      },
-        {
-        "id": 30,
-        "question": "Who is known as the 'Material Girl'?",
-        "answer": "Madonna",
-        "incorrect_answers": ["Cher", "Cyndi Lauper", "Janet Jackson"],
-        "content": "",
-        "content_type": "",
-        "category": ["Music", "Pop"],
-        "era": "1980s-Present",
-        "challenge": 1
-      },
-        {
-        "id": 31,
-        "question": "What is the name of the main character in the 'Indiana Jones' film series?",
-        "answer": "Indiana Jones",
-        "incorrect_answers": ["Han Solo", "Luke Skywalker", "Rick Deckard"],
-        "content": "",
-        "content_type": "",
-        "category": ["Film", "Adventure", "Action"],
-        "era": "1980s-Present",
-        "challenge": 1
-      },
-        {
-        "id": 32,
-        "question": "Which singer is known for their song 'Rolling in the Deep'?",
-        "answer": "Adele",
-        "incorrect_answers": ["Amy Winehouse", "Sia", "Lady Gaga"],
-        "content": "",
-        "content_type": "",
-        "category": ["Music", "Pop", "Soul"],
-        "era": "2010s",
-        "challenge": 1
-      },
-        {
-        "id": 33,
-        "question": "What is the name of the popular battle royale video game?",
-        "answer": "Fortnite",
-        "incorrect_answers": ["Call of Duty", "Halo", "Minecraft"],
-        "content": "",
-        "content_type": "",
-        "category": ["Video Games", "Battle Royale"],
-        "era": "2010s-Present",
-        "challenge": 1
-      },
-        {
-        "id": 34,
-        "question": "Which TV show is about a group of survivors on a mysterious island?",
-        "answer": "Lost",
-        "incorrect_answers": ["Prison Break", "24", "The X-Files"],
-        "content": "",
-        "content_type": "",
-        "category": ["Television", "Drama", "Mystery"],
-        "era": "2000s",
-        "challenge": 2
-      },
-        {
-        "id": 35,
-        "question": "Who is known for the song 'Like a Rolling Stone'?",
-        "answer": "Bob Dylan",
-        "incorrect_answers": ["The Beatles", "The Rolling Stones", "Jimi Hendrix"],
-        "content": "",
-        "content_type": "",
-        "category": ["Music", "Rock", "Folk"],
-        "era": "1960s",
-        "challenge": 2
-      },
-      {
-        "id": 36,
-        "question": "What is the name of the wizard played by Ian McKellen in 'The Lord of the Rings' and 'The Hobbit'?",
-        "answer": "Gandalf",
-        "incorrect_answers": ["Dumbledore", "Merlin", "Saruman"],
-        "content": "",
-        "content_type": "",
-        "category": ["Film", "Fantasy"],
-        "era": "2000s-2010s",
-        "challenge": 1
-    },
-    {
-        "id": 37,
-        "question": "Which singer is known for their powerful voice and the song 'Respect'?",
-        "answer": "Aretha Franklin",
-        "incorrect_answers": ["Tina Turner", "Etta James", "Gladys Knight"],
-        "content": "",
-        "content_type": "",
-        "category": ["Music", "Soul", "R&B"],
-        "era": "1960s-1970s",
-        "challenge": 2
-    },
-    {
-        "id": 38,
-        "question": "What is the name of the popular video game featuring a blue hedgehog?",
-        "answer": "Sonic the Hedgehog",
-        "incorrect_answers": ["Mario", "Crash Bandicoot", "Spyro the Dragon"],
-        "content": "",
-        "content_type": "",
-        "category": ["Video Games", "Platformer"],
-        "era": "1990s-Present",
-        "challenge": 1
-    },
-    {
-        "id": 39,
-        "question": "Which TV show is about a group of doctors working in a Seattle hospital?",
-        "answer": "Grey's Anatomy",
-        "incorrect_answers": ["ER", "House", "Chicago Hope"],
-        "content": "",
-        "content_type": "",
-        "category": ["Television", "Medical Drama"],
-        "era": "2000s-Present",
-        "challenge": 1
-    },
-    {
-        "id": 40,
-        "question": "Who is known for the album 'Songs in the Key of Life'?",
-        "answer": "Stevie Wonder",
-        "incorrect_answers": ["Prince", "Michael Jackson", "Lionel Richie"],
-        "content": "",
-        "content_type": "",
-        "category": ["Music", "Pop"],
-        "era": "1980s",
-        "challenge": 1
-    },
-    {
-        "id": 41,
-        "question": "Which movie features a young boy who befriends an alien?",
-        "answer": "E.T. the Extra-Terrestrial",
-        "incorrect_answers": ["Close Encounters of the Third Kind", "Star Wars", "Independence Day"],
-        "content": "",
-        "content_type": "",
-        "category": ["Film", "Science Fiction"],
-        "era": "1980s",
-        "challenge": 1
-    },
-    {
-        "id": 42,
-        "question": "Who is the lead singer of the band Coldplay?",
-        "answer": "Chris Martin",
-        "incorrect_answers": ["Bono", "Thom Yorke", "Dave Grohl"],
-        "content": "",
-        "content_type": "",
-        "category": ["Music", "Rock", "Pop"],
-        "era": "2000s-Present",
-        "challenge": 1
-    },
-    {
-        "id": 43,
-        "question": "What is the name of the popular online streaming service for movies and TV shows?",
-        "answer": "Netflix",
-        "incorrect_answers": ["Hulu", "Amazon Prime Video", "Disney+"],
-        "content": "",
-        "content_type": "",
-        "category": ["Streaming", "Television", "Film"],
-        "era": "2000s-Present",
-        "challenge": 1
-    },
-    {
-        "id": 44,
-        "question": "Which TV show is about a group of teenagers solving mysteries in Sunnydale, California?",
-        "answer": "Buffy the Vampire Slayer",
-        "incorrect_answers": ["Charmed", "Smallville", "Supernatural"],
-        "content": "",
-        "content_type": "",
-        "category": ["Television", "Supernatural", "Drama"],
-        "era": "1990s-2000s",
-        "challenge": 2
-    },
-    {
-        "id": 45,
-        "question": "Who is known for the song 'Johnny B. Goode'?",
-        "answer": "Chuck Berry",
-        "incorrect_answers": ["Elvis Presley", "Little Richard", "Buddy Holly"],
-        "content": "",
-        "content_type": "",
-        "category": ["Music", "Rock and Roll"],
-        "era": "1950s",
-        "challenge": 2
-    },
-    {
-        "id": 46,
-        "question": "Which movie features a time-traveling DeLorean car?",
-        "answer": "Back to the Future",
-        "incorrect_answers": ["The Terminator", "Timecop", "Primer"],
-        "content": "",
-        "content_type": "",
-        "category": ["Film", "Science Fiction", "Comedy"],
-        "era": "1980s",
-        "challenge": 1
-    },
-    {
-        "id": 47,
-        "question": "Who is the lead singer of the band U2?",
-        "answer": "Bono",
-        "incorrect_answers": ["Sting", "Robert Plant", "Mick Jagger"],
-        "content": "",
-        "content_type": "",
-        "category": ["Music", "Rock"],
-        "era": "1980s-Present",
-        "challenge": 1
-    },
-    {
-        "id": 48,
-        "question": "What is the name of the popular online video-sharing platform?",
-        "answer": "YouTube",
-        "incorrect_answers": ["Vimeo", "Dailymotion", "Twitch"],
-        "content": "",
-        "content_type": "",
-        "category": ["Internet", "Video Sharing"],
-        "era": "2000s-Present",
-        "challenge": 1
-    },
-    {
-        "id": 49,
-        "question": "Which TV show is about a group of friends working at a paper company in Scranton, Pennsylvania?",
-        "answer": "The Office",
-        "incorrect_answers": ["Parks and Recreation", "30 Rock", "Community"],
-        "content": "",
-        "content_type": "",
-        "category": ["Television", "Comedy", "Mockumentary"],
-        "era": "2000s",
-        "challenge": 1
-    },
-    {
-        "id": 50,
-        "question": "Who is known for the song 'Purple Rain'?",
-        "answer": "Prince",
-        "incorrect_answers": ["Jimi Hendrix", "David Bowie", "Michael Jackson"],
-        "content": "",
-        "content_type": "",
-        "category": ["Music", "Rock", "Pop", "Funk"],
-        "era": "1980s",
-        "challenge": 2
-    },
-        {
-        "id": 51,
-        "question": "Which film features a young wizard attending Hogwarts School of Witchcraft and Wizardry?",
-        "answer": "Harry Potter and the Sorcerer's Stone",
-        "incorrect_answers": ["The Lord of the Rings", "The Chronicles of Narnia", "Percy Jackson & the Olympians"],
-        "content": "",
-        "content_type": "",
-        "category": ["Film", "Fantasy", "Adventure"],
-        "era": "2000s",
-        "challenge": 1
-    },
-    {
-        "id": 52,
-        "question": "Who is the lead singer of the band The Rolling Stones?",
-        "answer": "Mick Jagger",
-        "incorrect_answers": ["Paul McCartney", "Roger Daltrey", "David Bowie"],
-        "content": "",
-        "content_type": "",
-        "category": ["Music", "Rock"],
-        "era": "1960s-Present",
-        "challenge": 1
-    },
-    {
-        "id": 53,
-        "question": "What is the name of the popular building block toy?",
-        "answer": "LEGO",
-        "incorrect_answers": ["K'Nex", "Mega Bloks", "Lincoln Logs"],
-        "content": "",
-        "content_type": "",
-        "category": ["Toys", "Childhood"],
-        "era": "1930s-Present",
-        "challenge": 1
-    },
-    {
-        "id": 54,
-        "question": "Which animated film features a lion cub named Simba?",
-        "answer": "The Lion King",
-        "incorrect_answers": ["Finding Nemo", "Toy Story", "Shrek"],
-        "content": "",
-        "content_type": "",
-        "category": ["Film", "Animation", "Family"],
-        "era": "1990s",
-        "challenge": 1
-    },
-    {
-        "id": 55,
-        "question": "Who is known for the song 'Hey Jude'?",
-        "answer": "The Beatles",
-        "incorrect_answers": ["The Rolling Stones", "The Who", "The Kinks"],
-        "content": "",
-        "content_type": "",
-        "category": ["Music", "Rock", "Pop"],
-        "era": "1960s",
-        "challenge": 1
-    },
-    {
-        "id": 56,
-        "question": "Which science fiction film features a robot named R2-D2?",
-        "answer": "Star Wars: A New Hope",
-        "incorrect_answers": ["Star Trek", "E.T.", "Back to the Future"],
-        "content": "",
-        "content_type": "",
-        "category": ["Film", "Science Fiction", "Action"],
-        "era": "1970s",
-        "challenge": 1
-    },
-    {
-        "id": 57,
-        "question": "Who is the host of the game show 'Jeopardy!'?",
-        "answer": "Ken Jennings",
-        "incorrect_answers": ["Alex Trebek", "Pat Sajak", "Vanna White"],
-        "content": "",
-        "content_type": "",
-        "category": ["Television", "Game Show"],
-        "era": "1960s-Present",
-        "challenge": 1
-    },
-    {
-        "id": 58,
-        "question": "What is the name of the popular handheld gaming device created by Nintendo?",
-        "answer": "Nintendo Switch",
-        "incorrect_answers": ["PlayStation Portable", "Game Boy", "Xbox Portable"],
-        "content": "",
-        "content_type": "",
-        "category": ["Video Games", "Consoles"],
-        "era": "2010s-Present",
-        "challenge": 1
-    },
-    {
-        "id": 59,
-        "question": "Which TV show is about a group of teenagers dealing with supernatural events in Hawkins, Indiana?",
-        "answer": "Stranger Things",
-        "incorrect_answers": ["Riverdale", "Teen Wolf", "The Vampire Diaries"],
-        "content": "",
-        "content_type": "",
-        "category": ["Television", "Science Fiction", "Horror"],
-        "era": "2010s-Present",
-        "challenge": 2
-    },
-    {
-        "id": 60,
-        "question": "Who is known for the song 'Like a Prayer'?",
-        "answer": "Madonna",
-        "incorrect_answers": ["Cyndi Lauper", "Whitney Houston", "Janet Jackson"],
-        "content": "",
-        "content_type": "",
-        "category": ["Music", "Pop"],
-        "era": "1980s",
-        "challenge": 1
-    },
-        {
-        "id": 61,
-        "question": "Which film features a group of dinosaurs brought back to life in a theme park?",
-        "answer": "Jurassic Park",
-        "incorrect_answers": ["King Kong", "Godzilla", "The Land Before Time"],
-        "content": "",
-        "content_type": "",
-        "category": ["Film", "Science Fiction", "Action"],
-        "era": "1990s",
-        "challenge": 1
-    },
-    {
-        "id": 62,
-        "question": "Who is the lead singer of the band Aerosmith?",
-        "answer": "Steven Tyler",
-        "incorrect_answers": ["Jon Bon Jovi", "Axl Rose", "David Lee Roth"],
-        "content": "",
-        "content_type": "",
-        "category": ["Music", "Rock"],
-        "era": "1970s-Present",
-        "challenge": 1
-    },
-    {
-        "id": 63,
-        "question": "What is the name of the popular online marketplace for buying and selling goods?",
-        "answer": "eBay",
-        "incorrect_answers": ["Amazon", "Etsy", "Craigslist"],
-        "content": "",
-        "content_type": "",
-        "category": ["Internet", "E-commerce"],
-        "era": "1990s-Present",
-        "challenge": 1
-    },
-    {
-        "id": 64,
-        "question": "Which TV show is about a group of friends living in Pasadena, California, and working at Caltech?",
-        "answer": "The Big Bang Theory",
-        "incorrect_answers": ["Friends", "How I Met Your Mother", "Seinfeld"],
-        "content": "",
-        "content_type": "",
-        "category": ["Television", "Sitcom", "Comedy"],
-        "era": "2000s-2010s",
-        "challenge": 1
-    },
-    {
-        "id": 65,
-        "question": "Who is known for the song 'Sweet Child o' Mine'?",
-        "answer": "Guns N' Roses",
-        "incorrect_answers": ["Bon Jovi", "Def Leppard", "Poison"],
-        "content": "",
-        "content_type": "",
-        "category": ["Music", "Hard Rock"],
-        "era": "1980s",
-        "challenge": 2
-    },
-    {
-        "id": 66,
-        "question": "Which film features a young boy named Kevin McCallister who is accidentally left home alone at Christmas?",
-        "answer": "Home Alone",
-        "incorrect_answers": ["The Santa Clause", "Elf", "A Christmas Story"],
-        "content": "",
-        "content_type": "",
-        "category": ["Film", "Comedy", "Family"],
-        "era": "1990s",
-        "challenge": 1
-    },
-    {
-        "id": 67,
-        "question": "Who is the lead singer of the band Queen?",
-        "answer": "Freddie Mercury",
-        "incorrect_answers": ["David Bowie", "Elton John", "Mick Jagger"],
-        "content": "",
-        "content_type": "",
-        "category": ["Music", "Rock"],
-        "era": "1970s-1980s",
-        "challenge": 1
-    },
-    {
-        "id": 68,
-        "question": "What is the name of the popular online encyclopedia?",
-        "answer": "Wikipedia",
-        "incorrect_answers": ["Britannica", "Encarta", "World Book"],
-        "content": "",
-        "content_type": "",
-        "category": ["Internet", "Reference"],
-        "era": "2000s-Present",
-        "challenge": 1
-    },
-    {
-        "id": 69,
-        "question": "Which TV show is about a group of detectives solving crimes in New York City?",
-        "answer": "Law & Order",
-        "incorrect_answers": ["CSI", "NCIS", "Criminal Minds"],
-        "content": "",
-        "content_type": "",
-        "category": ["Television", "Crime", "Drama"],
-        "era": "1990s-Present",
-        "challenge": 1
-    },
-    {
-        "id": 70,
-        "question": "Who is known for the song 'Smells Like Teen Spirit'?",
-        "answer": "Nirvana",
-        "incorrect_answers": ["Pearl Jam", "Soundgarden", "Alice in Chains"],
-        "content": "",
-        "content_type": "",
-        "category": ["Music", "Grunge", "Rock"],
-        "era": "1990s",
-        "challenge": 1
-    },
-    {
-        "id": 71,
-        "question": "Which film features a young boy who discovers a magical chocolate factory?",
-        "answer": "Willy Wonka & the Chocolate Factory",
-        "incorrect_answers": ["Charlie and the Chocolate Factory (2005)", "Matilda", "The Goonies"],
-        "content": "",
-        "content_type": "",
-        "category": ["Film", "Family", "Fantasy"],
-        "era": "1970s",
-        "challenge": 1
-    },
-    {
-        "id": 72,
-        "question": "Who is the lead singer of the band AC/DC?",
-        "answer": "Brian Johnson (formerly Bon Scott)",
-        "incorrect_answers": ["Ozzy Osbourne", "Robert Plant", "Steven Tyler"],
-        "content": "",
-        "content_type": "",
-        "category": ["Music", "Hard Rock"],
-        "era": "1970s-Present",
-        "challenge": 2
-    },
-    {
-        "id": 73,
-        "question": "What is the name of the popular social media platform for professional networking?",
-        "answer": "LinkedIn",
-        "incorrect_answers": ["Facebook", "Twitter", "Instagram"],
-        "content": "",
-        "content_type": "",
-        "category": ["Social Media", "Business"],
-        "era": "2000s-Present",
-        "challenge": 1
-    },
-    {
-        "id": 74,
-        "question": "Which TV show is about a group of friends living in New York and dealing with the ups and downs of life and love?",
-        "answer": "Friends",
-        "incorrect_answers": ["Seinfeld", "How I Met Your Mother", "Sex and the City"],
-        "content": "",
-        "content_type": "",
-        "category": ["Television", "Sitcom", "Comedy"],
-        "era": "1990s",
-        "challenge": 1
-    },
-    {
-        "id": 75,
-        "question": "Who is known for the song 'Hotel California'?",
-        "answer": "The Eagles",
-        "incorrect_answers": ["Fleetwood Mac", "Led Zeppelin", "The Rolling Stones"],
-        "content": "",
-        "content_type": "",
-        "category": ["Music", "Rock"],
-        "era": "1970s",
-        "challenge": 2
-    },
-    {
-        "id": 76,
-        "question": "Which film features a young boy who discovers he is a wizard and attends Hogwarts School of Witchcraft and Wizardry?",
-        "answer": "Harry Potter and the Sorcerer's Stone",
-        "incorrect_answers": ["The Chronicles of Narnia: The Lion, the Witch and the Wardrobe", "Percy Jackson & the Olympians: The Lightning Thief", "The Golden Compass"],
-        "content": "",
-        "content_type": "",
-        "category": ["Film", "Fantasy"],
-        "era": "2000s",
-        "challenge": 1
-    },
-    {
-        "id": 77,
-        "question": "Who is the lead singer of the band Radiohead?",
-        "answer": "Thom Yorke",
-        "incorrect_answers": ["Chris Martin", "Bono", "Dave Grohl"],
-        "content": "",
-        "content_type": "",
-        "category": ["Music", "Alternative Rock"],
-        "era": "1990s-Present",
-        "challenge": 2
-    },
-    {
-        "id": 78,
-        "question": "What is the name of the popular online retailer founded by Jeff Bezos?",
-        "answer": "Amazon",
-        "incorrect_answers": ["eBay", "Walmart", "Target"],
-        "content": "",
-        "content_type": "",
-        "category": ["Internet", "E-commerce"],
-        "era": "1990s-Present",
-        "challenge": 1
-    },
-    {
-        "id": 79,
-        "question": "Which TV show is about a group of survivors of a plane crash stranded on a mysterious island?",
-        "answer": "Lost",
-        "incorrect_answers": ["The Walking Dead", "Survivor", "Gilligan's Island"],
-        "content": "",
-        "content_type": "",
-        "category": ["Television", "Drama", "Mystery"],
-        "era": "2000s",
-        "challenge": 2
-    },
-    {
-        "id": 80,
-        "question": "Who is known for the song 'Stairway to Heaven'?",
-        "answer": "Led Zeppelin",
-        "incorrect_answers": ["The Rolling Stones", "The Who", "Black Sabbath"],
-        "content": "",
-        "content_type": "",
-        "category": ["Music", "Rock"],
-        "era": "1970s",
-        "challenge": 2
-    },
-    {
-        "id": 81,
-        "question": "Which film features a young lion cub named Simba who must reclaim his rightful place as king?",
-        "answer": "The Lion King",
-        "incorrect_answers": ["Bambi", "The Jungle Book", "Finding Nemo"],
-        "content": "",
-        "content_type": "",
-        "category": ["Film", "Animation", "Family"],
-        "era": "1990s",
-        "challenge": 1
-    },
-    {
-        "id": 82,
-        "question": "Who is the lead singer of the band Bon Jovi?",
-        "answer": "Jon Bon Jovi",
-        "incorrect_answers": ["Axl Rose", "Steven Tyler", "Bret Michaels"],
-        "content": "",
-        "content_type": "",
-        "category": ["Music", "Rock"],
-        "era": "1980s-Present",
-        "challenge": 1
-    },
-    {
-        "id": 83,
-        "question": "What is the name of the popular online video game streaming platform?",
-        "answer": "Twitch",
-        "incorrect_answers": ["YouTube Gaming", "Mixer", "Facebook Gaming"],
-        "content": "",
-        "content_type": "",
-        "category": ["Internet", "Streaming", "Video Games"],
-        "era": "2010s-Present",
-        "challenge": 2
-    },
-    {
-        "id": 84,
-        "question": "Which TV show is about a group of friends working at a diner in Brooklyn?",
-        "answer": "2 Broke Girls",
-        "incorrect_answers": ["Friends", "Seinfeld", "Cheers"],
-        "content": "",
-        "content_type": "",
-        "category": ["Television", "Sitcom", "Comedy"],
-        "era": "2010s",
-        "challenge": 2
-    },
-    {
-        "id": 85,
-        "question": "Who is known for the song 'Like a Virgin'?",
-        "answer": "Madonna",
-        "incorrect_answers": ["Cyndi Lauper", "Debbie Harry", "Pat Benatar"],
-        "content": "",
-        "content_type": "",
-        "category": ["Music", "Pop"],
-        "era": "1980s",
-        "challenge": 1
-    },
-    {
-        "id": 86,
-        "question": "Which film features a hobbit named Frodo Baggins on a quest to destroy the One Ring?",
-        "answer": "The Lord of the Rings: The Fellowship of the Ring",
-        "incorrect_answers": ["The Hobbit: An Unexpected Journey", "Willow", "Legend"],
-        "content": "",
-        "content_type": "",
-        "category": ["Film", "Fantasy"],
-        "era": "2000s",
-        "challenge": 1
-    },
-    {
-        "id": 87,
-        "question": "Who is the lead singer of the band Foo Fighters?",
-        "answer": "Dave Grohl",
-        "incorrect_answers": ["Kurt Cobain", "Taylor Hawkins", "Chris Cornell"],
-        "content": "",
-        "content_type": "",
-        "category": ["Music", "Rock", "Alternative Rock"],
-        "era": "1990s-Present",
-        "challenge": 1
-    },
-    {
-        "id": 88,
-        "question": "What is the name of the popular photo-sharing app owned by Facebook?",
-        "answer": "Instagram",
-        "incorrect_answers": ["Snapchat", "Pinterest", "Flickr"],
-        "content": "",
-        "content_type": "",
-        "category": ["Social Media", "Photography"],
-        "era": "2010s-Present",
-        "challenge": 1
-    },
-    {
-        "id": 89,
-        "question": "Which TV show is about a group of teenagers attending a high school in Tree Hill, North Carolina?",
-        "answer": "One Tree Hill",
-        "incorrect_answers": ["Dawson's Creek", "The O.C.", "Beverly Hills, 90210"],
-        "content": "",
-        "content_type": "",
-        "category": ["Television", "Teen Drama"],
-        "era": "2000s",
-        "challenge": 2
-    },
-    {
-        "id": 90,
-        "question": "Who is known for the song 'Sweet Dreams (Are Made of This)'?",
-        "answer": "Eurythmics",
-        "incorrect_answers": ["Blondie", "The Human League", "Tears for Fears"],
-        "content": "",
-        "content_type": "",
-        "category": ["Music", "New Wave", "Synth-pop"],
-        "era": "1980s",
-        "challenge": 2
-    },
-    {
-        "id": 91,
-        "question": "Which film features a young boy named Harry Potter who discovers he is a wizard?",
-        "answer": "Harry Potter and the Sorcerer's Stone",
-        "incorrect_answers": ["Fantastic Beasts and Where to Find Them", "The Lord of the Rings", "The Chronicles of Narnia"],
-        "content": "",
-        "content_type": "",
-        "category": ["Film", "Fantasy"],
-        "era": "2000s",
-        "challenge": 1
-    },
-    {
-        "id": 92,
-        "question": "Who is the lead singer of the band The Killers?",
-        "answer": "Brandon Flowers",
-        "incorrect_answers": ["Julian Casablancas", "Jack White", "Caleb Followill"],
-        "content": "",
-        "content_type": "",
-        "category": ["Music", "Rock", "Indie Rock"],
-        "era": "2000s-Present",
-        "challenge": 2
-    },
-    {
-        "id": 93,
-        "question": "What is the name of the popular mobile game featuring colorful birds launched from a slingshot?",
-        "answer": "Angry Birds",
-        "incorrect_answers": ["Candy Crush Saga", "Temple Run", "Fruit Ninja"],
-        "content": "",
-        "content_type": "",
-        "category": ["Video Games", "Mobile Games"],
-        "era": "2010s",
-        "challenge": 1
-    },
-    {
-        "id": 94,
-        "question": "Which TV show is about a group of teenagers dealing with the challenges of high school in California?",
-        "answer": "Beverly Hills, 90210",
-        "incorrect_answers": ["Saved by the Bell", "The O.C.", "Gossip Girl"],
-        "content": "",
-        "content_type": "",
-        "category": ["Television", "Teen Drama"],
-        "era": "1990s",
-        "challenge": 2
-    },
-    {
-        "id": 95,
-        "question": "Who is known for the song 'Like a Rolling Stone'?",
-        "answer": "Bob Dylan",
-        "incorrect_answers": ["Bruce Springsteen", "Neil Young", "Jimi Hendrix"],
-        "content": "",
-        "content_type": "",
-        "category": ["Music", "Rock", "Folk"],
-        "era": "1960s",
-        "challenge": 2
-    },
-    {
-        "id": 96,
-        "question": "Which film features a young Dorothy Gale who is transported to the magical land of Oz?",
-        "answer": "The Wizard of Oz",
-        "incorrect_answers": ["Wicked", "Return to Oz", "Oz the Great and Powerful"],
-        "content": "",
-        "content_type": "",
-        "category": ["Film", "Musical", "Fantasy"],
-        "era": "1930s",
-        "challenge": 2
-    },
-    {
-        "id": 97,
-        "question": "Who is the lead singer of the band Maroon 5?",
-        "answer": "Adam Levine",
-        "incorrect_answers": ["Justin Timberlake", "Bruno Mars", "Usher"],
-        "content": "",
-        "content_type": "",
-        "category": ["Music", "Pop"],
-        "era": "2000s-Present",
-        "challenge": 1
-    },
-    {
-        "id": 98,
-        "question": "What is the name of the popular online platform for sharing short messages called 'tweets'?",
-        "answer": "Twitter",
-        "incorrect_answers": ["Facebook", "Instagram", "TikTok"],
-        "content": "",
-        "content_type": "",
-        "category": ["Social Media", "News"],
-        "era": "2000s-Present",
-        "challenge": 1
-    },
-    {
-        "id": 99,
-        "question": "Which TV show is about a group of detectives solving crimes in Miami?",
-        "answer": "CSI: Miami",
-        "incorrect_answers": ["CSI: Crime Scene Investigation", "CSI: NY", "Miami Vice"],
-        "content": "",
-        "content_type": "",
-        "category": ["Television", "Crime", "Drama"],
-        "era": "2000s",
-        "challenge": 2
-    },
-    {
-        "id": 100,
-        "question": "Who is known for the song 'Bohemian Rhapsody'?",
-        "answer": "Queen",
-        "incorrect_answers": ["The Rolling Stones", "Led Zeppelin", "Pink Floyd"],
-        "content": "",
-        "content_type": "",
-        "category": ["Music", "Rock"],
-        "era": "1970s",
-        "challenge": 1
-    }
+  {
+    "id": 1,
+    "question": "Who sings 'Like a Virgin'?",
+    "answer": "Madonna",
+    "incorrect_answers": [
+      "Cyndi Lauper",
+      "Whitney Houston",
+      "Paula Abdul"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Music",
+      "Pop"
+    ],
+    "era": "1980s",
+    "challenge": 1
+  },
+  {
+    "id": 2,
+    "question": "What is the name of Harry Potter's owl?",
+    "answer": "Hedwig",
+    "incorrect_answers": [
+      "Crookshanks",
+      "Scabbers",
+      "Pigwidgeon"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Film",
+      "Books",
+      "Fantasy"
+    ],
+    "era": "2000s",
+    "challenge": 1
+  },
+  {
+    "id": 3,
+    "question": "Who played Jack Dawson in 'Titanic'?",
+    "answer": "Leonardo DiCaprio",
+    "incorrect_answers": [
+      "Brad Pitt",
+      "Matt Damon",
+      "Tom Cruise"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Film",
+      "Romance",
+      "Drama"
+    ],
+    "era": "1990s",
+    "challenge": 1
+  },
+  {
+    "id": 4,
+    "question": "What is the name of the Simpsons' town?",
+    "answer": "Springfield",
+    "incorrect_answers": [
+      "Shelbyville",
+      "Capital City",
+      "Ogdenville"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Television",
+      "Animation",
+      "Comedy"
+    ],
+    "era": "1980s-Present",
+    "challenge": 1
+  },
+  {
+    "id": 5,
+    "question": "Who is known as the 'King of Pop'?",
+    "answer": "Michael Jackson",
+    "incorrect_answers": [
+      "Prince",
+      "Elvis Presley",
+      "Stevie Wonder"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Music",
+      "Pop"
+    ],
+    "era": "1980s-1990s",
+    "challenge": 1
+  },
+  {
+    "id": 6,
+    "question": "What is the name of the superhero played by Robert Downey Jr. in the Marvel Cinematic Universe?",
+    "answer": "Iron Man",
+    "incorrect_answers": [
+      "Captain America",
+      "Thor",
+      "Hulk"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Film",
+      "Superheroes"
+    ],
+    "era": "2000s-2010s",
+    "challenge": 1
+  },
+  {
+    "id": 7,
+    "question": "Which band released the album 'Nevermind'?",
+    "answer": "Nirvana",
+    "incorrect_answers": [
+      "Pearl Jam",
+      "Soundgarden",
+      "Alice in Chains"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Music",
+      "Grunge"
+    ],
+    "era": "1990s",
+    "challenge": 1
+  },
+  {
+    "id": 8,
+    "question": "Who directed the movie 'Jurassic Park'?",
+    "answer": "Steven Spielberg",
+    "incorrect_answers": [
+      "James Cameron",
+      "George Lucas",
+      "Ridley Scott"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Film",
+      "Science Fiction",
+      "Action"
+    ],
+    "era": "1990s",
+    "challenge": 1
+  },
+  {
+    "id": 9,
+    "question": "What is the name of the main character in the 'Tomb Raider' video game series?",
+    "answer": "Lara Croft",
+    "incorrect_answers": [
+      "Jill Valentine",
+      "Samus Aran",
+      "Chun-Li"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Video Games",
+      "Action-Adventure"
+    ],
+    "era": "1990s-Present",
+    "challenge": 1
+  },
+  {
+    "id": 10,
+    "question": "Which TV show features a group of friends living in New York City?",
+    "answer": "Friends",
+    "incorrect_answers": [
+      "Seinfeld",
+      "Frasier",
+      "Cheers"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Television",
+      "Sitcom",
+      "Comedy"
+    ],
+    "era": "1990s",
+    "challenge": 1
+  },
+  {
+    "id": 11,
+    "question": "Who sang 'Bohemian Rhapsody'?",
+    "answer": "Queen",
+    "incorrect_answers": [
+      "The Rolling Stones",
+      "Led Zeppelin",
+      "The Who"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Music",
+      "Rock"
+    ],
+    "era": "1970s",
+    "challenge": 1
+  },
+  {
+    "id": 12,
+    "question": "What is the name of the spaceship in 'Star Trek'?",
+    "answer": "Enterprise",
+    "incorrect_answers": [
+      "Millennium Falcon",
+      "Serenity",
+      "Death Star"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Television",
+      "Film",
+      "Science Fiction"
+    ],
+    "era": "1960s-Present",
+    "challenge": 1
+  },
+  {
+    "id": 13,
+    "question": "Who painted the Mona Lisa?",
+    "answer": "Leonardo da Vinci",
+    "incorrect_answers": [
+      "Michelangelo",
+      "Raphael",
+      "Donatello"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Art",
+      "History"
+    ],
+    "era": "Renaissance",
+    "challenge": 2
+  },
+  {
+    "id": 14,
+    "question": "What is the name of the yellow cartoon family created by Matt Groening?",
+    "answer": "The Simpsons",
+    "incorrect_answers": [
+      "Family Guy",
+      "South Park",
+      "The Flintstones"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Television",
+      "Animation",
+      "Comedy"
+    ],
+    "era": "1980s-Present",
+    "challenge": 1
+  },
+  {
+    "id": 15,
+    "question": "Which singer is known for wearing elaborate costumes and performing as Ziggy Stardust?",
+    "answer": "David Bowie",
+    "incorrect_answers": [
+      "Elton John",
+      "Freddie Mercury",
+      "Mick Jagger"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Music",
+      "Rock",
+      "Glam Rock"
+    ],
+    "era": "1970s",
+    "challenge": 2
+  },
+  {
+    "id": 16,
+    "question": "What is the name of the social media platform where users share photos and videos?",
+    "answer": "Instagram",
+    "incorrect_answers": [
+      "Twitter",
+      "Facebook",
+      "TikTok"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Social Media",
+      "Technology"
+    ],
+    "era": "2010s-Present",
+    "challenge": 1
+  },
+  {
+    "id": 17,
+    "question": "Which actress played Hermione Granger in the Harry Potter films?",
+    "answer": "Emma Watson",
+    "incorrect_answers": [
+      "Bonnie Wright",
+      "Evanna Lynch",
+      "Maggie Smith"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Film",
+      "Celebrity"
+    ],
+    "era": "2000s",
+    "challenge": 1
+  },
+  {
+    "id": 18,
+    "question": "Who directed the movie 'Pulp Fiction'?",
+    "answer": "Quentin Tarantino",
+    "incorrect_answers": [
+      "Martin Scorsese",
+      "Christopher Nolan",
+      "David Fincher"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Film",
+      "Crime",
+      "Drama"
+    ],
+    "era": "1990s",
+    "challenge": 2
+  },
+  {
+    "id": 19,
+    "question": "Which video game features a plumber named Mario?",
+    "answer": "Super Mario Bros.",
+    "incorrect_answers": [
+      "Sonic the Hedgehog",
+      "The Legend of Zelda",
+      "Pac-Man"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Video Games",
+      "Platformer"
+    ],
+    "era": "1980s-Present",
+    "challenge": 1
+  },
+  {
+    "id": 20,
+    "question": "Who is the host of 'The Tonight Show'?",
+    "answer": "Jimmy Fallon",
+    "incorrect_answers": [
+      "Stephen Colbert",
+      "Jimmy Kimmel",
+      "Conan O'Brien"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Television",
+      "Talk Show"
+    ],
+    "era": "2010s-Present",
+    "challenge": 1
+  },
+  {
+    "id": 21,
+    "question": "What is the name of Beyoncé's fan base?",
+    "answer": "BeyHive",
+    "incorrect_answers": [
+      "Little Monsters",
+      "Selenators",
+      "Swifties"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Music",
+      "Celebrity"
+    ],
+    "era": "2000s-Present",
+    "challenge": 2
+  },
+  {
+    "id": 22,
+    "question": "Which movie features a hobbit named Frodo Baggins?",
+    "answer": "The Lord of the Rings: The Fellowship of the Ring",
+    "incorrect_answers": [
+      "The Chronicles of Narnia",
+      "Harry Potter and the Sorcerer's Stone",
+      "Eragon"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Film",
+      "Fantasy",
+      "Adventure"
+    ],
+    "era": "2000s",
+    "challenge": 1
+  },
+  {
+    "id": 23,
+    "question": "Who is the lead singer of the band Maroon 5?",
+    "answer": "Adam Levine",
+    "incorrect_answers": [
+      "Chris Martin",
+      "Justin Timberlake",
+      "Bruno Mars"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Music",
+      "Pop"
+    ],
+    "era": "2000s-Present",
+    "challenge": 1
+  },
+  {
+    "id": 24,
+    "question": "What is the name of the main character in the 'Grand Theft Auto' series?",
+    "answer": "Varies by game (e.g., CJ, Niko, Michael, Franklin)",
+    "incorrect_answers": [
+      "Master Chief",
+      "Solid Snake",
+      "Link"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Video Games",
+      "Action-Adventure"
+    ],
+    "era": "1990s-Present",
+    "challenge": 2
+  },
+  {
+    "id": 25,
+    "question": "Which TV show is about a high school chemistry teacher who turns to cooking meth?",
+    "answer": "Breaking Bad",
+    "incorrect_answers": [
+      "Dexter",
+      "The Wire",
+      "Ozark"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Television",
+      "Drama",
+      "Crime"
+    ],
+    "era": "2000s-2010s",
+    "challenge": 2
+  },
+  {
+    "id": 26,
+    "question": "Who is known for the song 'Single Ladies (Put a Ring on It)'?",
+    "answer": "Beyoncé",
+    "incorrect_answers": [
+      "Rihanna",
+      "Lady Gaga",
+      "Katy Perry"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Music",
+      "R&B",
+      "Pop"
+    ],
+    "era": "2000s-Present",
+    "challenge": 1
+  },
+  {
+    "id": 27,
+    "question": "Which actor played the role of Joker in 'The Dark Knight'?",
+    "answer": "Heath Ledger",
+    "incorrect_answers": [
+      "Jack Nicholson",
+      "Joaquin Phoenix",
+      "Jared Leto"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Film",
+      "Superheroes",
+      "Drama"
+    ],
+    "era": "2000s",
+    "challenge": 2
+  },
+  {
+    "id": 28,
+    "question": "What is the name of the popular dance move involving crossing your arms and swinging them back and forth?",
+    "answer": "The Dab",
+    "incorrect_answers": [
+      "The Macarena",
+      "The Twist",
+      "The Moonwalk"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Dance",
+      "Internet Culture"
+    ],
+    "era": "2010s",
+    "challenge": 2
+  },
+  {
+    "id": 29,
+    "question": "Which social media app is known for short-form videos?",
+    "answer": "TikTok",
+    "incorrect_answers": [
+      "Facebook",
+      "Twitter",
+      "Instagram"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Social Media",
+      "Technology"
+    ],
+    "era": "2010s-Present",
+    "challenge": 1
+  },
+  {
+    "id": 30,
+    "question": "Who is known as the 'Material Girl'?",
+    "answer": "Madonna",
+    "incorrect_answers": [
+      "Cher",
+      "Cyndi Lauper",
+      "Janet Jackson"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Music",
+      "Pop"
+    ],
+    "era": "1980s-Present",
+    "challenge": 1
+  },
+  {
+    "id": 31,
+    "question": "What is the name of the main character in the 'Indiana Jones' film series?",
+    "answer": "Indiana Jones",
+    "incorrect_answers": [
+      "Han Solo",
+      "Luke Skywalker",
+      "Rick Deckard"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Film",
+      "Adventure",
+      "Action"
+    ],
+    "era": "1980s-Present",
+    "challenge": 1
+  },
+  {
+    "id": 32,
+    "question": "Which singer is known for their song 'Rolling in the Deep'?",
+    "answer": "Adele",
+    "incorrect_answers": [
+      "Amy Winehouse",
+      "Sia",
+      "Lady Gaga"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Music",
+      "Pop",
+      "Soul"
+    ],
+    "era": "2010s",
+    "challenge": 1
+  },
+  {
+    "id": 33,
+    "question": "What is the name of the popular battle royale video game?",
+    "answer": "Fortnite",
+    "incorrect_answers": [
+      "Call of Duty",
+      "Halo",
+      "Minecraft"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Video Games",
+      "Battle Royale"
+    ],
+    "era": "2010s-Present",
+    "challenge": 1
+  },
+  {
+    "id": 34,
+    "question": "Which TV show is about a group of survivors on a mysterious island?",
+    "answer": "Lost",
+    "incorrect_answers": [
+      "Prison Break",
+      "24",
+      "The X-Files"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Television",
+      "Drama",
+      "Mystery"
+    ],
+    "era": "2000s",
+    "challenge": 2
+  },
+  {
+    "id": 35,
+    "question": "Who is known for the song 'Like a Rolling Stone'?",
+    "answer": "Bob Dylan",
+    "incorrect_answers": [
+      "The Beatles",
+      "The Rolling Stones",
+      "Jimi Hendrix"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Music",
+      "Rock",
+      "Folk"
+    ],
+    "era": "1960s",
+    "challenge": 2
+  },
+  {
+    "id": 36,
+    "question": "What is the name of the wizard played by Ian McKellen in 'The Lord of the Rings' and 'The Hobbit'?",
+    "answer": "Gandalf",
+    "incorrect_answers": [
+      "Dumbledore",
+      "Merlin",
+      "Saruman"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Film",
+      "Fantasy"
+    ],
+    "era": "2000s-2010s",
+    "challenge": 1
+  },
+  {
+    "id": 37,
+    "question": "Which singer is known for their powerful voice and the song 'Respect'?",
+    "answer": "Aretha Franklin",
+    "incorrect_answers": [
+      "Tina Turner",
+      "Etta James",
+      "Gladys Knight"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Music",
+      "Soul",
+      "R&B"
+    ],
+    "era": "1960s-1970s",
+    "challenge": 2
+  },
+  {
+    "id": 38,
+    "question": "What is the name of the popular video game featuring a blue hedgehog?",
+    "answer": "Sonic the Hedgehog",
+    "incorrect_answers": [
+      "Mario",
+      "Crash Bandicoot",
+      "Spyro the Dragon"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Video Games",
+      "Platformer"
+    ],
+    "era": "1990s-Present",
+    "challenge": 1
+  },
+  {
+    "id": 39,
+    "question": "Which TV show is about a group of doctors working in a Seattle hospital?",
+    "answer": "Grey's Anatomy",
+    "incorrect_answers": [
+      "ER",
+      "House",
+      "Chicago Hope"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Television",
+      "Medical Drama"
+    ],
+    "era": "2000s-Present",
+    "challenge": 1
+  },
+  {
+    "id": 40,
+    "question": "Who is known for the album 'Songs in the Key of Life'?",
+    "answer": "Stevie Wonder",
+    "incorrect_answers": [
+      "Prince",
+      "Michael Jackson",
+      "Lionel Richie"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Music",
+      "Pop"
+    ],
+    "era": "1980s",
+    "challenge": 1
+  },
+  {
+    "id": 41,
+    "question": "Which movie features a young boy who befriends an alien?",
+    "answer": "E.T. the Extra-Terrestrial",
+    "incorrect_answers": [
+      "Close Encounters of the Third Kind",
+      "Star Wars",
+      "Independence Day"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Film",
+      "Science Fiction"
+    ],
+    "era": "1980s",
+    "challenge": 1
+  },
+  {
+    "id": 42,
+    "question": "Who is the lead singer of the band Coldplay?",
+    "answer": "Chris Martin",
+    "incorrect_answers": [
+      "Bono",
+      "Thom Yorke",
+      "Dave Grohl"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Music",
+      "Rock",
+      "Pop"
+    ],
+    "era": "2000s-Present",
+    "challenge": 1
+  },
+  {
+    "id": 43,
+    "question": "What is the name of the popular online streaming service for movies and TV shows?",
+    "answer": "Netflix",
+    "incorrect_answers": [
+      "Hulu",
+      "Amazon Prime Video",
+      "Disney+"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Streaming",
+      "Television",
+      "Film"
+    ],
+    "era": "2000s-Present",
+    "challenge": 1
+  },
+  {
+    "id": 44,
+    "question": "Which TV show is about a group of teenagers solving mysteries in Sunnydale, California?",
+    "answer": "Buffy the Vampire Slayer",
+    "incorrect_answers": [
+      "Charmed",
+      "Smallville",
+      "Supernatural"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Television",
+      "Supernatural",
+      "Drama"
+    ],
+    "era": "1990s-2000s",
+    "challenge": 2
+  },
+  {
+    "id": 45,
+    "question": "Who is known for the song 'Johnny B. Goode'?",
+    "answer": "Chuck Berry",
+    "incorrect_answers": [
+      "Elvis Presley",
+      "Little Richard",
+      "Buddy Holly"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Music",
+      "Rock and Roll"
+    ],
+    "era": "1950s",
+    "challenge": 2
+  },
+  {
+    "id": 46,
+    "question": "Which movie features a time-traveling DeLorean car?",
+    "answer": "Back to the Future",
+    "incorrect_answers": [
+      "The Terminator",
+      "Timecop",
+      "Primer"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Film",
+      "Science Fiction",
+      "Comedy"
+    ],
+    "era": "1980s",
+    "challenge": 1
+  },
+  {
+    "id": 47,
+    "question": "Who is the lead singer of the band U2?",
+    "answer": "Bono",
+    "incorrect_answers": [
+      "Sting",
+      "Robert Plant",
+      "Mick Jagger"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Music",
+      "Rock"
+    ],
+    "era": "1980s-Present",
+    "challenge": 1
+  },
+  {
+    "id": 48,
+    "question": "What is the name of the popular online video-sharing platform?",
+    "answer": "YouTube",
+    "incorrect_answers": [
+      "Vimeo",
+      "Dailymotion",
+      "Twitch"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Internet",
+      "Video Sharing"
+    ],
+    "era": "2000s-Present",
+    "challenge": 1
+  },
+  {
+    "id": 49,
+    "question": "Which TV show is about a group of friends working at a paper company in Scranton, Pennsylvania?",
+    "answer": "The Office",
+    "incorrect_answers": [
+      "Parks and Recreation",
+      "30 Rock",
+      "Community"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Television",
+      "Comedy",
+      "Mockumentary"
+    ],
+    "era": "2000s",
+    "challenge": 1
+  },
+  {
+    "id": 50,
+    "question": "Who is known for the song 'Purple Rain'?",
+    "answer": "Prince",
+    "incorrect_answers": [
+      "Jimi Hendrix",
+      "David Bowie",
+      "Michael Jackson"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Music",
+      "Rock",
+      "Pop",
+      "Funk"
+    ],
+    "era": "1980s",
+    "challenge": 2
+  },
+  {
+    "id": 51,
+    "question": "Which film features a young wizard attending Hogwarts School of Witchcraft and Wizardry?",
+    "answer": "Harry Potter and the Sorcerer's Stone",
+    "incorrect_answers": [
+      "The Lord of the Rings",
+      "The Chronicles of Narnia",
+      "Percy Jackson & the Olympians"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Film",
+      "Fantasy",
+      "Adventure"
+    ],
+    "era": "2000s",
+    "challenge": 1
+  },
+  {
+    "id": 52,
+    "question": "Who is the lead singer of the band The Rolling Stones?",
+    "answer": "Mick Jagger",
+    "incorrect_answers": [
+      "Paul McCartney",
+      "Roger Daltrey",
+      "David Bowie"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Music",
+      "Rock"
+    ],
+    "era": "1960s-Present",
+    "challenge": 1
+  },
+  {
+    "id": 53,
+    "question": "What is the name of the popular building block toy?",
+    "answer": "LEGO",
+    "incorrect_answers": [
+      "K'Nex",
+      "Mega Bloks",
+      "Lincoln Logs"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Toys",
+      "Childhood"
+    ],
+    "era": "1930s-Present",
+    "challenge": 1
+  },
+  {
+    "id": 54,
+    "question": "Which animated film features a lion cub named Simba?",
+    "answer": "The Lion King",
+    "incorrect_answers": [
+      "Finding Nemo",
+      "Toy Story",
+      "Shrek"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Film",
+      "Animation",
+      "Family"
+    ],
+    "era": "1990s",
+    "challenge": 1
+  },
+  {
+    "id": 55,
+    "question": "Who is known for the song 'Hey Jude'?",
+    "answer": "The Beatles",
+    "incorrect_answers": [
+      "The Rolling Stones",
+      "The Who",
+      "The Kinks"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Music",
+      "Rock",
+      "Pop"
+    ],
+    "era": "1960s",
+    "challenge": 1
+  },
+  {
+    "id": 56,
+    "question": "Which science fiction film features a robot named R2-D2?",
+    "answer": "Star Wars: A New Hope",
+    "incorrect_answers": [
+      "Star Trek",
+      "E.T.",
+      "Back to the Future"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Film",
+      "Science Fiction",
+      "Action"
+    ],
+    "era": "1970s",
+    "challenge": 1
+  },
+  {
+    "id": 57,
+    "question": "Who is the host of the game show 'Jeopardy!'?",
+    "answer": "Ken Jennings",
+    "incorrect_answers": [
+      "Alex Trebek",
+      "Pat Sajak",
+      "Vanna White"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Television",
+      "Game Show"
+    ],
+    "era": "1960s-Present",
+    "challenge": 1
+  },
+  {
+    "id": 58,
+    "question": "What is the name of the popular handheld gaming device created by Nintendo?",
+    "answer": "Nintendo Switch",
+    "incorrect_answers": [
+      "PlayStation Portable",
+      "Game Boy",
+      "Xbox Portable"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Video Games",
+      "Consoles"
+    ],
+    "era": "2010s-Present",
+    "challenge": 1
+  },
+  {
+    "id": 59,
+    "question": "Which TV show is about a group of teenagers dealing with supernatural events in Hawkins, Indiana?",
+    "answer": "Stranger Things",
+    "incorrect_answers": [
+      "Riverdale",
+      "Teen Wolf",
+      "The Vampire Diaries"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Television",
+      "Science Fiction",
+      "Horror"
+    ],
+    "era": "2010s-Present",
+    "challenge": 2
+  },
+  {
+    "id": 60,
+    "question": "Who is known for the song 'Like a Prayer'?",
+    "answer": "Madonna",
+    "incorrect_answers": [
+      "Cyndi Lauper",
+      "Whitney Houston",
+      "Janet Jackson"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Music",
+      "Pop"
+    ],
+    "era": "1980s",
+    "challenge": 1
+  },
+  {
+    "id": 61,
+    "question": "Which film features a group of dinosaurs brought back to life in a theme park?",
+    "answer": "Jurassic Park",
+    "incorrect_answers": [
+      "King Kong",
+      "Godzilla",
+      "The Land Before Time"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Film",
+      "Science Fiction",
+      "Action"
+    ],
+    "era": "1990s",
+    "challenge": 1
+  },
+  {
+    "id": 62,
+    "question": "Who is the lead singer of the band Aerosmith?",
+    "answer": "Steven Tyler",
+    "incorrect_answers": [
+      "Jon Bon Jovi",
+      "Axl Rose",
+      "David Lee Roth"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Music",
+      "Rock"
+    ],
+    "era": "1970s-Present",
+    "challenge": 1
+  },
+  {
+    "id": 63,
+    "question": "What is the name of the popular online marketplace for buying and selling goods?",
+    "answer": "eBay",
+    "incorrect_answers": [
+      "Amazon",
+      "Etsy",
+      "Craigslist"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Internet",
+      "E-commerce"
+    ],
+    "era": "1990s-Present",
+    "challenge": 1
+  },
+  {
+    "id": 64,
+    "question": "Which TV show is about a group of friends living in Pasadena, California, and working at Caltech?",
+    "answer": "The Big Bang Theory",
+    "incorrect_answers": [
+      "Friends",
+      "How I Met Your Mother",
+      "Seinfeld"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Television",
+      "Sitcom",
+      "Comedy"
+    ],
+    "era": "2000s-2010s",
+    "challenge": 1
+  },
+  {
+    "id": 65,
+    "question": "Who is known for the song 'Sweet Child o' Mine'?",
+    "answer": "Guns N' Roses",
+    "incorrect_answers": [
+      "Bon Jovi",
+      "Def Leppard",
+      "Poison"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Music",
+      "Hard Rock"
+    ],
+    "era": "1980s",
+    "challenge": 2
+  },
+  {
+    "id": 66,
+    "question": "Which film features a young boy named Kevin McCallister who is accidentally left home alone at Christmas?",
+    "answer": "Home Alone",
+    "incorrect_answers": [
+      "The Santa Clause",
+      "Elf",
+      "A Christmas Story"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Film",
+      "Comedy",
+      "Family"
+    ],
+    "era": "1990s",
+    "challenge": 1
+  },
+  {
+    "id": 67,
+    "question": "Who is the lead singer of the band Queen?",
+    "answer": "Freddie Mercury",
+    "incorrect_answers": [
+      "David Bowie",
+      "Elton John",
+      "Mick Jagger"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Music",
+      "Rock"
+    ],
+    "era": "1970s-1980s",
+    "challenge": 1
+  },
+  {
+    "id": 68,
+    "question": "What is the name of the popular online encyclopedia?",
+    "answer": "Wikipedia",
+    "incorrect_answers": [
+      "Britannica",
+      "Encarta",
+      "World Book"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Internet",
+      "Reference"
+    ],
+    "era": "2000s-Present",
+    "challenge": 1
+  },
+  {
+    "id": 69,
+    "question": "Which TV show is about a group of detectives solving crimes in New York City?",
+    "answer": "Law & Order",
+    "incorrect_answers": [
+      "CSI",
+      "NCIS",
+      "Criminal Minds"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Television",
+      "Crime",
+      "Drama"
+    ],
+    "era": "1990s-Present",
+    "challenge": 1
+  },
+  {
+    "id": 70,
+    "question": "Who is known for the song 'Smells Like Teen Spirit'?",
+    "answer": "Nirvana",
+    "incorrect_answers": [
+      "Pearl Jam",
+      "Soundgarden",
+      "Alice in Chains"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Music",
+      "Grunge",
+      "Rock"
+    ],
+    "era": "1990s",
+    "challenge": 1
+  },
+  {
+    "id": 71,
+    "question": "Which film features a young boy who discovers a magical chocolate factory?",
+    "answer": "Willy Wonka & the Chocolate Factory",
+    "incorrect_answers": [
+      "Charlie and the Chocolate Factory (2005)",
+      "Matilda",
+      "The Goonies"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Film",
+      "Family",
+      "Fantasy"
+    ],
+    "era": "1970s",
+    "challenge": 1
+  },
+  {
+    "id": 72,
+    "question": "Who is the lead singer of the band AC/DC?",
+    "answer": "Brian Johnson (formerly Bon Scott)",
+    "incorrect_answers": [
+      "Ozzy Osbourne",
+      "Robert Plant",
+      "Steven Tyler"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Music",
+      "Hard Rock"
+    ],
+    "era": "1970s-Present",
+    "challenge": 2
+  },
+  {
+    "id": 73,
+    "question": "What is the name of the popular social media platform for professional networking?",
+    "answer": "LinkedIn",
+    "incorrect_answers": [
+      "Facebook",
+      "Twitter",
+      "Instagram"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Social Media",
+      "Business"
+    ],
+    "era": "2000s-Present",
+    "challenge": 1
+  },
+  {
+    "id": 74,
+    "question": "Which TV show is about a group of friends living in New York and dealing with the ups and downs of life and love?",
+    "answer": "Friends",
+    "incorrect_answers": [
+      "Seinfeld",
+      "How I Met Your Mother",
+      "Sex and the City"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Television",
+      "Sitcom",
+      "Comedy"
+    ],
+    "era": "1990s",
+    "challenge": 1
+  },
+  {
+    "id": 75,
+    "question": "Who is known for the song 'Hotel California'?",
+    "answer": "The Eagles",
+    "incorrect_answers": [
+      "Fleetwood Mac",
+      "Led Zeppelin",
+      "The Rolling Stones"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Music",
+      "Rock"
+    ],
+    "era": "1970s",
+    "challenge": 2
+  },
+  {
+    "id": 76,
+    "question": "Which film features a young boy who discovers he is a wizard and attends Hogwarts School of Witchcraft and Wizardry?",
+    "answer": "Harry Potter and the Sorcerer's Stone",
+    "incorrect_answers": [
+      "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+      "Percy Jackson & the Olympians: The Lightning Thief",
+      "The Golden Compass"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Film",
+      "Fantasy"
+    ],
+    "era": "2000s",
+    "challenge": 1
+  },
+  {
+    "id": 77,
+    "question": "Who is the lead singer of the band Radiohead?",
+    "answer": "Thom Yorke",
+    "incorrect_answers": [
+      "Chris Martin",
+      "Bono",
+      "Dave Grohl"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Music",
+      "Alternative Rock"
+    ],
+    "era": "1990s-Present",
+    "challenge": 2
+  },
+  {
+    "id": 78,
+    "question": "What is the name of the popular online retailer founded by Jeff Bezos?",
+    "answer": "Amazon",
+    "incorrect_answers": [
+      "eBay",
+      "Walmart",
+      "Target"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Internet",
+      "E-commerce"
+    ],
+    "era": "1990s-Present",
+    "challenge": 1
+  },
+  {
+    "id": 79,
+    "question": "Which TV show is about a group of survivors of a plane crash stranded on a mysterious island?",
+    "answer": "Lost",
+    "incorrect_answers": [
+      "The Walking Dead",
+      "Survivor",
+      "Gilligan's Island"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Television",
+      "Drama",
+      "Mystery"
+    ],
+    "era": "2000s",
+    "challenge": 2
+  },
+  {
+    "id": 80,
+    "question": "Who is known for the song 'Stairway to Heaven'?",
+    "answer": "Led Zeppelin",
+    "incorrect_answers": [
+      "The Rolling Stones",
+      "The Who",
+      "Black Sabbath"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Music",
+      "Rock"
+    ],
+    "era": "1970s",
+    "challenge": 2
+  },
+  {
+    "id": 81,
+    "question": "Which film features a young lion cub named Simba who must reclaim his rightful place as king?",
+    "answer": "The Lion King",
+    "incorrect_answers": [
+      "Bambi",
+      "The Jungle Book",
+      "Finding Nemo"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Film",
+      "Animation",
+      "Family"
+    ],
+    "era": "1990s",
+    "challenge": 1
+  },
+  {
+    "id": 82,
+    "question": "Who is the lead singer of the band Bon Jovi?",
+    "answer": "Jon Bon Jovi",
+    "incorrect_answers": [
+      "Axl Rose",
+      "Steven Tyler",
+      "Bret Michaels"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Music",
+      "Rock"
+    ],
+    "era": "1980s-Present",
+    "challenge": 1
+  },
+  {
+    "id": 83,
+    "question": "What is the name of the popular online video game streaming platform?",
+    "answer": "Twitch",
+    "incorrect_answers": [
+      "YouTube Gaming",
+      "Mixer",
+      "Facebook Gaming"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Internet",
+      "Streaming",
+      "Video Games"
+    ],
+    "era": "2010s-Present",
+    "challenge": 2
+  },
+  {
+    "id": 84,
+    "question": "Which TV show is about a group of friends working at a diner in Brooklyn?",
+    "answer": "2 Broke Girls",
+    "incorrect_answers": [
+      "Friends",
+      "Seinfeld",
+      "Cheers"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Television",
+      "Sitcom",
+      "Comedy"
+    ],
+    "era": "2010s",
+    "challenge": 2
+  },
+  {
+    "id": 85,
+    "question": "Who is known for the song 'Like a Virgin'?",
+    "answer": "Madonna",
+    "incorrect_answers": [
+      "Cyndi Lauper",
+      "Debbie Harry",
+      "Pat Benatar"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Music",
+      "Pop"
+    ],
+    "era": "1980s",
+    "challenge": 1
+  },
+  {
+    "id": 86,
+    "question": "Which film features a hobbit named Frodo Baggins on a quest to destroy the One Ring?",
+    "answer": "The Lord of the Rings: The Fellowship of the Ring",
+    "incorrect_answers": [
+      "The Hobbit: An Unexpected Journey",
+      "Willow",
+      "Legend"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Film",
+      "Fantasy"
+    ],
+    "era": "2000s",
+    "challenge": 1
+  },
+  {
+    "id": 87,
+    "question": "Who is the lead singer of the band Foo Fighters?",
+    "answer": "Dave Grohl",
+    "incorrect_answers": [
+      "Kurt Cobain",
+      "Taylor Hawkins",
+      "Chris Cornell"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Music",
+      "Rock",
+      "Alternative Rock"
+    ],
+    "era": "1990s-Present",
+    "challenge": 1
+  },
+  {
+    "id": 88,
+    "question": "What is the name of the popular photo-sharing app owned by Facebook?",
+    "answer": "Instagram",
+    "incorrect_answers": [
+      "Snapchat",
+      "Pinterest",
+      "Flickr"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Social Media",
+      "Photography"
+    ],
+    "era": "2010s-Present",
+    "challenge": 1
+  },
+  {
+    "id": 89,
+    "question": "Which TV show is about a group of teenagers attending a high school in Tree Hill, North Carolina?",
+    "answer": "One Tree Hill",
+    "incorrect_answers": [
+      "Dawson's Creek",
+      "The O.C.",
+      "Beverly Hills, 90210"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Television",
+      "Teen Drama"
+    ],
+    "era": "2000s",
+    "challenge": 2
+  },
+  {
+    "id": 90,
+    "question": "Who is known for the song 'Sweet Dreams (Are Made of This)'?",
+    "answer": "Eurythmics",
+    "incorrect_answers": [
+      "Blondie",
+      "The Human League",
+      "Tears for Fears"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Music",
+      "New Wave",
+      "Synth-pop"
+    ],
+    "era": "1980s",
+    "challenge": 2
+  },
+  {
+    "id": 91,
+    "question": "Which film features a young boy named Harry Potter who discovers he is a wizard?",
+    "answer": "Harry Potter and the Sorcerer's Stone",
+    "incorrect_answers": [
+      "Fantastic Beasts and Where to Find Them",
+      "The Lord of the Rings",
+      "The Chronicles of Narnia"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Film",
+      "Fantasy"
+    ],
+    "era": "2000s",
+    "challenge": 1
+  },
+  {
+    "id": 92,
+    "question": "Who is the lead singer of the band The Killers?",
+    "answer": "Brandon Flowers",
+    "incorrect_answers": [
+      "Julian Casablancas",
+      "Jack White",
+      "Caleb Followill"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Music",
+      "Rock",
+      "Indie Rock"
+    ],
+    "era": "2000s-Present",
+    "challenge": 2
+  },
+  {
+    "id": 93,
+    "question": "What is the name of the popular mobile game featuring colorful birds launched from a slingshot?",
+    "answer": "Angry Birds",
+    "incorrect_answers": [
+      "Candy Crush Saga",
+      "Temple Run",
+      "Fruit Ninja"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Video Games",
+      "Mobile Games"
+    ],
+    "era": "2010s",
+    "challenge": 1
+  },
+  {
+    "id": 94,
+    "question": "Which TV show is about a group of teenagers dealing with the challenges of high school in California?",
+    "answer": "Beverly Hills, 90210",
+    "incorrect_answers": [
+      "Saved by the Bell",
+      "The O.C.",
+      "Gossip Girl"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Television",
+      "Teen Drama"
+    ],
+    "era": "1990s",
+    "challenge": 2
+  },
+  {
+    "id": 95,
+    "question": "Who is known for the song 'Like a Rolling Stone'?",
+    "answer": "Bob Dylan",
+    "incorrect_answers": [
+      "Bruce Springsteen",
+      "Neil Young",
+      "Jimi Hendrix"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Music",
+      "Rock",
+      "Folk"
+    ],
+    "era": "1960s",
+    "challenge": 2
+  },
+  {
+    "id": 96,
+    "question": "Which film features a young Dorothy Gale who is transported to the magical land of Oz?",
+    "answer": "The Wizard of Oz",
+    "incorrect_answers": [
+      "Wicked",
+      "Return to Oz",
+      "Oz the Great and Powerful"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Film",
+      "Musical",
+      "Fantasy"
+    ],
+    "era": "1930s",
+    "challenge": 2
+  },
+  {
+    "id": 97,
+    "question": "Who is the lead singer of the band Maroon 5?",
+    "answer": "Adam Levine",
+    "incorrect_answers": [
+      "Justin Timberlake",
+      "Bruno Mars",
+      "Usher"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Music",
+      "Pop"
+    ],
+    "era": "2000s-Present",
+    "challenge": 1
+  },
+  {
+    "id": 98,
+    "question": "What is the name of the popular online platform for sharing short messages called 'tweets'?",
+    "answer": "Twitter",
+    "incorrect_answers": [
+      "Facebook",
+      "Instagram",
+      "TikTok"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Social Media",
+      "News"
+    ],
+    "era": "2000s-Present",
+    "challenge": 1
+  },
+  {
+    "id": 99,
+    "question": "Which TV show is about a group of detectives solving crimes in Miami?",
+    "answer": "CSI: Miami",
+    "incorrect_answers": [
+      "CSI: Crime Scene Investigation",
+      "CSI: NY",
+      "Miami Vice"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Television",
+      "Crime",
+      "Drama"
+    ],
+    "era": "2000s",
+    "challenge": 2
+  },
+  {
+    "id": 100,
+    "question": "Who is known for the song 'Bohemian Rhapsody'?",
+    "answer": "Queen",
+    "incorrect_answers": [
+      "The Rolling Stones",
+      "Led Zeppelin",
+      "Pink Floyd"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Music",
+      "Rock"
+    ],
+    "era": "1970s",
+    "challenge": 1
+  }
 ]

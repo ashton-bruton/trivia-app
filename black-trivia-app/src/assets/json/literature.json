@@ -1,1102 +1,1899 @@
 [
-    {
-      "id": 1,
-      "question": "Who wrote 'Pride and Prejudice'?",
-      "answer": "Jane Austen",
-      "incorrect_answers": ["Charlotte Brontë", "Emily Brontë", "Louisa May Alcott"],
-      "content": "",
-      "content_type": "",
-      "category": ["Classics", "Novel", "Romance"],
-      "era": "19th Century",
-      "challenge": 1
-    },
-    {
-      "id": 2,
-      "question": "What is the title of George Orwell's dystopian novel about a totalitarian regime?",
-      "answer": "1984",
-      "incorrect_answers": ["Animal Farm", "Brave New World", "Fahrenheit 451"],
-      "content": "",
-      "content_type": "",
-      "category": ["Classics", "Novel", "Dystopian"],
-      "era": "20th Century",
-      "challenge": 1
-    },
-    {
-      "id": 3,
-      "question": "Who wrote 'Hamlet'?",
-      "answer": "William Shakespeare",
-      "incorrect_answers": ["Christopher Marlowe", "Ben Jonson", "John Milton"],
-      "content": "",
-      "content_type": "",
-      "category": ["Classics", "Play", "Tragedy"],
-      "era": "16th-17th Century",
-      "challenge": 1
-    },
-    {
-      "id": 4,
-      "question": "What is the name of the whale in 'Moby-Dick'?",
-      "answer": "Moby Dick",
-      "incorrect_answers": ["Willy", "Monstro", "Orca"],
-      "content": "",
-      "content_type": "",
-      "category": ["Classics", "Novel", "Adventure"],
-      "era": "19th Century",
-      "challenge": 1
-    },
-    {
-      "id": 5,
-      "question": "Who wrote 'To Kill a Mockingbird'?",
-      "answer": "Harper Lee",
-      "incorrect_answers": ["Margaret Mitchell", "Flannery O'Connor", "Eudora Welty"],
-      "content": "",
-      "content_type": "",
-      "category": ["Classics", "Novel", "Southern Gothic"],
-      "era": "20th Century",
-      "challenge": 1
-    },
-    {
-      "id": 6,
-      "question": "Who is the author of 'The Great Gatsby'?",
-      "answer": "F. Scott Fitzgerald",
-      "incorrect_answers": ["Ernest Hemingway", "John Steinbeck", "William Faulkner"],
-      "content": "",
-      "content_type": "",
-      "category": ["Classics", "Novel", "Jazz Age"],
-      "era": "20th Century",
-      "challenge": 1
-    },
-    {
-      "id": 7,
-      "question": "What is the name of the main character in 'Jane Eyre'?",
-      "answer": "Jane Eyre",
-      "incorrect_answers": ["Elizabeth Bennet", "Catherine Earnshaw", "Estella Havisham"],
-      "content": "",
-      "content_type": "",
-      "category": ["Classics", "Novel", "Gothic"],
-      "era": "19th Century",
-      "challenge": 1
-    },
-    {
-      "id": 8,
-      "question": "Who wrote 'The Odyssey'?",
-      "answer": "Homer",
-      "incorrect_answers": ["Virgil", "Sophocles", "Euripides"],
-      "content": "",
-      "content_type": "",
-      "category": ["Classics", "Poetry", "Epic"],
-      "era": "Ancient Greece",
-      "challenge": 2
-    },
-    {
-      "id": 9,
-      "question": "What is the title of J.D. Salinger's novel about Holden Caulfield?",
-      "answer": "The Catcher in the Rye",
-      "incorrect_answers": ["Franny and Zooey", "Nine Stories", "Raise High the Roof Beam, Carpenters"],
-      "content": "",
-      "content_type": "",
-      "category": ["Classics", "Novel", "Coming-of-age"],
-      "era": "20th Century",
-      "challenge": 1
-    },
-    {
-      "id": 10,
-      "question": "Who wrote 'Don Quixote'?",
-      "answer": "Miguel de Cervantes",
-      "incorrect_answers": ["Lope de Vega", "Calderón de la Barca", "Tirso de Molina"],
-      "content": "",
-      "content_type": "",
-      "category": ["Classics", "Novel", "Satire"],
-      "era": "17th Century",
-      "challenge": 2
-    },
-    {
-      "id": 11,
-      "question": "What is the name of the protagonist in 'Crime and Punishment'?",
-      "answer": "Rodion Raskolnikov",
-      "incorrect_answers": ["Ivan Karamazov", "Prince Myshkin", "Alexei Karamazov"],
-      "content": "",
-      "content_type": "",
-      "category": ["Classics", "Novel", "Psychological"],
-      "era": "19th Century",
-      "challenge": 2
-    },
-    {
-      "id": 12,
-      "question": "Who wrote 'The Divine Comedy'?",
-      "answer": "Dante Alighieri",
-      "incorrect_answers": ["Giovanni Boccaccio", "Petrarch", "Geoffrey Chaucer"],
-      "content": "",
-      "content_type": "",
-      "category": ["Classics", "Poetry", "Epic"],
-      "era": "14th Century",
-      "challenge": 3
-    },
-    {
-      "id": 13,
-      "question": "What is the setting of 'Wuthering Heights'?",
-      "answer": "Yorkshire moors",
-      "incorrect_answers": ["Scottish Highlands", "English countryside", "Cornwall coast"],
-      "content": "",
-      "content_type": "",
-      "category": ["Classics", "Novel", "Gothic"],
-      "era": "19th Century",
-      "challenge": 2
-    },
-    {
-      "id": 14,
-      "question": "Who wrote 'The Canterbury Tales'?",
-      "answer": "Geoffrey Chaucer",
-      "incorrect_answers": ["William Langland", "John Gower", "Thomas Malory"],
-      "content": "",
-      "content_type": "",
-      "category": ["Classics", "Poetry"],
-      "era": "14th Century",
-      "challenge": 3
-    },
-    {
-      "id": 15,
-      "question": "What is the title of Mark Twain's novel about a boy's adventures on the Mississippi River?",
-      "answer": "Adventures of Huckleberry Finn",
-      "incorrect_answers": ["The Adventures of Tom Sawyer", "Life on the Mississippi", "A Connecticut Yankee in King Arthur's Court"],
-      "content": "",
-      "content_type": "",
-      "category": ["Classics", "Novel", "Adventure"],
-      "era": "19th Century",
-      "challenge": 1
-    },
-    {
-      "id": 16,
-      "question": "Who wrote 'One Hundred Years of Solitude'?",
-      "answer": "Gabriel García Márquez",
-      "incorrect_answers": ["Isabel Allende", "Jorge Luis Borges", "Mario Vargas Llosa"],
-      "content": "",
-      "content_type": "",
-      "category": ["Classics", "Novel", "Magical Realism"],
-      "era": "20th Century",
-      "challenge": 2
-    },
-    {
-      "id": 17,
-      "question": "What is the name of the ship in 'Heart of Darkness'?",
-      "answer": "The Nellie",
-      "incorrect_answers": ["The Pequod", "The Hispaniola", "The Beagle"],
-      "content": "",
-      "content_type": "",
-      "category": ["Classics", "Novella", "Modernism"],
-      "era": "19th-20th Century",
-      "challenge": 2
-    },
-    {
-        "id": 18,
-        "question": "Who is the author of 'Little Women'?",
-        "answer": "Louisa May Alcott",
-        "incorrect_answers": ["Jane Austen", "Charlotte Brontë", "Emily Dickinson"],
-        "content": "",
-        "content_type": "",
-        "category": ["Classics", "Novel", "Coming-of-age"],
-        "era": "19th Century",
-        "challenge": 1
-      },
-      {
-        "id": 19,
-        "question": "What is the name of the main character in 'The Picture of Dorian Gray'?",
-        "answer": "Dorian Gray",
-        "incorrect_answers": ["Lord Henry Wotton", "Basil Hallward", "Sibyl Vane"],
-        "content": "",
-        "content_type": "",
-        "category": ["Classics", "Novel", "Gothic"],
-        "era": "19th Century",
-        "challenge": 2
-      },
-      {
-        "id": 20,
-        "question": "Who wrote 'The Metamorphosis'?",
-        "answer": "Franz Kafka",
-        "incorrect_answers": ["Hermann Hesse", "Thomas Mann", "Rainer Maria Rilke"],
-        "content": "",
-        "content_type": "",
-        "category": ["Classics", "Novella", "Absurdism"],
-        "era": "20th Century",
-        "challenge": 2
-      },
-      {
-        "id": 21,
-        "question": "What is the title of Emily Brontë's only novel?",
-        "answer": "Wuthering Heights",
-        "incorrect_answers": ["Jane Eyre", "Agnes Grey", "Villette"],
-        "content": "",
-        "content_type": "",
-        "category": ["Classics", "Novel", "Gothic"],
-        "era": "19th Century",
-        "challenge": 1
-      },
-      {
-        "id": 22,
-        "question": "Who wrote 'The Iliad'?",
-        "answer": "Homer",
-        "incorrect_answers": ["Hesiod", "Sappho", "Pindar"],
-        "content": "",
-        "content_type": "",
-        "category": ["Classics", "Poetry", "Epic"],
-        "era": "Ancient Greece",
-        "challenge": 2
-      },
-      {
-        "id": 23,
-        "question": "What is the name of the main character in 'Great Expectations'?",
-        "answer": "Pip (Philip Pirrip)",
-        "incorrect_answers": ["Oliver Twist", "David Copperfield", "Nicholas Nickleby"],
-        "content": "",
-        "content_type": "",
-        "category": ["Classics", "Novel", "Bildungsroman"],
-        "era": "19th Century",
-        "challenge": 2
-      },
-      {
-        "id": 24,
-        "question": "Who wrote 'Les Misérables'?",
-        "answer": "Victor Hugo",
-        "incorrect_answers": ["Alexandre Dumas", "Honoré de Balzac", "Gustave Flaubert"],
-        "content": "",
-        "content_type": "",
-        "category": ["Classics", "Novel", "Historical Fiction"],
-        "era": "19th Century",
-        "challenge": 2
-      },
-      {
-        "id": 25,
-        "question": "What is the title of Ray Bradbury's dystopian novel about book burning?",
-        "answer": "Fahrenheit 451",
-        "incorrect_answers": ["The Martian Chronicles", "Something Wicked This Way Comes", "Dandelion Wine"],
-        "content": "",
-        "content_type": "",
-        "category": ["Classics", "Novel", "Dystopian"],
-        "era": "20th Century",
-        "challenge": 1
-      },
-      {
-        "id": 26,
-        "question": "Who wrote 'The Scarlet Letter'?",
-        "answer": "Nathaniel Hawthorne",
-        "incorrect_answers": ["Herman Melville", "Edgar Allan Poe", "Ralph Waldo Emerson"],
-        "content": "",
-        "content_type": "",
-        "category": ["Classics", "Novel", "Romanticism"],
-        "era": "19th Century",
-        "challenge": 2
-      },
-      {
-        "id": 27,
-        "question": "What is the name of the main character in 'Alice's Adventures in Wonderland'?",
-        "answer": "Alice",
-        "incorrect_answers": ["Dorothy", "Wendy", "Cinderella"],
-        "content": "",
-        "content_type": "",
-        "category": ["Classics", "Novel", "Fantasy"],
-        "era": "19th Century",
-        "challenge": 1
-      },
-      {
-        "id": 28,
-        "question": "Who wrote 'The Count of Monte Cristo'?",
-        "answer": "Alexandre Dumas",
-        "incorrect_answers": ["Victor Hugo", "Jules Verne", "Émile Zola"],
-        "content": "",
-        "content_type": "",
-        "category": ["Classics", "Novel", "Adventure"],
-        "era": "19th Century",
-        "challenge": 2
-      },
-      {
-        "id": 29,
-        "question": "What is the title of John Steinbeck's novel about the Joad family's journey during the Dust Bowl?",
-        "answer": "The Grapes of Wrath",
-        "incorrect_answers": ["Of Mice and Men", "East of Eden", "Tortilla Flat"],
-        "content": "",
-        "content_type": "",
-        "category": ["Classics", "Novel", "Social Realism"],
-        "era": "20th Century",
-        "challenge": 2
-      },
-      {
-        "id": 30,
-        "question": "Who wrote 'Dracula'?",
-        "answer": "Bram Stoker",
-        "incorrect_answers": ["Mary Shelley", "Robert Louis Stevenson", "Oscar Wilde"],
-        "content": "",
-        "content_type": "",
-        "category": ["Classics", "Novel", "Gothic Horror"],
-        "era": "19th Century",
-        "challenge": 1
-      },
-        {
-        "id": 31,
-        "question": "What is the name of the main character in 'The Call of the Wild'?",
-        "answer": "Buck",
-        "incorrect_answers": ["White Fang", "Jack", "Fang"],
-        "content": "",
-        "content_type": "",
-        "category": ["Classics", "Novel", "Adventure"],
-        "era": "20th Century",
-        "challenge": 1
-      },
-        {
-        "id": 32,
-        "question": "Who wrote 'A Tale of Two Cities'?",
-        "answer": "Charles Dickens",
-        "incorrect_answers": ["Thomas Hardy", "George Eliot", "William Makepeace Thackeray"],
-        "content": "",
-        "content_type": "",
-        "category": ["Classics", "Novel", "Historical Fiction"],
-        "era": "19th Century",
-        "challenge": 2
-      },
-        {
-        "id": 33,
-        "question": "What is the title of William Golding's novel about a group of boys stranded on a desert island?",
-        "answer": "Lord of the Flies",
-        "incorrect_answers": ["The Hunger Games", "The Beach", "Life of Pi"],
-        "content": "",
-        "content_type": "",
-        "category": ["Classics", "Novel", "Allegory"],
-        "era": "20th Century",
-        "challenge": 2
-      },
-        {
-        "id": 34,
-        "question": "Who wrote 'The Picture of Dorian Gray'?",
-        "answer": "Oscar Wilde",
-        "incorrect_answers": ["Bram Stoker", "Robert Louis Stevenson", "Arthur Conan Doyle"],
-        "content": "",
-        "content_type": "",
-        "category": ["Classics", "Novel", "Philosophical"],
-        "era": "19th Century",
-        "challenge": 2
-      },
-      {
-        "id": 35,
-        "question": "What is the name of the main character in 'The Strange Case of Dr. Jekyll and Mr. Hyde'?",
-        "answer": "Dr. Henry Jekyll",
-        "incorrect_answers": ["Mr. Utterson", "Mr. Enfield", "Sir Danvers Carew"],
-        "content": "",
-        "content_type": "",
-        "category": ["Classics", "Novella", "Gothic"],
-        "era": "19th Century",
-        "challenge": 2
-      },
-      {
-        "id": 36,
-        "question": "Who wrote 'War and Peace'?",
-        "answer": "Leo Tolstoy",
-        "incorrect_answers": ["Fyodor Dostoevsky", "Anton Chekhov", "Ivan Turgenev"],
-        "content": "",
-        "content_type": "",
-        "category": ["Classics", "Novel", "Historical Fiction"],
-        "era": "19th Century",
-        "challenge": 3
-      },
-      {
-        "id": 37,
-        "question": "What is the setting of 'The Time Machine'?",
-        "answer": "England",
-        "incorrect_answers": ["Mars", "The Moon", "A distant planet"],
-        "content": "",
-        "content_type": "",
-        "category": ["Classics", "Novel", "Science Fiction"],
-        "era": "19th Century",
-        "challenge": 2
-      },
-      {
-        "id": 38,
-        "question": "Who wrote 'The Importance of Being Earnest'?",
-        "answer": "Oscar Wilde",
-        "incorrect_answers": ["George Bernard Shaw", "Noël Coward", "W. Somerset Maugham"],
-        "content": "",
-        "content_type": "",
-        "category": ["Classics", "Play", "Comedy"],
-        "era": "19th Century",
-        "challenge": 2
-      },
-      {
-        "id": 39,
-        "question": "What is the title of Virginia Woolf's novel about a single day in the life of Clarissa Dalloway?",
-        "answer": "Mrs. Dalloway",
-        "incorrect_answers": ["To the Lighthouse", "Orlando", "A Room of One's Own"],
-        "content": "",
-        "content_type": "",
-        "category": ["Classics", "Novel", "Modernism"],
-        "era": "20th Century",
-        "challenge": 2
-      },
-      {
-        "id": 40,
-        "question": "Who wrote 'The Adventures of Sherlock Holmes'?",
-        "answer": "Arthur Conan Doyle",
-        "incorrect_answers": ["Agatha Christie", "Edgar Allan Poe", "Wilkie Collins"],
-        "content": "",
-        "content_type": "",
-        "category": ["Classics", "Short Stories", "Mystery"],
-        "era": "19th-20th Century",
-        "challenge": 1
-      },
-        {
-        "id": 41,
-        "question": "What is the name of the main character in 'The Invisible Man'?",
-        "answer": "Griffin",
-        "incorrect_answers": ["Jack Griffin", "Hawley Griffin", "John Hawley Griffin"],
-        "content": "",
-        "content_type": "",
-        "category": ["Classics", "Novel", "Science Fiction"],
-        "era": "19th Century",
-        "challenge": 2
-      },
-        {
-        "id": 42,
-        "question": "Who wrote 'The Jungle'?",
-        "answer": "Upton Sinclair",
-        "incorrect_answers": ["Jack London", "Theodore Dreiser", "Stephen Crane"],
-        "content": "",
-        "content_type": "",
-        "category": ["Classics", "Novel", "Social Realism"],
-        "era": "20th Century",
-        "challenge": 2
-      },
-        {
-        "id": 43,
-        "question": "What is the title of Aldous Huxley's dystopian novel about a genetically engineered society?",
-        "answer": "Brave New World",
-        "incorrect_answers": ["1984", "Fahrenheit 451", "We"],
-        "content": "",
-        "content_type": "",
-        "category": ["Classics", "Novel", "Dystopian"],
-        "era": "20th Century",
-        "challenge": 2
-      },
-        {
-        "id": 44,
-        "question": "Who wrote 'The Call of the Wild'?",
-        "answer": "Jack London",
-        "incorrect_answers": ["Rudyard Kipling", "Robert Louis Stevenson", "Herman Melville"],
-        "content": "",
-        "content_type": "",
-        "category": ["Classics", "Novel", "Adventure"],
-        "era": "20th Century",
-        "challenge": 1
-      },
-        {
-        "id": 45,
-        "question": "What is the name of the main character in 'The Color Purple'?",
-        "answer": "Celie Harris Johnson",
-        "incorrect_answers": ["Sofia", "Shug Avery", "Nettie Harris"],
-        "content": "",
-        "content_type": "",
-        "category": ["Classics", "Novel", "Epistolary"],
-        "era": "20th Century",
-        "challenge": 2
-      },
-        {
-        "id": 46,
-        "question": "Who wrote 'The Handmaid's Tale'?",
-        "answer": "Margaret Atwood",
-        "incorrect_answers": ["George Orwell", "Aldous Huxley", "Ray Bradbury"],
-        "content": "",
-        "content_type": "",
-        "category": ["Classics", "Novel", "Dystopian"],
-        "era": "20th Century",
-        "challenge": 2
-      },
-        {
-        "id": 47,
-        "question": "What is the setting of 'The Lord of the Rings' trilogy?",
-        "answer": "Middle-earth",
-        "incorrect_answers": ["Narnia", "Westeros", "Earthsea"],
-        "content": "",
-        "content_type": "",
-        "category": ["Classics", "Novel", "Fantasy"],
-        "era": "20th Century",
-        "challenge": 1
-      },
-        {
-        "id": 48,
-        "question": "Who wrote 'The Hitchhiker's Guide to the Galaxy'?",
-        "answer": "Douglas Adams",
-        "incorrect_answers": ["Terry Pratchett", "Neil Gaiman", "J.R.R. Tolkien"],
-        "content": "",
-        "content_type": "",
-        "category": ["Classics", "Novel", "Science Fiction"],
-        "era": "20th Century",
-        "challenge": 2
-      },
-        {
-        "id": 49,
-        "question": "What is the name of the main character in 'The Bell Jar'?",
-        "answer": "Esther Greenwood",
-        "incorrect_answers": ["Sylvia Plath", "Joan Didion", "Virginia Woolf"],
-        "content": "",
-        "content_type": "",
-        "category": ["Classics", "Novel", "Semi-autobiographical"],
-        "era": "20th Century",
-        "challenge": 2
-      },
-        {
-        "id": 50,
-        "question": "Who wrote 'Catch-22'?",
-        "answer": "Joseph Heller",
-        "incorrect_answers": ["Kurt Vonnegut", "Norman Mailer", "Philip Roth"],
-        "content": "",
-        "content_type": "",
-        "category": ["Classics", "Novel", "Satire"],
-        "era": "20th Century",
-        "challenge": 2
-      },
-      {
-        "id": 51,
-        "question": "What is the name of the main character in 'One Flew Over the Cuckoo's Nest'?",
-        "answer": "Randle McMurphy",
-        "incorrect_answers": ["Chief Bromden", "Billy Bibbit", "Nurse Ratched"],
-        "content": "",
-        "content_type": "",
-        "category": ["Classics", "Novel", "Psychological"],
-        "era": "20th Century",
-        "challenge": 2
-      },
-      {
-        "id": 52,
-        "question": "Who wrote 'The Lord of the Flies'?",
-        "answer": "William Golding",
-        "incorrect_answers": ["George Orwell", "Aldous Huxley", "J.R.R. Tolkien"],
-        "content": "",
-        "content_type": "",
-        "category": ["Classics", "Novel", "Allegory"],
-        "era": "20th Century",
-        "challenge": 2
-      },
-      {
-        "id": 53,
-        "question": "What is the setting of 'The Great Gatsby'?",
-        "answer": "Long Island, New York",
-        "incorrect_answers": ["Chicago", "Paris", "London"],
-        "content": "",
-        "content_type": "",
-        "category": ["Classics", "Novel", "Jazz Age"],
-        "era": "20th Century",
-        "challenge": 1
-      },
-      {
-        "id": 54,
-        "question": "Who wrote 'The Color Purple'?",
-        "answer": "Alice Walker",
-        "incorrect_answers": ["Toni Morrison", "Maya Angelou", "Zora Neale Hurston"],
-        "content": "",
-        "content_type": "",
-        "category": ["Classics", "Novel", "Epistolary"],
-        "era": "20th Century",
-        "challenge": 2
-      },
-      {
-        "id": 55,
-        "question": "What is the name of the main character in 'Invisible Man' (Ralph Ellison)?",
-        "answer": "The Invisible Man",
-        "incorrect_answers": ["Jack", "Tod Clifton", "Brother Jack"],
-        "content": "",
-        "content_type": "",
-        "category": ["Classics", "Novel", "Modernism"],
-        "era": "20th Century",
-        "challenge": 2
-      },
-      {
-        "id": 56,
-        "question": "Who wrote 'Beloved'?",
-        "answer": "Toni Morrison",
-        "incorrect_answers": ["Alice Walker", "Maya Angelou", "Zora Neale Hurston"],
-        "content": "",
-        "content_type": "",
-        "category": ["Classics", "Novel", "Historical Fiction"],
-        "era": "20th Century",
-        "challenge": 2
-      },
-      {
-        "id": 57,
-        "question": "What is the title of Ernest Hemingway's novel about an old Cuban fisherman?",
-        "answer": "The Old Man and the Sea",
-        "incorrect_answers": ["A Farewell to Arms", "For Whom the Bell Tolls", "The Sun Also Rises"],
-        "content": "",
-        "content_type": "",
-        "category": ["Classics", "Novella", "Modernism"],
-        "era": "20th Century",
-        "challenge": 1
-      },
-      {
-        "id": 58,
-        "question": "Who wrote 'The Joy Luck Club'?",
-        "answer": "Amy Tan",
-        "incorrect_answers": ["Maxine Hong Kingston", "Gish Jen", "Jhumpa Lahiri"],
-        "content": "",
-        "content_type": "",
-        "category": ["Contemporary", "Novel", "Family Saga"],
-        "era": "20th Century",
-        "challenge": 2
-      },
-      {
-        "id": 59,
-        "question": "What is the setting of 'The Road'?",
-        "answer": "Post-apocalyptic United States",
-        "incorrect_answers": ["Post-apocalyptic Australia", "Post-apocalyptic England", "Post-apocalyptic Russia"],
-        "content": "",
-        "content_type": "",
-        "category": ["Contemporary", "Novel", "Dystopian"],
-        "era": "21st Century",
-        "challenge": 2
-      },
-      {
-        "id": 60,
-        "question": "Who wrote 'Life of Pi'?",
-        "answer": "Yann Martel",
-        "incorrect_answers": ["Rohinton Mistry", "Michael Ondaatje", "Kazuo Ishiguro"],
-        "content": "",
-        "content_type": "",
-        "category": ["Contemporary", "Novel", "Adventure"],
-        "era": "21st Century",
-        "challenge": 2
-      },
-        {
-        "id": 61,
-        "question": "What is the name of the main character in 'The Kite Runner'?",
-        "answer": "Amir",
-        "incorrect_answers": ["Hassan", "Baba", "Rahim Khan"],
-        "content": "",
-        "content_type": "",
-        "category": ["Contemporary", "Novel", "Coming-of-age"],
-        "era": "21st Century",
-        "challenge": 1
-      },
-          {
-        "id": 62,
-        "question": "Who wrote 'The Book Thief'?",
-        "answer": "Markus Zusak",
-        "incorrect_answers": ["John Boyne", "Khaled Hosseini", "Anthony Doerr"],
-        "content": "",
-        "content_type": "",
-        "category": ["Contemporary", "Novel", "Historical Fiction"],
-        "era": "21st Century",
-        "challenge": 2
-      },
-          {
-        "id": 63,
-        "question": "What is the setting of 'Room'?",
-        "answer": "A small shed/room",
-        "incorrect_answers": ["A prison", "A hospital", "A forest"],
-        "content": "",
-        "content_type": "",
-        "category": ["Contemporary", "Novel", "Psychological"],
-        "era": "21st Century",
-        "challenge": 2
-      },
-          {
-        "id": 64,
-        "question": "Who wrote 'The Help'?",
-        "answer": "Kathryn Stockett",
-        "incorrect_answers": ["Harper Lee", "Sue Monk Kidd", "Jesmyn Ward"],
-        "content": "",
-        "content_type": "",
-        "category": ["Contemporary", "Novel", "Historical Fiction"],
-        "era": "21st Century",
-        "challenge": 2
-      },
-          {
-        "id": 65,
-        "question": "What is the name of the main character in 'The Fault in Our Stars'?",
-        "answer": "Hazel Grace Lancaster",
-        "incorrect_answers": ["Augustus Waters", "Isaac", "Peter Van Houten"],
-        "content": "",
-        "content_type": "",
-        "category": ["Contemporary", "Novel", "Young Adult"],
-        "era": "21st Century",
-        "challenge": 1
-      },
-            {
-        "id": 66,
-        "question": "Who wrote 'Gone Girl'?",
-        "answer": "Gillian Flynn",
-        "incorrect_answers": ["Paula Hawkins", "Megan Abbott", "Tana French"],
-        "content": "",
-        "content_type": "",
-        "category": ["Contemporary", "Novel", "Thriller"],
-        "era": "21st Century",
-        "challenge": 2
-      },
-            {
-        "id": 67,
-        "question": "What is the setting of 'The Hunger Games'?",
-        "answer": "Panem",
-        "incorrect_answers": ["District 12", "The Capitol", "The Arena"],
-        "content": "",
-        "content_type": "",
-        "category": ["Contemporary", "Novel", "Dystopian"],
-        "era": "21st Century",
-        "challenge": 1
-      },
-      {
-        "id": 68,
-        "question": "Who wrote 'The Perks of Being a Wallflower'?",
-        "answer": "Stephen Chbosky",
-        "incorrect_answers": ["John Green", "Rainbow Rowell", "Ned Vizzini"],
-        "content": "",
-        "content_type": "",
-        "category": ["Contemporary", "Novel", "Young Adult"],
-        "era": "21st Century",
-        "challenge": 2
-      },
-      {
-        "id": 69,
-        "question": "What is the name of the main character in 'The Lovely Bones'?",
-        "answer": "Susie Salmon",
-        "incorrect_answers": ["Abigail Salmon", "Jack Salmon", "Lindsey Salmon"],
-        "content": "",
-        "content_type": "",
-        "category": ["Contemporary", "Novel", "Supernatural"],
-        "era": "21st Century",
-        "challenge": 2
-      },
-      {
-        "id": 70,
-        "question": "Who wrote 'Water for Elephants'?",
-        "answer": "Sara Gruen",
-        "incorrect_answers": ["Erin Morgenstern", "Audrey Niffenegger", "Elizabeth Kostova"],
-        "content": "",
-        "content_type": "",
-        "category": ["Contemporary", "Novel", "Historical Fiction"],
-        "era": "21st Century",
-        "challenge": 2
-      },
-        {
-        "id": 71,
-        "question": "What is the title of Khaled Hosseini's novel about two Afghan boys?",
-        "answer": "The Kite Runner",
-        "incorrect_answers": ["A Thousand Splendid Suns", "And the Mountains Echoed", "The Pearl That Broke Its Shell"],
-        "content": "",
-        "content_type": "",
-        "category": ["Contemporary", "Novel", "Historical Fiction"],
-        "era": "21st Century",
-        "challenge": 1
-      },
-        {
-        "id": 72,
-        "question": "Who wrote 'The Time Traveler's Wife'?",
-        "answer": "Audrey Niffenegger",
-        "incorrect_answers": ["Alice Sebold", "Erin Morgenstern", "Kate Morton"],
-        "content": "",
-        "content_type": "",
-        "category": ["Contemporary", "Novel", "Romance"],
-        "era": "21st Century",
-        "challenge": 2
-      },
-        {
-        "id": 73,
-        "question": "What is the setting of 'The Da Vinci Code'?",
-        "answer": "France and England",
-        "incorrect_answers": ["Italy and Greece", "Spain and Portugal", "Germany and Switzerland"],
-        "content": "",
-        "content_type": "",
-        "category": ["Contemporary", "Novel", "Mystery"],
-        "era": "21st Century",
-        "challenge": 2
-      },
-        {
-        "id": 74,
-        "question": "Who wrote 'The Road'?",
-        "answer": "Cormac McCarthy",
-        "incorrect_answers": ["Stephen King", "Dean Koontz", "Justin Cronin"],
-        "content": "",
-        "content_type": "",
-        "category": ["Contemporary", "Novel", "Post-apocalyptic"],
-        "era": "21st Century",
-        "challenge": 2
-      },
-        {
-        "id": 75,
-        "question": "What is the name of the main character in 'The Girl with the Dragon Tattoo'?",
-        "answer": "Lisbeth Salander",
-        "incorrect_answers": ["Mikael Blomkvist", "Erika Berger", "Niels Bjurman"],
-        "content": "",
-        "content_type": "",
-        "category": ["Contemporary", "Novel", "Mystery"],
-        "era": "21st Century",
-        "challenge": 2
-      },
-        {
-        "id": 76,
-        "question": "Who wrote 'Cloud Atlas'?",
-        "answer": "David Mitchell",
-        "incorrect_answers": ["Kazuo Ishiguro", "Ian McEwan", "Julian Barnes"],
-        "content": "",
-        "content_type": "",
-        "category": ["Contemporary", "Novel", "Science Fiction"],
-        "era": "21st Century",
-        "challenge": 3
-      },
-        {
-        "id": 77,
-        "question": "What is the setting of 'The Shadow of the Wind'?",
-        "answer": "Barcelona",
-        "incorrect_answers": ["Madrid", "Paris", "Rome"],
-        "content": "",
-        "content_type": "",
-        "category": ["Contemporary", "Novel", "Historical Fiction"],
-        "era": "21st Century",
-        "challenge": 2
-      },
-        {
-        "id": 78,
-        "question": "Who wrote 'The Night Circus'?",
-        "answer": "Erin Morgenstern",
-        "incorrect_answers": ["Audrey Niffenegger", "Neil Gaiman", "Susanna Clarke"],
-        "content": "",
-        "content_type": "",
-        "category": ["Contemporary", "Novel", "Fantasy"],
-        "era": "21st Century",
-        "challenge": 2
-      },
-        {
-        "id": 79,
-        "question": "What is the name of the main character in 'The Road'?",
-        "answer": "The Man",
-        "incorrect_answers": ["The Boy", "Ely", "The Woman"],
-        "content": "",
-        "content_type": "",
-        "category": ["Contemporary", "Novel", "Post-apocalyptic"],
-        "era": "21st Century",
-        "challenge": 2
-      },
-        {
-        "id": 80,
-        "question": "Who wrote 'The Secret History'?",
-        "answer": "Donna Tartt",
-        "incorrect_answers": ["Bret Easton Ellis", "Jeffrey Eugenides", "Jonathan Franzen"],
-        "content": "",
-        "content_type": "",
-        "category": ["Contemporary", "Novel", "Mystery"],
-        "era": "20th Century",
-        "challenge": 2
-      },
-        {
-        "id": 81,
-        "question": "What is the setting of 'Never Let Me Go'?",
-        "answer": "England",
-        "incorrect_answers": ["Scotland", "Ireland", "Wales"],
-        "content": "",
-        "content_type": "",
-        "category": ["Contemporary", "Novel", "Dystopian"],
-        "era": "21st Century",
-        "challenge": 2
-      },
-        {
-        "id": 82,
-        "question": "Who wrote 'The Remains of the Day'?",
-        "answer": "Kazuo Ishiguro",
-        "incorrect_answers": ["Ian McEwan", "Julian Barnes", "Martin Amis"],
-        "content": "",
-        "content_type": "",
-        "category": ["Contemporary", "Novel", "Historical Fiction"],
-        "era": "20th Century",
-        "challenge": 2
-      },
-        {
-        "id": 83,
-        "question": "What is the name of the main character in 'The Lovely and the Lost'?",
-        "answer": "Lily",
-        "incorrect_answers": ["Asher", "Caleb", "Sarah"],
-        "content": "",
-        "content_type": "",
-        "category": ["Contemporary", "Novel", "Romance"],
-        "era": "21st Century",
-        "challenge": 1
-      },
-        {
-        "id": 84,
-        "question": "Who wrote 'Station Eleven'?",
-        "answer": "Emily St. John Mandel",
-        "incorrect_answers": ["Margaret Atwood", "Ling Ma", "Chang-rae Lee"],
-        "content": "",
-        "content_type": "",
-        "category": ["Contemporary", "Novel", "Post-apocalyptic"],
-        "era": "21st Century",
-        "challenge": 2
-      },
-      {
-        "id": 85,
-        "question": "What is the setting of 'The Underground Railroad'?",
-        "answer": "The Southern United States",
-        "incorrect_answers": ["Canada", "Mexico", "The Caribbean"],
-        "content": "",
-        "content_type": "",
-        "category": ["Contemporary", "Novel", "Historical Fiction"],
-        "era": "19th Century",
-        "challenge": 2
-      },
-      {
-        "id": 86,
-        "question": "Who wrote 'Americanah'?",
-        "answer": "Chimamanda Ngozi Adichie",
-        "incorrect_answers": ["Zadie Smith", "Teju Cole", "Ayobami Adebayo"],
-        "content": "",
-        "content_type": "",
-        "category": ["Contemporary", "Novel", "Immigration"],
-        "era": "21st Century",
-        "challenge": 2
-      },
-        {
-        "id": 87,
-        "question": "What is the name of the main character in 'Eleanor Oliphant Is Completely Fine'?",
-        "answer": "Eleanor Oliphant",
-        "incorrect_answers": ["Raymond", "Laura", "Marianne"],
-        "content": "",
-        "content_type": "",
-        "category": ["Contemporary", "Novel", "Psychological"],
-        "era": "21st Century",
-        "challenge": 2
-      },
-        {
-        "id": 88,
-        "question": "Who wrote 'Little Fires Everywhere'?",
-        "answer": "Celeste Ng",
-        "incorrect_answers": ["Liane Moriarty", "Megan Abbott", "Gillian Flynn"],
-        "content": "",
-        "content_type": "",
-        "category": ["Contemporary", "Novel", "Family Drama"],
-        "era": "21st Century",
-        "challenge": 2
-      },
-        {
-        "id": 89,
-        "question": "What is the setting of 'Where the Crawdads Sing'?",
-        "answer": "North Carolina marshes",
-        "incorrect_answers": ["Louisiana bayous", "Florida Everglades", "Georgia swamps"],
-        "content": "",
-        "content_type": "",
-        "category": ["Contemporary", "Novel", "Coming-of-age"],
-        "era": "21st Century",
-        "challenge": 2
-      },
-        {
-        "id": 90,
-        "question": "Who wrote 'The Nickel Boys'?",
-        "answer": "Colson Whitehead",
-        "incorrect_answers": ["Ta-Nehisi Coates", "Jesmyn Ward", "Edward P. Jones"],
-        "content": "",
-        "content_type": "",
-        "category": ["Contemporary", "Novel", "Historical Fiction"],
-        "era": "21st Century",
-        "challenge": 2
-      },
-        {
-        "id": 91,
-        "question": "What is the name of the main character in 'The Martian'?",
-        "answer": "Mark Watney",
-        "incorrect_answers": ["Commander Lewis", "Beth Johanssen", "Rick Martinez"],
-        "content": "",
-        "content_type": "",
-        "category": ["Contemporary", "Novel", "Science Fiction"],
-        "era": "21st Century",
-        "challenge": 1
-      },
-        {
-        "id": 92,
-        "question": "Who wrote 'The Hate U Give'?",
-        "answer": "Angie Thomas",
-        "incorrect_answers": ["Nic Stone", "Jason Reynolds", "Elizabeth Acevedo"],
-        "content": "",
-        "content_type": "",
-        "category": ["Contemporary", "Novel", "Young Adult"],
-        "era": "21st Century",
-        "challenge": 2
-      },
-        {
-        "id": 93,
-        "question": "What is the setting of 'The Glass Castle'?",
-        "answer": "Various locations, including Welch, West Virginia",
-        "incorrect_answers": ["New York City", "Los Angeles", "Chicago"],
-        "content": "",
-        "content_type": "",
-        "category": ["Contemporary", "Memoir"],
-        "era": "20th Century",
-        "challenge": 2
-      },
-        {
-        "id": 94,
-        "question": "Who wrote 'Educated'?",
-        "answer": "Tara Westover",
-        "incorrect_answers": ["Michelle Obama", "Hillbilly Elegy", "The Glass Castle"],
-        "content": "",
-        "content_type": "",
-        "category": ["Contemporary", "Memoir"],
-        "era": "21st Century",
-        "challenge": 2
-      },
-        {
-        "id": 95,
-        "question": "What is the name of the main character in 'Where the Red Fern Grows'?",
-        "answer": "Billy Colman",
-        "incorrect_answers": ["Little Ann", "Old Dan", "Papa Colman"],
-        "content": "",
-        "content_type": "",
-        "category": ["Classics", "Novel", "Coming-of-age"],
-        "era": "20th Century",
-        "challenge": 1
-      },
-        {
-        "id": 96,
-        "question": "Who wrote 'Bridge to Terabithia'?",
-        "answer": "Katherine Paterson",
-        "incorrect_answers": ["Beverly Cleary", "Judy Blume", "Lois Lowry"],
-        "content": "",
-        "content_type": "",
-        "category": ["Classics", "Novel", "Children's Literature"],
-        "era": "20th Century",
-        "challenge": 1
-      },
-        {
-        "id": 97,
-        "question": "What is the setting of 'The Outsiders'?",
-        "answer": "Oklahoma",
-        "incorrect_answers": ["Texas", "California", "New York"],
-        "content": "",
-        "content_type": "",
-        "category": ["Classics", "Novel", "Young Adult"],
-        "era": "20th Century",
-        "challenge": 1
-      },
-        {
-        "id": 98,
-        "question": "Who wrote 'Roll of Thunder, Hear My Cry'?",
-        "answer": "Mildred D. Taylor",
-        "incorrect_answers": ["Toni Morrison", "Alice Walker", "Maya Angelou"],
-        "content": "",
-        "content_type": "",
-        "category": ["Classics", "Novel", "Historical Fiction"],
-        "era": "20th Century",
-        "challenge": 2
-      },
-        {
-        "id": 99,
-        "question": "What is the name of the main character in 'Number the Stars'?",
-        "answer": "Annemarie Johansen",
-        "incorrect_answers": ["Ellen Rosen", "Peter Neilsen", "Kirsti Johansen"],
-        "content": "",
-        "content_type": "",
-        "category": ["Classics", "Novel", "Historical Fiction"],
-        "era": "20th Century",
-        "challenge": 1
-      },
-        {
-        "id": 100,
-        "question": "Who wrote 'From the Mixed-Up Files of Mrs. Basil E. Frankweiler'?",
-        "answer": "E.L. Konigsburg",
-        "incorrect_answers": ["Beverly Cleary", "Judy Blume", "Lois Lowry"],
-        "content": "",
-        "content_type": "",
-        "category": ["Classics", "Novel", "Children's Literature"],
-        "era": "20th Century",
-        "challenge": 2
-    }
+  {
+    "id": 1,
+    "question": "Who wrote 'Pride and Prejudice'?",
+    "answer": "Jane Austen",
+    "incorrect_answers": [
+      "Charlotte Brontë",
+      "Emily Brontë",
+      "Louisa May Alcott"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Classics",
+      "Novel",
+      "Romance"
+    ],
+    "era": "19th Century",
+    "challenge": 1
+  },
+  {
+    "id": 2,
+    "question": "What is the title of George Orwell's dystopian novel about a totalitarian regime?",
+    "answer": "1984",
+    "incorrect_answers": [
+      "Animal Farm",
+      "Brave New World",
+      "Fahrenheit 451"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Classics",
+      "Novel",
+      "Dystopian"
+    ],
+    "era": "20th Century",
+    "challenge": 1
+  },
+  {
+    "id": 3,
+    "question": "Who wrote 'Hamlet'?",
+    "answer": "William Shakespeare",
+    "incorrect_answers": [
+      "Christopher Marlowe",
+      "Ben Jonson",
+      "John Milton"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Classics",
+      "Play",
+      "Tragedy"
+    ],
+    "era": "16th-17th Century",
+    "challenge": 1
+  },
+  {
+    "id": 4,
+    "question": "What is the name of the whale in 'Moby-Dick'?",
+    "answer": "Moby Dick",
+    "incorrect_answers": [
+      "Willy",
+      "Monstro",
+      "Orca"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Classics",
+      "Novel",
+      "Adventure"
+    ],
+    "era": "19th Century",
+    "challenge": 1
+  },
+  {
+    "id": 5,
+    "question": "Who wrote 'To Kill a Mockingbird'?",
+    "answer": "Harper Lee",
+    "incorrect_answers": [
+      "Margaret Mitchell",
+      "Flannery O'Connor",
+      "Eudora Welty"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Classics",
+      "Novel",
+      "Southern Gothic"
+    ],
+    "era": "20th Century",
+    "challenge": 1
+  },
+  {
+    "id": 6,
+    "question": "Who is the author of 'The Great Gatsby'?",
+    "answer": "F. Scott Fitzgerald",
+    "incorrect_answers": [
+      "Ernest Hemingway",
+      "John Steinbeck",
+      "William Faulkner"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Classics",
+      "Novel",
+      "Jazz Age"
+    ],
+    "era": "20th Century",
+    "challenge": 1
+  },
+  {
+    "id": 7,
+    "question": "What is the name of the main character in 'Jane Eyre'?",
+    "answer": "Jane Eyre",
+    "incorrect_answers": [
+      "Elizabeth Bennet",
+      "Catherine Earnshaw",
+      "Estella Havisham"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Classics",
+      "Novel",
+      "Gothic"
+    ],
+    "era": "19th Century",
+    "challenge": 1
+  },
+  {
+    "id": 8,
+    "question": "Who wrote 'The Odyssey'?",
+    "answer": "Homer",
+    "incorrect_answers": [
+      "Virgil",
+      "Sophocles",
+      "Euripides"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Classics",
+      "Poetry",
+      "Epic"
+    ],
+    "era": "Ancient Greece",
+    "challenge": 2
+  },
+  {
+    "id": 9,
+    "question": "What is the title of J.D. Salinger's novel about Holden Caulfield?",
+    "answer": "The Catcher in the Rye",
+    "incorrect_answers": [
+      "Franny and Zooey",
+      "Nine Stories",
+      "Raise High the Roof Beam, Carpenters"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Classics",
+      "Novel",
+      "Coming-of-age"
+    ],
+    "era": "20th Century",
+    "challenge": 1
+  },
+  {
+    "id": 10,
+    "question": "Who wrote 'Don Quixote'?",
+    "answer": "Miguel de Cervantes",
+    "incorrect_answers": [
+      "Lope de Vega",
+      "Calderón de la Barca",
+      "Tirso de Molina"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Classics",
+      "Novel",
+      "Satire"
+    ],
+    "era": "17th Century",
+    "challenge": 2
+  },
+  {
+    "id": 11,
+    "question": "What is the name of the protagonist in 'Crime and Punishment'?",
+    "answer": "Rodion Raskolnikov",
+    "incorrect_answers": [
+      "Ivan Karamazov",
+      "Prince Myshkin",
+      "Alexei Karamazov"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Classics",
+      "Novel",
+      "Psychological"
+    ],
+    "era": "19th Century",
+    "challenge": 2
+  },
+  {
+    "id": 12,
+    "question": "Who wrote 'The Divine Comedy'?",
+    "answer": "Dante Alighieri",
+    "incorrect_answers": [
+      "Giovanni Boccaccio",
+      "Petrarch",
+      "Geoffrey Chaucer"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Classics",
+      "Poetry",
+      "Epic"
+    ],
+    "era": "14th Century",
+    "challenge": 3
+  },
+  {
+    "id": 13,
+    "question": "What is the setting of 'Wuthering Heights'?",
+    "answer": "Yorkshire moors",
+    "incorrect_answers": [
+      "Scottish Highlands",
+      "English countryside",
+      "Cornwall coast"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Classics",
+      "Novel",
+      "Gothic"
+    ],
+    "era": "19th Century",
+    "challenge": 2
+  },
+  {
+    "id": 14,
+    "question": "Who wrote 'The Canterbury Tales'?",
+    "answer": "Geoffrey Chaucer",
+    "incorrect_answers": [
+      "William Langland",
+      "John Gower",
+      "Thomas Malory"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Classics",
+      "Poetry"
+    ],
+    "era": "14th Century",
+    "challenge": 3
+  },
+  {
+    "id": 15,
+    "question": "What is the title of Mark Twain's novel about a boy's adventures on the Mississippi River?",
+    "answer": "Adventures of Huckleberry Finn",
+    "incorrect_answers": [
+      "The Adventures of Tom Sawyer",
+      "Life on the Mississippi",
+      "A Connecticut Yankee in King Arthur's Court"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Classics",
+      "Novel",
+      "Adventure"
+    ],
+    "era": "19th Century",
+    "challenge": 1
+  },
+  {
+    "id": 16,
+    "question": "Who wrote 'One Hundred Years of Solitude'?",
+    "answer": "Gabriel García Márquez",
+    "incorrect_answers": [
+      "Isabel Allende",
+      "Jorge Luis Borges",
+      "Mario Vargas Llosa"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Classics",
+      "Novel",
+      "Magical Realism"
+    ],
+    "era": "20th Century",
+    "challenge": 2
+  },
+  {
+    "id": 17,
+    "question": "What is the name of the ship in 'Heart of Darkness'?",
+    "answer": "The Nellie",
+    "incorrect_answers": [
+      "The Pequod",
+      "The Hispaniola",
+      "The Beagle"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Classics",
+      "Novella",
+      "Modernism"
+    ],
+    "era": "19th-20th Century",
+    "challenge": 2
+  },
+  {
+    "id": 18,
+    "question": "Who is the author of 'Little Women'?",
+    "answer": "Louisa May Alcott",
+    "incorrect_answers": [
+      "Jane Austen",
+      "Charlotte Brontë",
+      "Emily Dickinson"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Classics",
+      "Novel",
+      "Coming-of-age"
+    ],
+    "era": "19th Century",
+    "challenge": 1
+  },
+  {
+    "id": 19,
+    "question": "What is the name of the main character in 'The Picture of Dorian Gray'?",
+    "answer": "Dorian Gray",
+    "incorrect_answers": [
+      "Lord Henry Wotton",
+      "Basil Hallward",
+      "Sibyl Vane"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Classics",
+      "Novel",
+      "Gothic"
+    ],
+    "era": "19th Century",
+    "challenge": 2
+  },
+  {
+    "id": 20,
+    "question": "Who wrote 'The Metamorphosis'?",
+    "answer": "Franz Kafka",
+    "incorrect_answers": [
+      "Hermann Hesse",
+      "Thomas Mann",
+      "Rainer Maria Rilke"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Classics",
+      "Novella",
+      "Absurdism"
+    ],
+    "era": "20th Century",
+    "challenge": 2
+  },
+  {
+    "id": 21,
+    "question": "What is the title of Emily Brontë's only novel?",
+    "answer": "Wuthering Heights",
+    "incorrect_answers": [
+      "Jane Eyre",
+      "Agnes Grey",
+      "Villette"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Classics",
+      "Novel",
+      "Gothic"
+    ],
+    "era": "19th Century",
+    "challenge": 1
+  },
+  {
+    "id": 22,
+    "question": "Who wrote 'The Iliad'?",
+    "answer": "Homer",
+    "incorrect_answers": [
+      "Hesiod",
+      "Sappho",
+      "Pindar"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Classics",
+      "Poetry",
+      "Epic"
+    ],
+    "era": "Ancient Greece",
+    "challenge": 2
+  },
+  {
+    "id": 23,
+    "question": "What is the name of the main character in 'Great Expectations'?",
+    "answer": "Pip (Philip Pirrip)",
+    "incorrect_answers": [
+      "Oliver Twist",
+      "David Copperfield",
+      "Nicholas Nickleby"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Classics",
+      "Novel",
+      "Bildungsroman"
+    ],
+    "era": "19th Century",
+    "challenge": 2
+  },
+  {
+    "id": 24,
+    "question": "Who wrote 'Les Misérables'?",
+    "answer": "Victor Hugo",
+    "incorrect_answers": [
+      "Alexandre Dumas",
+      "Honoré de Balzac",
+      "Gustave Flaubert"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Classics",
+      "Novel",
+      "Historical Fiction"
+    ],
+    "era": "19th Century",
+    "challenge": 2
+  },
+  {
+    "id": 25,
+    "question": "What is the title of Ray Bradbury's dystopian novel about book burning?",
+    "answer": "Fahrenheit 451",
+    "incorrect_answers": [
+      "The Martian Chronicles",
+      "Something Wicked This Way Comes",
+      "Dandelion Wine"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Classics",
+      "Novel",
+      "Dystopian"
+    ],
+    "era": "20th Century",
+    "challenge": 1
+  },
+  {
+    "id": 26,
+    "question": "Who wrote 'The Scarlet Letter'?",
+    "answer": "Nathaniel Hawthorne",
+    "incorrect_answers": [
+      "Herman Melville",
+      "Edgar Allan Poe",
+      "Ralph Waldo Emerson"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Classics",
+      "Novel",
+      "Romanticism"
+    ],
+    "era": "19th Century",
+    "challenge": 2
+  },
+  {
+    "id": 27,
+    "question": "What is the name of the main character in 'Alice's Adventures in Wonderland'?",
+    "answer": "Alice",
+    "incorrect_answers": [
+      "Dorothy",
+      "Wendy",
+      "Cinderella"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Classics",
+      "Novel",
+      "Fantasy"
+    ],
+    "era": "19th Century",
+    "challenge": 1
+  },
+  {
+    "id": 28,
+    "question": "Who wrote 'The Count of Monte Cristo'?",
+    "answer": "Alexandre Dumas",
+    "incorrect_answers": [
+      "Victor Hugo",
+      "Jules Verne",
+      "Émile Zola"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Classics",
+      "Novel",
+      "Adventure"
+    ],
+    "era": "19th Century",
+    "challenge": 2
+  },
+  {
+    "id": 29,
+    "question": "What is the title of John Steinbeck's novel about the Joad family's journey during the Dust Bowl?",
+    "answer": "The Grapes of Wrath",
+    "incorrect_answers": [
+      "Of Mice and Men",
+      "East of Eden",
+      "Tortilla Flat"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Classics",
+      "Novel",
+      "Social Realism"
+    ],
+    "era": "20th Century",
+    "challenge": 2
+  },
+  {
+    "id": 30,
+    "question": "Who wrote 'Dracula'?",
+    "answer": "Bram Stoker",
+    "incorrect_answers": [
+      "Mary Shelley",
+      "Robert Louis Stevenson",
+      "Oscar Wilde"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Classics",
+      "Novel",
+      "Gothic Horror"
+    ],
+    "era": "19th Century",
+    "challenge": 1
+  },
+  {
+    "id": 31,
+    "question": "What is the name of the main character in 'The Call of the Wild'?",
+    "answer": "Buck",
+    "incorrect_answers": [
+      "White Fang",
+      "Jack",
+      "Fang"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Classics",
+      "Novel",
+      "Adventure"
+    ],
+    "era": "20th Century",
+    "challenge": 1
+  },
+  {
+    "id": 32,
+    "question": "Who wrote 'A Tale of Two Cities'?",
+    "answer": "Charles Dickens",
+    "incorrect_answers": [
+      "Thomas Hardy",
+      "George Eliot",
+      "William Makepeace Thackeray"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Classics",
+      "Novel",
+      "Historical Fiction"
+    ],
+    "era": "19th Century",
+    "challenge": 2
+  },
+  {
+    "id": 33,
+    "question": "What is the title of William Golding's novel about a group of boys stranded on a desert island?",
+    "answer": "Lord of the Flies",
+    "incorrect_answers": [
+      "The Hunger Games",
+      "The Beach",
+      "Life of Pi"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Classics",
+      "Novel",
+      "Allegory"
+    ],
+    "era": "20th Century",
+    "challenge": 2
+  },
+  {
+    "id": 34,
+    "question": "Who wrote 'The Picture of Dorian Gray'?",
+    "answer": "Oscar Wilde",
+    "incorrect_answers": [
+      "Bram Stoker",
+      "Robert Louis Stevenson",
+      "Arthur Conan Doyle"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Classics",
+      "Novel",
+      "Philosophical"
+    ],
+    "era": "19th Century",
+    "challenge": 2
+  },
+  {
+    "id": 35,
+    "question": "What is the name of the main character in 'The Strange Case of Dr. Jekyll and Mr. Hyde'?",
+    "answer": "Dr. Henry Jekyll",
+    "incorrect_answers": [
+      "Mr. Utterson",
+      "Mr. Enfield",
+      "Sir Danvers Carew"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Classics",
+      "Novella",
+      "Gothic"
+    ],
+    "era": "19th Century",
+    "challenge": 2
+  },
+  {
+    "id": 36,
+    "question": "Who wrote 'War and Peace'?",
+    "answer": "Leo Tolstoy",
+    "incorrect_answers": [
+      "Fyodor Dostoevsky",
+      "Anton Chekhov",
+      "Ivan Turgenev"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Classics",
+      "Novel",
+      "Historical Fiction"
+    ],
+    "era": "19th Century",
+    "challenge": 3
+  },
+  {
+    "id": 37,
+    "question": "What is the setting of 'The Time Machine'?",
+    "answer": "England",
+    "incorrect_answers": [
+      "Mars",
+      "The Moon",
+      "A distant planet"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Classics",
+      "Novel",
+      "Science Fiction"
+    ],
+    "era": "19th Century",
+    "challenge": 2
+  },
+  {
+    "id": 38,
+    "question": "Who wrote 'The Importance of Being Earnest'?",
+    "answer": "Oscar Wilde",
+    "incorrect_answers": [
+      "George Bernard Shaw",
+      "Noël Coward",
+      "W. Somerset Maugham"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Classics",
+      "Play",
+      "Comedy"
+    ],
+    "era": "19th Century",
+    "challenge": 2
+  },
+  {
+    "id": 39,
+    "question": "What is the title of Virginia Woolf's novel about a single day in the life of Clarissa Dalloway?",
+    "answer": "Mrs. Dalloway",
+    "incorrect_answers": [
+      "To the Lighthouse",
+      "Orlando",
+      "A Room of One's Own"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Classics",
+      "Novel",
+      "Modernism"
+    ],
+    "era": "20th Century",
+    "challenge": 2
+  },
+  {
+    "id": 40,
+    "question": "Who wrote 'The Adventures of Sherlock Holmes'?",
+    "answer": "Arthur Conan Doyle",
+    "incorrect_answers": [
+      "Agatha Christie",
+      "Edgar Allan Poe",
+      "Wilkie Collins"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Classics",
+      "Short Stories",
+      "Mystery"
+    ],
+    "era": "19th-20th Century",
+    "challenge": 1
+  },
+  {
+    "id": 41,
+    "question": "What is the name of the main character in 'The Invisible Man'?",
+    "answer": "Griffin",
+    "incorrect_answers": [
+      "Jack Griffin",
+      "Hawley Griffin",
+      "John Hawley Griffin"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Classics",
+      "Novel",
+      "Science Fiction"
+    ],
+    "era": "19th Century",
+    "challenge": 2
+  },
+  {
+    "id": 42,
+    "question": "Who wrote 'The Jungle'?",
+    "answer": "Upton Sinclair",
+    "incorrect_answers": [
+      "Jack London",
+      "Theodore Dreiser",
+      "Stephen Crane"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Classics",
+      "Novel",
+      "Social Realism"
+    ],
+    "era": "20th Century",
+    "challenge": 2
+  },
+  {
+    "id": 43,
+    "question": "What is the title of Aldous Huxley's dystopian novel about a genetically engineered society?",
+    "answer": "Brave New World",
+    "incorrect_answers": [
+      "1984",
+      "Fahrenheit 451",
+      "We"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Classics",
+      "Novel",
+      "Dystopian"
+    ],
+    "era": "20th Century",
+    "challenge": 2
+  },
+  {
+    "id": 44,
+    "question": "Who wrote 'The Call of the Wild'?",
+    "answer": "Jack London",
+    "incorrect_answers": [
+      "Rudyard Kipling",
+      "Robert Louis Stevenson",
+      "Herman Melville"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Classics",
+      "Novel",
+      "Adventure"
+    ],
+    "era": "20th Century",
+    "challenge": 1
+  },
+  {
+    "id": 45,
+    "question": "What is the name of the main character in 'The Color Purple'?",
+    "answer": "Celie Harris Johnson",
+    "incorrect_answers": [
+      "Sofia",
+      "Shug Avery",
+      "Nettie Harris"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Classics",
+      "Novel",
+      "Epistolary"
+    ],
+    "era": "20th Century",
+    "challenge": 2
+  },
+  {
+    "id": 46,
+    "question": "Who wrote 'The Handmaid's Tale'?",
+    "answer": "Margaret Atwood",
+    "incorrect_answers": [
+      "George Orwell",
+      "Aldous Huxley",
+      "Ray Bradbury"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Classics",
+      "Novel",
+      "Dystopian"
+    ],
+    "era": "20th Century",
+    "challenge": 2
+  },
+  {
+    "id": 47,
+    "question": "What is the setting of 'The Lord of the Rings' trilogy?",
+    "answer": "Middle-earth",
+    "incorrect_answers": [
+      "Narnia",
+      "Westeros",
+      "Earthsea"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Classics",
+      "Novel",
+      "Fantasy"
+    ],
+    "era": "20th Century",
+    "challenge": 1
+  },
+  {
+    "id": 48,
+    "question": "Who wrote 'The Hitchhiker's Guide to the Galaxy'?",
+    "answer": "Douglas Adams",
+    "incorrect_answers": [
+      "Terry Pratchett",
+      "Neil Gaiman",
+      "J.R.R. Tolkien"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Classics",
+      "Novel",
+      "Science Fiction"
+    ],
+    "era": "20th Century",
+    "challenge": 2
+  },
+  {
+    "id": 49,
+    "question": "What is the name of the main character in 'The Bell Jar'?",
+    "answer": "Esther Greenwood",
+    "incorrect_answers": [
+      "Sylvia Plath",
+      "Joan Didion",
+      "Virginia Woolf"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Classics",
+      "Novel",
+      "Semi-autobiographical"
+    ],
+    "era": "20th Century",
+    "challenge": 2
+  },
+  {
+    "id": 50,
+    "question": "Who wrote 'Catch-22'?",
+    "answer": "Joseph Heller",
+    "incorrect_answers": [
+      "Kurt Vonnegut",
+      "Norman Mailer",
+      "Philip Roth"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Classics",
+      "Novel",
+      "Satire"
+    ],
+    "era": "20th Century",
+    "challenge": 2
+  },
+  {
+    "id": 51,
+    "question": "What is the name of the main character in 'One Flew Over the Cuckoo's Nest'?",
+    "answer": "Randle McMurphy",
+    "incorrect_answers": [
+      "Chief Bromden",
+      "Billy Bibbit",
+      "Nurse Ratched"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Classics",
+      "Novel",
+      "Psychological"
+    ],
+    "era": "20th Century",
+    "challenge": 2
+  },
+  {
+    "id": 52,
+    "question": "Who wrote 'The Lord of the Flies'?",
+    "answer": "William Golding",
+    "incorrect_answers": [
+      "George Orwell",
+      "Aldous Huxley",
+      "J.R.R. Tolkien"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Classics",
+      "Novel",
+      "Allegory"
+    ],
+    "era": "20th Century",
+    "challenge": 2
+  },
+  {
+    "id": 53,
+    "question": "What is the setting of 'The Great Gatsby'?",
+    "answer": "Long Island, New York",
+    "incorrect_answers": [
+      "Chicago",
+      "Paris",
+      "London"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Classics",
+      "Novel",
+      "Jazz Age"
+    ],
+    "era": "20th Century",
+    "challenge": 1
+  },
+  {
+    "id": 54,
+    "question": "Who wrote 'The Color Purple'?",
+    "answer": "Alice Walker",
+    "incorrect_answers": [
+      "Toni Morrison",
+      "Maya Angelou",
+      "Zora Neale Hurston"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Classics",
+      "Novel",
+      "Epistolary"
+    ],
+    "era": "20th Century",
+    "challenge": 2
+  },
+  {
+    "id": 55,
+    "question": "What is the name of the main character in 'Invisible Man' (Ralph Ellison)?",
+    "answer": "The Invisible Man",
+    "incorrect_answers": [
+      "Jack",
+      "Tod Clifton",
+      "Brother Jack"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Classics",
+      "Novel",
+      "Modernism"
+    ],
+    "era": "20th Century",
+    "challenge": 2
+  },
+  {
+    "id": 56,
+    "question": "Who wrote 'Beloved'?",
+    "answer": "Toni Morrison",
+    "incorrect_answers": [
+      "Alice Walker",
+      "Maya Angelou",
+      "Zora Neale Hurston"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Classics",
+      "Novel",
+      "Historical Fiction"
+    ],
+    "era": "20th Century",
+    "challenge": 2
+  },
+  {
+    "id": 57,
+    "question": "What is the title of Ernest Hemingway's novel about an old Cuban fisherman?",
+    "answer": "The Old Man and the Sea",
+    "incorrect_answers": [
+      "A Farewell to Arms",
+      "For Whom the Bell Tolls",
+      "The Sun Also Rises"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Classics",
+      "Novella",
+      "Modernism"
+    ],
+    "era": "20th Century",
+    "challenge": 1
+  },
+  {
+    "id": 58,
+    "question": "Who wrote 'The Joy Luck Club'?",
+    "answer": "Amy Tan",
+    "incorrect_answers": [
+      "Maxine Hong Kingston",
+      "Gish Jen",
+      "Jhumpa Lahiri"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Contemporary",
+      "Novel",
+      "Family Saga"
+    ],
+    "era": "20th Century",
+    "challenge": 2
+  },
+  {
+    "id": 59,
+    "question": "What is the setting of 'The Road'?",
+    "answer": "Post-apocalyptic United States",
+    "incorrect_answers": [
+      "Post-apocalyptic Australia",
+      "Post-apocalyptic England",
+      "Post-apocalyptic Russia"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Contemporary",
+      "Novel",
+      "Dystopian"
+    ],
+    "era": "21st Century",
+    "challenge": 2
+  },
+  {
+    "id": 60,
+    "question": "Who wrote 'Life of Pi'?",
+    "answer": "Yann Martel",
+    "incorrect_answers": [
+      "Rohinton Mistry",
+      "Michael Ondaatje",
+      "Kazuo Ishiguro"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Contemporary",
+      "Novel",
+      "Adventure"
+    ],
+    "era": "21st Century",
+    "challenge": 2
+  },
+  {
+    "id": 61,
+    "question": "What is the name of the main character in 'The Kite Runner'?",
+    "answer": "Amir",
+    "incorrect_answers": [
+      "Hassan",
+      "Baba",
+      "Rahim Khan"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Contemporary",
+      "Novel",
+      "Coming-of-age"
+    ],
+    "era": "21st Century",
+    "challenge": 1
+  },
+  {
+    "id": 62,
+    "question": "Who wrote 'The Book Thief'?",
+    "answer": "Markus Zusak",
+    "incorrect_answers": [
+      "John Boyne",
+      "Khaled Hosseini",
+      "Anthony Doerr"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Contemporary",
+      "Novel",
+      "Historical Fiction"
+    ],
+    "era": "21st Century",
+    "challenge": 2
+  },
+  {
+    "id": 63,
+    "question": "What is the setting of 'Room'?",
+    "answer": "A small shed/room",
+    "incorrect_answers": [
+      "A prison",
+      "A hospital",
+      "A forest"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Contemporary",
+      "Novel",
+      "Psychological"
+    ],
+    "era": "21st Century",
+    "challenge": 2
+  },
+  {
+    "id": 64,
+    "question": "Who wrote 'The Help'?",
+    "answer": "Kathryn Stockett",
+    "incorrect_answers": [
+      "Harper Lee",
+      "Sue Monk Kidd",
+      "Jesmyn Ward"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Contemporary",
+      "Novel",
+      "Historical Fiction"
+    ],
+    "era": "21st Century",
+    "challenge": 2
+  },
+  {
+    "id": 65,
+    "question": "What is the name of the main character in 'The Fault in Our Stars'?",
+    "answer": "Hazel Grace Lancaster",
+    "incorrect_answers": [
+      "Augustus Waters",
+      "Isaac",
+      "Peter Van Houten"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Contemporary",
+      "Novel",
+      "Young Adult"
+    ],
+    "era": "21st Century",
+    "challenge": 1
+  },
+  {
+    "id": 66,
+    "question": "Who wrote 'Gone Girl'?",
+    "answer": "Gillian Flynn",
+    "incorrect_answers": [
+      "Paula Hawkins",
+      "Megan Abbott",
+      "Tana French"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Contemporary",
+      "Novel",
+      "Thriller"
+    ],
+    "era": "21st Century",
+    "challenge": 2
+  },
+  {
+    "id": 67,
+    "question": "What is the setting of 'The Hunger Games'?",
+    "answer": "Panem",
+    "incorrect_answers": [
+      "District 12",
+      "The Capitol",
+      "The Arena"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Contemporary",
+      "Novel",
+      "Dystopian"
+    ],
+    "era": "21st Century",
+    "challenge": 1
+  },
+  {
+    "id": 68,
+    "question": "Who wrote 'The Perks of Being a Wallflower'?",
+    "answer": "Stephen Chbosky",
+    "incorrect_answers": [
+      "John Green",
+      "Rainbow Rowell",
+      "Ned Vizzini"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Contemporary",
+      "Novel",
+      "Young Adult"
+    ],
+    "era": "21st Century",
+    "challenge": 2
+  },
+  {
+    "id": 69,
+    "question": "What is the name of the main character in 'The Lovely Bones'?",
+    "answer": "Susie Salmon",
+    "incorrect_answers": [
+      "Abigail Salmon",
+      "Jack Salmon",
+      "Lindsey Salmon"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Contemporary",
+      "Novel",
+      "Supernatural"
+    ],
+    "era": "21st Century",
+    "challenge": 2
+  },
+  {
+    "id": 70,
+    "question": "Who wrote 'Water for Elephants'?",
+    "answer": "Sara Gruen",
+    "incorrect_answers": [
+      "Erin Morgenstern",
+      "Audrey Niffenegger",
+      "Elizabeth Kostova"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Contemporary",
+      "Novel",
+      "Historical Fiction"
+    ],
+    "era": "21st Century",
+    "challenge": 2
+  },
+  {
+    "id": 71,
+    "question": "What is the title of Khaled Hosseini's novel about two Afghan boys?",
+    "answer": "The Kite Runner",
+    "incorrect_answers": [
+      "A Thousand Splendid Suns",
+      "And the Mountains Echoed",
+      "The Pearl That Broke Its Shell"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Contemporary",
+      "Novel",
+      "Historical Fiction"
+    ],
+    "era": "21st Century",
+    "challenge": 1
+  },
+  {
+    "id": 72,
+    "question": "Who wrote 'The Time Traveler's Wife'?",
+    "answer": "Audrey Niffenegger",
+    "incorrect_answers": [
+      "Alice Sebold",
+      "Erin Morgenstern",
+      "Kate Morton"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Contemporary",
+      "Novel",
+      "Romance"
+    ],
+    "era": "21st Century",
+    "challenge": 2
+  },
+  {
+    "id": 73,
+    "question": "What is the setting of 'The Da Vinci Code'?",
+    "answer": "France and England",
+    "incorrect_answers": [
+      "Italy and Greece",
+      "Spain and Portugal",
+      "Germany and Switzerland"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Contemporary",
+      "Novel",
+      "Mystery"
+    ],
+    "era": "21st Century",
+    "challenge": 2
+  },
+  {
+    "id": 74,
+    "question": "Who wrote 'The Road'?",
+    "answer": "Cormac McCarthy",
+    "incorrect_answers": [
+      "Stephen King",
+      "Dean Koontz",
+      "Justin Cronin"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Contemporary",
+      "Novel",
+      "Post-apocalyptic"
+    ],
+    "era": "21st Century",
+    "challenge": 2
+  },
+  {
+    "id": 75,
+    "question": "What is the name of the main character in 'The Girl with the Dragon Tattoo'?",
+    "answer": "Lisbeth Salander",
+    "incorrect_answers": [
+      "Mikael Blomkvist",
+      "Erika Berger",
+      "Niels Bjurman"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Contemporary",
+      "Novel",
+      "Mystery"
+    ],
+    "era": "21st Century",
+    "challenge": 2
+  },
+  {
+    "id": 76,
+    "question": "Who wrote 'Cloud Atlas'?",
+    "answer": "David Mitchell",
+    "incorrect_answers": [
+      "Kazuo Ishiguro",
+      "Ian McEwan",
+      "Julian Barnes"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Contemporary",
+      "Novel",
+      "Science Fiction"
+    ],
+    "era": "21st Century",
+    "challenge": 3
+  },
+  {
+    "id": 77,
+    "question": "What is the setting of 'The Shadow of the Wind'?",
+    "answer": "Barcelona",
+    "incorrect_answers": [
+      "Madrid",
+      "Paris",
+      "Rome"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Contemporary",
+      "Novel",
+      "Historical Fiction"
+    ],
+    "era": "21st Century",
+    "challenge": 2
+  },
+  {
+    "id": 78,
+    "question": "Who wrote 'The Night Circus'?",
+    "answer": "Erin Morgenstern",
+    "incorrect_answers": [
+      "Audrey Niffenegger",
+      "Neil Gaiman",
+      "Susanna Clarke"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Contemporary",
+      "Novel",
+      "Fantasy"
+    ],
+    "era": "21st Century",
+    "challenge": 2
+  },
+  {
+    "id": 79,
+    "question": "What is the name of the main character in 'The Road'?",
+    "answer": "The Man",
+    "incorrect_answers": [
+      "The Boy",
+      "Ely",
+      "The Woman"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Contemporary",
+      "Novel",
+      "Post-apocalyptic"
+    ],
+    "era": "21st Century",
+    "challenge": 2
+  },
+  {
+    "id": 80,
+    "question": "Who wrote 'The Secret History'?",
+    "answer": "Donna Tartt",
+    "incorrect_answers": [
+      "Bret Easton Ellis",
+      "Jeffrey Eugenides",
+      "Jonathan Franzen"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Contemporary",
+      "Novel",
+      "Mystery"
+    ],
+    "era": "20th Century",
+    "challenge": 2
+  },
+  {
+    "id": 81,
+    "question": "What is the setting of 'Never Let Me Go'?",
+    "answer": "England",
+    "incorrect_answers": [
+      "Scotland",
+      "Ireland",
+      "Wales"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Contemporary",
+      "Novel",
+      "Dystopian"
+    ],
+    "era": "21st Century",
+    "challenge": 2
+  },
+  {
+    "id": 82,
+    "question": "Who wrote 'The Remains of the Day'?",
+    "answer": "Kazuo Ishiguro",
+    "incorrect_answers": [
+      "Ian McEwan",
+      "Julian Barnes",
+      "Martin Amis"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Contemporary",
+      "Novel",
+      "Historical Fiction"
+    ],
+    "era": "20th Century",
+    "challenge": 2
+  },
+  {
+    "id": 83,
+    "question": "What is the name of the main character in 'The Lovely and the Lost'?",
+    "answer": "Lily",
+    "incorrect_answers": [
+      "Asher",
+      "Caleb",
+      "Sarah"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Contemporary",
+      "Novel",
+      "Romance"
+    ],
+    "era": "21st Century",
+    "challenge": 1
+  },
+  {
+    "id": 84,
+    "question": "Who wrote 'Station Eleven'?",
+    "answer": "Emily St. John Mandel",
+    "incorrect_answers": [
+      "Margaret Atwood",
+      "Ling Ma",
+      "Chang-rae Lee"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Contemporary",
+      "Novel",
+      "Post-apocalyptic"
+    ],
+    "era": "21st Century",
+    "challenge": 2
+  },
+  {
+    "id": 85,
+    "question": "What is the setting of 'The Underground Railroad'?",
+    "answer": "The Southern United States",
+    "incorrect_answers": [
+      "Canada",
+      "Mexico",
+      "The Caribbean"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Contemporary",
+      "Novel",
+      "Historical Fiction"
+    ],
+    "era": "19th Century",
+    "challenge": 2
+  },
+  {
+    "id": 86,
+    "question": "Who wrote 'Americanah'?",
+    "answer": "Chimamanda Ngozi Adichie",
+    "incorrect_answers": [
+      "Zadie Smith",
+      "Teju Cole",
+      "Ayobami Adebayo"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Contemporary",
+      "Novel",
+      "Immigration"
+    ],
+    "era": "21st Century",
+    "challenge": 2
+  },
+  {
+    "id": 87,
+    "question": "What is the name of the main character in 'Eleanor Oliphant Is Completely Fine'?",
+    "answer": "Eleanor Oliphant",
+    "incorrect_answers": [
+      "Raymond",
+      "Laura",
+      "Marianne"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Contemporary",
+      "Novel",
+      "Psychological"
+    ],
+    "era": "21st Century",
+    "challenge": 2
+  },
+  {
+    "id": 88,
+    "question": "Who wrote 'Little Fires Everywhere'?",
+    "answer": "Celeste Ng",
+    "incorrect_answers": [
+      "Liane Moriarty",
+      "Megan Abbott",
+      "Gillian Flynn"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Contemporary",
+      "Novel",
+      "Family Drama"
+    ],
+    "era": "21st Century",
+    "challenge": 2
+  },
+  {
+    "id": 89,
+    "question": "What is the setting of 'Where the Crawdads Sing'?",
+    "answer": "North Carolina marshes",
+    "incorrect_answers": [
+      "Louisiana bayous",
+      "Florida Everglades",
+      "Georgia swamps"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Contemporary",
+      "Novel",
+      "Coming-of-age"
+    ],
+    "era": "21st Century",
+    "challenge": 2
+  },
+  {
+    "id": 90,
+    "question": "Who wrote 'The Nickel Boys'?",
+    "answer": "Colson Whitehead",
+    "incorrect_answers": [
+      "Ta-Nehisi Coates",
+      "Jesmyn Ward",
+      "Edward P. Jones"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Contemporary",
+      "Novel",
+      "Historical Fiction"
+    ],
+    "era": "21st Century",
+    "challenge": 2
+  },
+  {
+    "id": 91,
+    "question": "What is the name of the main character in 'The Martian'?",
+    "answer": "Mark Watney",
+    "incorrect_answers": [
+      "Commander Lewis",
+      "Beth Johanssen",
+      "Rick Martinez"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Contemporary",
+      "Novel",
+      "Science Fiction"
+    ],
+    "era": "21st Century",
+    "challenge": 1
+  },
+  {
+    "id": 92,
+    "question": "Who wrote 'The Hate U Give'?",
+    "answer": "Angie Thomas",
+    "incorrect_answers": [
+      "Nic Stone",
+      "Jason Reynolds",
+      "Elizabeth Acevedo"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Contemporary",
+      "Novel",
+      "Young Adult"
+    ],
+    "era": "21st Century",
+    "challenge": 2
+  },
+  {
+    "id": 93,
+    "question": "What is the setting of 'The Glass Castle'?",
+    "answer": "Various locations, including Welch, West Virginia",
+    "incorrect_answers": [
+      "New York City",
+      "Los Angeles",
+      "Chicago"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Contemporary",
+      "Memoir"
+    ],
+    "era": "20th Century",
+    "challenge": 2
+  },
+  {
+    "id": 94,
+    "question": "Who wrote 'Educated'?",
+    "answer": "Tara Westover",
+    "incorrect_answers": [
+      "Michelle Obama",
+      "Hillbilly Elegy",
+      "The Glass Castle"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Contemporary",
+      "Memoir"
+    ],
+    "era": "21st Century",
+    "challenge": 2
+  },
+  {
+    "id": 95,
+    "question": "What is the name of the main character in 'Where the Red Fern Grows'?",
+    "answer": "Billy Colman",
+    "incorrect_answers": [
+      "Little Ann",
+      "Old Dan",
+      "Papa Colman"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Classics",
+      "Novel",
+      "Coming-of-age"
+    ],
+    "era": "20th Century",
+    "challenge": 1
+  },
+  {
+    "id": 96,
+    "question": "Who wrote 'Bridge to Terabithia'?",
+    "answer": "Katherine Paterson",
+    "incorrect_answers": [
+      "Beverly Cleary",
+      "Judy Blume",
+      "Lois Lowry"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Classics",
+      "Novel",
+      "Children's Literature"
+    ],
+    "era": "20th Century",
+    "challenge": 1
+  },
+  {
+    "id": 97,
+    "question": "What is the setting of 'The Outsiders'?",
+    "answer": "Oklahoma",
+    "incorrect_answers": [
+      "Texas",
+      "California",
+      "New York"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Classics",
+      "Novel",
+      "Young Adult"
+    ],
+    "era": "20th Century",
+    "challenge": 1
+  },
+  {
+    "id": 98,
+    "question": "Who wrote 'Roll of Thunder, Hear My Cry'?",
+    "answer": "Mildred D. Taylor",
+    "incorrect_answers": [
+      "Toni Morrison",
+      "Alice Walker",
+      "Maya Angelou"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Classics",
+      "Novel",
+      "Historical Fiction"
+    ],
+    "era": "20th Century",
+    "challenge": 2
+  },
+  {
+    "id": 99,
+    "question": "What is the name of the main character in 'Number the Stars'?",
+    "answer": "Annemarie Johansen",
+    "incorrect_answers": [
+      "Ellen Rosen",
+      "Peter Neilsen",
+      "Kirsti Johansen"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Classics",
+      "Novel",
+      "Historical Fiction"
+    ],
+    "era": "20th Century",
+    "challenge": 1
+  },
+  {
+    "id": 100,
+    "question": "Who wrote 'From the Mixed-Up Files of Mrs. Basil E. Frankweiler'?",
+    "answer": "E.L. Konigsburg",
+    "incorrect_answers": [
+      "Beverly Cleary",
+      "Judy Blume",
+      "Lois Lowry"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Classics",
+      "Novel",
+      "Children's Literature"
+    ],
+    "era": "20th Century",
+    "challenge": 2
+  }
 ]

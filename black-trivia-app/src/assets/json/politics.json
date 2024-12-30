@@ -1,199 +1,340 @@
 [
     {
-      "id": 1,
-      "question": "How many years is a US Senator's term?",
-      "answer": "Six",
-      "incorrect_answers": ["Two", "Four", "Eight"],
-      "content": "",
-      "content_type": "",
-      "category": ["US Government", "Congress", "Senate"],
-      "era": "Multiple",
-      "challenge": 1
+        "id": 1,
+        "question": "How many years is a US Senator's term?",
+        "answer": "Six",
+        "incorrect_answers": [
+            "Two",
+            "Four",
+            "Eight"
+        ],
+        "content": "",
+        "content_type": "",
+        "category": [
+            "US Government",
+            "Congress",
+            "Senate"
+        ],
+        "era": "Multiple",
+        "challenge": 1
     },
     {
-      "id": 2,
-      "question": "Who is the Commander-in-Chief of the US military?",
-      "answer": "The President",
-      "incorrect_answers": ["The Vice President", "The Secretary of Defense", "The Chairman of the Joint Chiefs of Staff"],
-      "content": "",
-      "content_type": "",
-      "category": ["US Government", "Executive Branch", "Military"],
-      "era": "Multiple",
-      "challenge": 1
+        "id": 2,
+        "question": "Who is the Commander-in-Chief of the US military?",
+        "answer": "The President",
+        "incorrect_answers": [
+            "The Vice President",
+            "The Secretary of Defense",
+            "The Chairman of the Joint Chiefs of Staff"
+        ],
+        "content": "",
+        "content_type": "",
+        "category": [
+            "US Government",
+            "Executive Branch",
+            "Military"
+        ],
+        "era": "Multiple",
+        "challenge": 1
     },
     {
-      "id": 3,
-      "question": "What is the highest court in the United States?",
-      "answer": "The Supreme Court",
-      "incorrect_answers": ["The Court of Appeals", "The District Court", "The Tax Court"],
-      "content": "",
-      "content_type": "",
-      "category": ["US Government", "Judicial Branch", "Supreme Court"],
-      "era": "Multiple",
-      "challenge": 1
+        "id": 3,
+        "question": "What is the highest court in the United States?",
+        "answer": "The Supreme Court",
+        "incorrect_answers": [
+            "The Court of Appeals",
+            "The District Court",
+            "The Tax Court"
+        ],
+        "content": "",
+        "content_type": "",
+        "category": [
+            "US Government",
+            "Judicial Branch",
+            "Supreme Court"
+        ],
+        "era": "Multiple",
+        "challenge": 1
     },
     {
-      "id": 4,
-      "question": "How many amendments are in the US Constitution?",
-      "answer": "27",
-      "incorrect_answers": ["10", "12", "50"],
-      "content": "",
-      "content_type": "",
-      "category": ["US Government", "Constitution", "Amendments"],
-      "era": "Multiple",
-      "challenge": 1
+        "id": 4,
+        "question": "How many amendments are in the US Constitution?",
+        "answer": "27",
+        "incorrect_answers": [
+            "10",
+            "12",
+            "50"
+        ],
+        "content": "",
+        "content_type": "",
+        "category": [
+            "US Government",
+            "Constitution",
+            "Amendments"
+        ],
+        "era": "Multiple",
+        "challenge": 1
     },
-      {
-      "id": 5,
-      "question": "What is the main role of the legislative branch in the US government?",
-      "answer": "To make laws",
-      "incorrect_answers": ["To enforce laws", "To interpret laws", "To appoint judges"],
-      "content": "",
-      "content_type": "",
-      "category": ["US Government", "Legislative Branch", "Congress"],
-      "era": "Multiple",
-      "challenge": 1
+    {
+        "id": 5,
+        "question": "What is the main role of the legislative branch in the US government?",
+        "answer": "To make laws",
+        "incorrect_answers": [
+            "To enforce laws",
+            "To interpret laws",
+            "To appoint judges"
+        ],
+        "content": "",
+        "content_type": "",
+        "category": [
+            "US Government",
+            "Legislative Branch",
+            "Congress"
+        ],
+        "era": "Multiple",
+        "challenge": 1
     },
-      {
-      "id": 6,
-      "question": "Which of these is NOT a branch of the U.S. government?",
-      "answer": "The Federal Reserve",
-      "incorrect_answers": ["The Executive Branch", "The Judicial Branch", "The Legislative Branch"],
-      "content": "",
-      "content_type": "",
-      "category": ["US Government", "Branches"],
-      "era": "Multiple",
-      "challenge": 1
+    {
+        "id": 6,
+        "question": "Which of these is NOT a branch of the U.S. government?",
+        "answer": "The Federal Reserve",
+        "incorrect_answers": [
+            "The Executive Branch",
+            "The Judicial Branch",
+            "The Legislative Branch"
+        ],
+        "content": "",
+        "content_type": "",
+        "category": [
+            "US Government",
+            "Branches"
+        ],
+        "era": "Multiple",
+        "challenge": 1
     },
-      {
-      "id": 7,
-      "question": "What is the Bill of Rights?",
-      "answer": "The first ten amendments to the Constitution",
-      "incorrect_answers": ["The Declaration of Independence", "The Articles of Confederation", "A list of presidential vetoes"],
-      "content": "",
-      "content_type": "",
-      "category": ["US Government", "Constitution", "Bill of Rights"],
-      "era": "Multiple",
-      "challenge": 1
+    {
+        "id": 7,
+        "question": "What is the Bill of Rights?",
+        "answer": "The first ten amendments to the Constitution",
+        "incorrect_answers": [
+            "The Declaration of Independence",
+            "The Articles of Confederation",
+            "A list of presidential vetoes"
+        ],
+        "content": "",
+        "content_type": "",
+        "category": [
+            "US Government",
+            "Constitution",
+            "Bill of Rights"
+        ],
+        "era": "Multiple",
+        "challenge": 1
     },
-      {
-      "id": 8,
-      "question": "What is the minimum age to be President of the United States?",
-      "answer": "35",
-      "incorrect_answers": ["25", "30", "40"],
-      "content": "",
-      "content_type": "",
-      "category": ["US Government", "Executive Branch", "President"],
-      "era": "Multiple",
-      "challenge": 1
+    {
+        "id": 8,
+        "question": "What is the minimum age to be President of the United States?",
+        "answer": "35",
+        "incorrect_answers": [
+            "25",
+            "30",
+            "40"
+        ],
+        "content": "",
+        "content_type": "",
+        "category": [
+            "US Government",
+            "Executive Branch",
+            "President"
+        ],
+        "era": "Multiple",
+        "challenge": 1
     },
-      {
-      "id": 9,
-      "question": "How many US Representatives are there?",
-      "answer": "435",
-      "incorrect_answers": ["100", "538", "50"],
-      "content": "",
-      "content_type": "",
-      "category": ["US Government", "Congress", "House of Representatives"],
-      "era": "Multiple",
-      "challenge": 1
+    {
+        "id": 9,
+        "question": "How many US Representatives are there?",
+        "answer": "435",
+        "incorrect_answers": [
+            "100",
+            "538",
+            "50"
+        ],
+        "content": "",
+        "content_type": "",
+        "category": [
+            "US Government",
+            "Congress",
+            "House of Representatives"
+        ],
+        "era": "Multiple",
+        "challenge": 1
     },
-      {
-      "id": 10,
-      "question": "What is the purpose of the Electoral College?",
-      "answer": "To elect the President and Vice President",
-      "incorrect_answers": ["To elect members of Congress", "To appoint Supreme Court justices", "To decide on constitutional amendments"],
-      "content": "",
-      "content_type": "",
-      "category": ["US Government", "Elections", "Electoral College"],
-      "era": "Multiple",
-      "challenge": 2
+    {
+        "id": 10,
+        "question": "What is the purpose of the Electoral College?",
+        "answer": "To elect the President and Vice President",
+        "incorrect_answers": [
+            "To elect members of Congress",
+            "To appoint Supreme Court justices",
+            "To decide on constitutional amendments"
+        ],
+        "content": "",
+        "content_type": "",
+        "category": [
+            "US Government",
+            "Elections",
+            "Electoral College"
+        ],
+        "era": "Multiple",
+        "challenge": 2
     },
-      {
-      "id": 11,
-      "question": "What is the term for the powers specifically listed in the Constitution?",
-      "answer": "Enumerated powers",
-      "incorrect_answers": ["Implied powers", "Reserved powers", "Concurrent powers"],
-      "content": "",
-      "content_type": "",
-      "category": ["US Government", "Constitution", "Powers"],
-      "era": "Multiple",
-      "challenge": 2
+    {
+        "id": 11,
+        "question": "What is the term for the powers specifically listed in the Constitution?",
+        "answer": "Enumerated powers",
+        "incorrect_answers": [
+            "Implied powers",
+            "Reserved powers",
+            "Concurrent powers"
+        ],
+        "content": "",
+        "content_type": "",
+        "category": [
+            "US Government",
+            "Constitution",
+            "Powers"
+        ],
+        "era": "Multiple",
+        "challenge": 2
     },
-      {
-      "id": 12,
-      "question": "What is the role of the Vice President?",
-      "answer": "President of the Senate and succeeds the President if necessary",
-      "incorrect_answers": ["Speaker of the House", "Chief Justice of the Supreme Court", "Secretary of State"],
-      "content": "",
-      "content_type": "",
-      "category": ["US Government", "Executive Branch", "Vice President"],
-      "era": "Multiple",
-      "challenge": 2
+    {
+        "id": 12,
+        "question": "What is the role of the Vice President?",
+        "answer": "President of the Senate and succeeds the President if necessary",
+        "incorrect_answers": [
+            "Speaker of the House",
+            "Chief Justice of the Supreme Court",
+            "Secretary of State"
+        ],
+        "content": "",
+        "content_type": "",
+        "category": [
+            "US Government",
+            "Executive Branch",
+            "Vice President"
+        ],
+        "era": "Multiple",
+        "challenge": 2
     },
-      {
-      "id": 13,
-      "question": "What is the process by which a president can be removed from office?",
-      "answer": "Impeachment",
-      "incorrect_answers": ["Recall", "Resignation", "Censure"],
-      "content": "",
-      "content_type": "",
-      "category": ["US Government", "Executive Branch", "Impeachment"],
-      "era": "Multiple",
-      "challenge": 2
+    {
+        "id": 13,
+        "question": "What is the process by which a president can be removed from office?",
+        "answer": "Impeachment",
+        "incorrect_answers": [
+            "Recall",
+            "Resignation",
+            "Censure"
+        ],
+        "content": "",
+        "content_type": "",
+        "category": [
+            "US Government",
+            "Executive Branch",
+            "Impeachment"
+        ],
+        "era": "Multiple",
+        "challenge": 2
     },
-      {
-      "id": 14,
-      "question": "What is the meaning of 'checks and balances' in the US government?",
-      "answer": "Each branch of government can limit the power of the other branches",
-      "incorrect_answers": ["Power is divided equally among the states", "The government is divided into three equal parts", "Elections are held every two years"],
-      "content": "",
-      "content_type": "",
-      "category": ["US Government", "Branches", "Checks and Balances"],
-      "era": "Multiple",
-      "challenge": 2
+    {
+        "id": 14,
+        "question": "What is the meaning of 'checks and balances' in the US government?",
+        "answer": "Each branch of government can limit the power of the other branches",
+        "incorrect_answers": [
+            "Power is divided equally among the states",
+            "The government is divided into three equal parts",
+            "Elections are held every two years"
+        ],
+        "content": "",
+        "content_type": "",
+        "category": [
+            "US Government",
+            "Branches",
+            "Checks and Balances"
+        ],
+        "era": "Multiple",
+        "challenge": 2
     },
-      {
-      "id": 15,
-      "question": "What is the significance of Marbury v. Madison?",
-      "answer": "Established judicial review",
-      "incorrect_answers": ["Ended slavery", "Established the Electoral College", "Established term limits for presidents"],
-      "content": "",
-      "content_type": "",
-      "category": ["US Government", "Judicial Branch", "Supreme Court", "Landmark Cases"],
-      "era": "Early 1800s",
-      "challenge": 3
+    {
+        "id": 15,
+        "question": "What is the significance of Marbury v. Madison?",
+        "answer": "Established judicial review",
+        "incorrect_answers": [
+            "Ended slavery",
+            "Established the Electoral College",
+            "Established term limits for presidents"
+        ],
+        "content": "",
+        "content_type": "",
+        "category": [
+            "US Government",
+            "Judicial Branch",
+            "Supreme Court",
+            "Landmark Cases"
+        ],
+        "era": "Early 1800s",
+        "challenge": 3
     },
-      {
-      "id": 16,
-      "question": "What are the two major political parties in the United States?",
-      "answer": "Democratic and Republican",
-      "incorrect_answers": ["Federalist and Anti-Federalist", "Whig and Democrat", "Green and Libertarian"],
-      "content": "",
-      "content_type": "",
-      "category": ["US Politics", "Political Parties"],
-      "era": "Multiple",
-      "challenge": 1
+    {
+        "id": 16,
+        "question": "What are the two major political parties in the United States?",
+        "answer": "Democratic and Republican",
+        "incorrect_answers": [
+            "Federalist and Anti-Federalist",
+            "Whig and Democrat",
+            "Green and Libertarian"
+        ],
+        "content": "",
+        "content_type": "",
+        "category": [
+            "US Politics",
+            "Political Parties"
+        ],
+        "era": "Multiple",
+        "challenge": 1
     },
-      {
-      "id": 17,
-      "question": "What is the term for a formal agreement between two or more countries?",
-      "answer": "Treaty",
-      "incorrect_answers": ["Executive order", "Executive agreement", "Memorandum of understanding"],
-      "content": "",
-      "content_type": "",
-      "category": ["International Relations", "Foreign Policy"],
-      "era": "Multiple",
-      "challenge": 2
+    {
+        "id": 17,
+        "question": "What is the term for a formal agreement between two or more countries?",
+        "answer": "Treaty",
+        "incorrect_answers": [
+            "Executive order",
+            "Executive agreement",
+            "Memorandum of understanding"
+        ],
+        "content": "",
+        "content_type": "",
+        "category": [
+            "International Relations",
+            "Foreign Policy"
+        ],
+        "era": "Multiple",
+        "challenge": 2
     },
     {
         "id": 18,
         "question": "What is the role of lobbying in politics?",
         "answer": "To influence government policy on behalf of a specific interest group",
-        "incorrect_answers": ["To conduct elections", "To enforce laws", "To interpret laws"],
+        "incorrect_answers": [
+            "To conduct elections",
+            "To enforce laws",
+            "To interpret laws"
+        ],
         "content": "",
         "content_type": "",
-        "category": ["US Politics", "Lobbying"],
+        "category": [
+            "US Politics",
+            "Lobbying"
+        ],
         "era": "Multiple",
         "challenge": 2
     },
@@ -201,10 +342,17 @@
         "id": 19,
         "question": "What is a political platform?",
         "answer": "A set of principles and goals of a political party",
-        "incorrect_answers": ["A debate between candidates", "A fundraising event", "A type of voting machine"],
+        "incorrect_answers": [
+            "A debate between candidates",
+            "A fundraising event",
+            "A type of voting machine"
+        ],
         "content": "",
         "content_type": "",
-        "category": ["US Politics", "Political Parties"],
+        "category": [
+            "US Politics",
+            "Political Parties"
+        ],
         "era": "Multiple",
         "challenge": 2
     },
@@ -212,10 +360,17 @@
         "id": 20,
         "question": "What is gerrymandering?",
         "answer": "Drawing electoral district boundaries to favor one party",
-        "incorrect_answers": ["Counting votes incorrectly", "Campaigning illegally", "Suppressing voter turnout"],
+        "incorrect_answers": [
+            "Counting votes incorrectly",
+            "Campaigning illegally",
+            "Suppressing voter turnout"
+        ],
         "content": "",
         "content_type": "",
-        "category": ["US Politics", "Elections"],
+        "category": [
+            "US Politics",
+            "Elections"
+        ],
         "era": "Multiple",
         "challenge": 2
     },
@@ -223,10 +378,17 @@
         "id": 21,
         "question": "What is the difference between a primary election and a general election?",
         "answer": "Primaries select party candidates; general elections choose officeholders",
-        "incorrect_answers": ["Primaries are for local elections; general elections are for national elections", "Primaries are held in November; general elections are held in March", "There is no difference"],
+        "incorrect_answers": [
+            "Primaries are for local elections; general elections are for national elections",
+            "Primaries are held in November; general elections are held in March",
+            "There is no difference"
+        ],
         "content": "",
         "content_type": "",
-        "category": ["US Politics", "Elections"],
+        "category": [
+            "US Politics",
+            "Elections"
+        ],
         "era": "Multiple",
         "challenge": 2
     },
@@ -234,10 +396,18 @@
         "id": 22,
         "question": "What is the function of the State of the Union address?",
         "answer": "The President reports to Congress on the state of the country",
-        "incorrect_answers": ["The President declares war", "The President proposes constitutional amendments", "The President meets with foreign leaders"],
+        "incorrect_answers": [
+            "The President declares war",
+            "The President proposes constitutional amendments",
+            "The President meets with foreign leaders"
+        ],
         "content": "",
         "content_type": "",
-        "category": ["US Government", "Executive Branch", "President"],
+        "category": [
+            "US Government",
+            "Executive Branch",
+            "President"
+        ],
         "era": "Multiple",
         "challenge": 2
     },
@@ -245,10 +415,18 @@
         "id": 23,
         "question": "What is the role of the Cabinet in the US government?",
         "answer": "To advise the President on various policy issues",
-        "incorrect_answers": ["To make laws", "To interpret laws", "To impeach the President"],
+        "incorrect_answers": [
+            "To make laws",
+            "To interpret laws",
+            "To impeach the President"
+        ],
         "content": "",
         "content_type": "",
-        "category": ["US Government", "Executive Branch", "Cabinet"],
+        "category": [
+            "US Government",
+            "Executive Branch",
+            "Cabinet"
+        ],
         "era": "Multiple",
         "challenge": 2
     },
@@ -256,10 +434,17 @@
         "id": 24,
         "question": "What is the meaning of 'separation of powers' in the US government?",
         "answer": "Power is divided among the three branches of government",
-        "incorrect_answers": ["Power is divided between the federal and state governments", "Power is held solely by the President", "Power is held solely by Congress"],
+        "incorrect_answers": [
+            "Power is divided between the federal and state governments",
+            "Power is held solely by the President",
+            "Power is held solely by Congress"
+        ],
         "content": "",
         "content_type": "",
-        "category": ["US Government", "Branches"],
+        "category": [
+            "US Government",
+            "Branches"
+        ],
         "era": "Multiple",
         "challenge": 2
     },
@@ -267,10 +452,17 @@
         "id": 25,
         "question": "What is the significance of the Declaration of Independence?",
         "answer": "Declared the American colonies independent from Great Britain",
-        "incorrect_answers": ["Established the US Constitution", "Ended the Civil War", "Established the Bill of Rights"],
+        "incorrect_answers": [
+            "Established the US Constitution",
+            "Ended the Civil War",
+            "Established the Bill of Rights"
+        ],
         "content": "",
         "content_type": "",
-        "category": ["US History", "Founding Documents"],
+        "category": [
+            "US History",
+            "Founding Documents"
+        ],
         "era": "Late 1700s",
         "challenge": 2
     },
@@ -278,10 +470,16 @@
         "id": 26,
         "question": "What is the term for a government in which citizens rule through elected representatives?",
         "answer": "Republic",
-        "incorrect_answers": ["Monarchy", "Dictatorship", "Anarchy"],
+        "incorrect_answers": [
+            "Monarchy",
+            "Dictatorship",
+            "Anarchy"
+        ],
         "content": "",
         "content_type": "",
-        "category": ["Political Systems"],
+        "category": [
+            "Political Systems"
+        ],
         "era": "Multiple",
         "challenge": 2
     },
@@ -289,32 +487,53 @@
         "id": 27,
         "question": "What is the difference between a liberal and a conservative ideology?",
         "answer": "Liberals generally favor government intervention; conservatives favor limited government",
-        "incorrect_answers": ["Liberals favor lower taxes; conservatives favor higher taxes", "Liberals are always Democrats; conservatives are always Republicans", "There is no difference"],
+        "incorrect_answers": [
+            "Liberals favor lower taxes; conservatives favor higher taxes",
+            "Liberals are always Democrats; conservatives are always Republicans",
+            "There is no difference"
+        ],
         "content": "",
         "content_type": "",
-        "category": ["Political Ideologies"],
+        "category": [
+            "Political Ideologies"
+        ],
         "era": "Multiple",
         "challenge": 3
     },
-        {
+    {
         "id": 28,
         "question": "What is the purpose of a political action committee (PAC)?",
         "answer": "To raise and spend money to elect and defeat candidates",
-        "incorrect_answers": ["To conduct public opinion polls", "To organize political rallies", "To write legislation"],
+        "incorrect_answers": [
+            "To conduct public opinion polls",
+            "To organize political rallies",
+            "To write legislation"
+        ],
         "content": "",
         "content_type": "",
-        "category": ["US Politics", "Campaign Finance"],
+        "category": [
+            "US Politics",
+            "Campaign Finance"
+        ],
         "era": "Multiple",
         "challenge": 2
     },
-        {
+    {
         "id": 29,
         "question": "What is the process of amending the U.S. Constitution?",
         "answer": "Requires a two-thirds vote in both houses of Congress and ratification by three-fourths of the states",
-        "incorrect_answers": ["Requires a majority vote in Congress and approval by the President", "Requires a national referendum", "Requires a Supreme Court decision"],
+        "incorrect_answers": [
+            "Requires a majority vote in Congress and approval by the President",
+            "Requires a national referendum",
+            "Requires a Supreme Court decision"
+        ],
         "content": "",
         "content_type": "",
-        "category": ["US Government", "Constitution", "Amendments"],
+        "category": [
+            "US Government",
+            "Constitution",
+            "Amendments"
+        ],
         "era": "Multiple",
         "challenge": 3
     },
@@ -322,10 +541,17 @@
         "id": 30,
         "question": "What was the Cold War?",
         "answer": "A period of geopolitical tension between the United States and the Soviet Union and their respective allies.",
-        "incorrect_answers": ["A direct military conflict between the US and the Soviet Union.", "A trade war between Europe and the US.", "A series of conflicts in the Middle East."],
+        "incorrect_answers": [
+            "A direct military conflict between the US and the Soviet Union.",
+            "A trade war between Europe and the US.",
+            "A series of conflicts in the Middle East."
+        ],
         "content": "",
         "content_type": "",
-        "category": ["International Relations", "Cold War"],
+        "category": [
+            "International Relations",
+            "Cold War"
+        ],
         "era": "Mid-20th Century",
         "challenge": 2
     },
@@ -333,21 +559,35 @@
         "id": 31,
         "question": "What is NATO?",
         "answer": "North Atlantic Treaty Organization, a military alliance",
-        "incorrect_answers": ["North American Trade Organization", "National Association of Tax Officials", "National Alliance of Teacher Organizations"],
+        "incorrect_answers": [
+            "North American Trade Organization",
+            "National Association of Tax Officials",
+            "National Alliance of Teacher Organizations"
+        ],
         "content": "",
         "content_type": "",
-        "category": ["International Relations", "NATO"],
+        "category": [
+            "International Relations",
+            "NATO"
+        ],
         "era": "Post-World War II",
         "challenge": 2
     },
-     {
+    {
         "id": 32,
         "question": "What is the role of the United Nations?",
         "answer": "To maintain international peace and security, develop friendly relations among nations, achieve international cooperation, and be a centre for harmonizing the actions of nations.",
-        "incorrect_answers": ["To establish international trade agreements", "To govern all countries of the world", "To provide military defense for member nations"],
+        "incorrect_answers": [
+            "To establish international trade agreements",
+            "To govern all countries of the world",
+            "To provide military defense for member nations"
+        ],
         "content": "",
         "content_type": "",
-        "category": ["International Relations", "United Nations"],
+        "category": [
+            "International Relations",
+            "United Nations"
+        ],
         "era": "Post-World War II",
         "challenge": 2
     },
@@ -355,10 +595,18 @@
         "id": 33,
         "question": "What is meant by the term 'suffrage'?",
         "answer": "The right to vote",
-        "incorrect_answers": ["Freedom of speech", "Freedom of religion", "The right to bear arms"],
+        "incorrect_answers": [
+            "Freedom of speech",
+            "Freedom of religion",
+            "The right to bear arms"
+        ],
         "content": "",
         "content_type": "",
-        "category": ["US Politics", "Elections", "Voting Rights"],
+        "category": [
+            "US Politics",
+            "Elections",
+            "Voting Rights"
+        ],
         "era": "Multiple",
         "challenge": 1
     },
@@ -366,10 +614,18 @@
         "id": 34,
         "question": "What was the Watergate scandal?",
         "answer": "A political scandal involving the Nixon administration's abuse of power",
-        "incorrect_answers": ["A stock market crash", "A major oil spill", "A diplomatic crisis with the Soviet Union"],
+        "incorrect_answers": [
+            "A stock market crash",
+            "A major oil spill",
+            "A diplomatic crisis with the Soviet Union"
+        ],
         "content": "",
         "content_type": "",
-        "category": ["US Politics", "Scandals", "Presidency"],
+        "category": [
+            "US Politics",
+            "Scandals",
+            "Presidency"
+        ],
         "era": "1970s",
         "challenge": 2
     },
@@ -377,10 +633,17 @@
         "id": 35,
         "question": "What is the role of the media in a democracy?",
         "answer": "To inform the public and hold the government accountable",
-        "incorrect_answers": ["To promote government propaganda", "To entertain the public", "To make profits for media companies"],
+        "incorrect_answers": [
+            "To promote government propaganda",
+            "To entertain the public",
+            "To make profits for media companies"
+        ],
         "content": "",
         "content_type": "",
-        "category": ["Politics", "Media"],
+        "category": [
+            "Politics",
+            "Media"
+        ],
         "era": "Multiple",
         "challenge": 2
     },
@@ -388,10 +651,16 @@
         "id": 36,
         "question": "What is the difference between direct democracy and representative democracy?",
         "answer": "In direct democracy, citizens vote on laws directly; in representative democracy, they elect representatives",
-        "incorrect_answers": ["Direct democracy is only used in small communities; representative democracy is used in large countries", "There is no difference", "Direct democracy is more efficient than representative democracy"],
+        "incorrect_answers": [
+            "Direct democracy is only used in small communities; representative democracy is used in large countries",
+            "There is no difference",
+            "Direct democracy is more efficient than representative democracy"
+        ],
         "content": "",
         "content_type": "",
-        "category": ["Political Systems"],
+        "category": [
+            "Political Systems"
+        ],
         "era": "Multiple",
         "challenge": 3
     },
@@ -399,10 +668,17 @@
         "id": 37,
         "question": "What is the concept of federalism?",
         "answer": "A system of government in which power is divided between a central government and regional governments",
-        "incorrect_answers": ["A system of government in which all power is held by the central government", "A system of government in which all power is held by the regional governments", "A system of government with no central authority"],
+        "incorrect_answers": [
+            "A system of government in which all power is held by the central government",
+            "A system of government in which all power is held by the regional governments",
+            "A system of government with no central authority"
+        ],
         "content": "",
         "content_type": "",
-        "category": ["US Government", "Federalism"],
+        "category": [
+            "US Government",
+            "Federalism"
+        ],
         "era": "Multiple",
         "challenge": 2
     },
@@ -410,10 +686,17 @@
         "id": 38,
         "question": "What is the purpose of foreign aid?",
         "answer": "To provide assistance to other countries, often for economic development or humanitarian reasons",
-        "incorrect_answers": ["To conquer other countries", "To exploit the resources of other countries", "To force other countries to adopt certain policies"],
+        "incorrect_answers": [
+            "To conquer other countries",
+            "To exploit the resources of other countries",
+            "To force other countries to adopt certain policies"
+        ],
         "content": "",
         "content_type": "",
-        "category": ["International Relations", "Foreign Policy"],
+        "category": [
+            "International Relations",
+            "Foreign Policy"
+        ],
         "era": "Multiple",
         "challenge": 2
     },
@@ -421,10 +704,17 @@
         "id": 39,
         "question": "What is the significance of the Magna Carta?",
         "answer": "It limited the power of the English monarch and established basic legal rights",
-        "incorrect_answers": ["It established the United States of America", "It ended the Roman Empire", "It established the principle of divine right of kings"],
+        "incorrect_answers": [
+            "It established the United States of America",
+            "It ended the Roman Empire",
+            "It established the principle of divine right of kings"
+        ],
         "content": "",
         "content_type": "",
-        "category": ["Political History", "Legal History"],
+        "category": [
+            "Political History",
+            "Legal History"
+        ],
         "era": "Medieval",
         "challenge": 3
     },
@@ -432,87 +722,144 @@
         "id": 40,
         "question": "What is the difference between a parliamentary system and a presidential system?",
         "answer": "In a parliamentary system, the executive is drawn from the legislature; in a presidential system, the executive is elected separately",
-        "incorrect_answers": ["Parliamentary systems have a king or queen; presidential systems have a president", "Parliamentary systems are more democratic than presidential systems", "There is no difference"],
+        "incorrect_answers": [
+            "Parliamentary systems have a king or queen; presidential systems have a president",
+            "Parliamentary systems are more democratic than presidential systems",
+            "There is no difference"
+        ],
         "content": "",
         "content_type": "",
-        "category": ["Political Systems"],
+        "category": [
+            "Political Systems"
+        ],
         "era": "Multiple",
         "challenge": 3
     },
-        {
+    {
         "id": 41,
         "question": "What is the role of the Federal Reserve System?",
         "answer": "To regulate the U.S. monetary policy",
-        "incorrect_answers": ["To collect taxes", "To enforce federal laws", "To provide social security benefits"],
+        "incorrect_answers": [
+            "To collect taxes",
+            "To enforce federal laws",
+            "To provide social security benefits"
+        ],
         "content": "",
         "content_type": "",
-        "category": ["US Economy", "Federal Reserve"],
+        "category": [
+            "US Economy",
+            "Federal Reserve"
+        ],
         "era": "Multiple",
         "challenge": 2
     },
-        {
+    {
         "id": 42,
         "question": "What is the purpose of a filibuster in the U.S. Senate?",
         "answer": "To delay or block a vote on a bill",
-        "incorrect_answers": ["To expedite the passage of a bill", "To debate a bill in the House of Representatives", "To veto a bill"],
+        "incorrect_answers": [
+            "To expedite the passage of a bill",
+            "To debate a bill in the House of Representatives",
+            "To veto a bill"
+        ],
         "content": "",
         "content_type": "",
-        "category": ["US Government", "Congress", "Senate"],
+        "category": [
+            "US Government",
+            "Congress",
+            "Senate"
+        ],
         "era": "Multiple",
         "challenge": 2
     },
-        {
+    {
         "id": 43,
         "question": "What is the concept of 'eminent domain'?",
         "answer": "The government's power to take private property for public use with just compensation",
-        "incorrect_answers": ["The right to free speech", "The right to bear arms", "The right to a fair trial"],
+        "incorrect_answers": [
+            "The right to free speech",
+            "The right to bear arms",
+            "The right to a fair trial"
+        ],
         "content": "",
         "content_type": "",
-        "category": ["US Law", "Property Rights"],
+        "category": [
+            "US Law",
+            "Property Rights"
+        ],
         "era": "Multiple",
         "challenge": 3
     },
-        {
+    {
         "id": 44,
         "question": "What was the Civil Rights Movement?",
         "answer": "A struggle for social justice and equality for African Americans in the United States",
-        "incorrect_answers": ["A war between the northern and southern states", "A movement for women's suffrage", "A movement for independence from Great Britain"],
+        "incorrect_answers": [
+            "A war between the northern and southern states",
+            "A movement for women's suffrage",
+            "A movement for independence from Great Britain"
+        ],
         "content": "",
         "content_type": "",
-        "category": ["US History", "Civil Rights"],
+        "category": [
+            "US History",
+            "Civil Rights"
+        ],
         "era": "Mid-20th Century",
         "challenge": 2
     },
-        {
+    {
         "id": 45,
         "question": "What is the difference between a 'deficit' and the 'national debt'?",
         "answer": "A deficit is the yearly shortfall in government spending; the national debt is the total accumulated unpaid deficits",
-        "incorrect_answers": ["They are the same thing", "A deficit is the total accumulated unpaid spending; national debt is yearly shortfall.", "Deficit is for states; National debt is for federal government"],
+        "incorrect_answers": [
+            "They are the same thing",
+            "A deficit is the total accumulated unpaid spending; national debt is yearly shortfall.",
+            "Deficit is for states; National debt is for federal government"
+        ],
         "content": "",
         "content_type": "",
-        "category": ["US Economy", "Government Spending"],
+        "category": [
+            "US Economy",
+            "Government Spending"
+        ],
         "era": "Multiple",
         "challenge": 3
     },
-        {
+    {
         "id": 46,
         "question": "What is the purpose of the United States Census?",
         "answer": "To count the population of the United States, which is used for representation in Congress and allocation of federal funds",
-        "incorrect_answers": ["To determine the winner of presidential elections", "To track immigration patterns", "To measure economic growth"],
+        "incorrect_answers": [
+            "To determine the winner of presidential elections",
+            "To track immigration patterns",
+            "To measure economic growth"
+        ],
         "content": "",
         "content_type": "",
-        "category": ["US Government", "Demographics"],
+        "category": [
+            "US Government",
+            "Demographics"
+        ],
         "era": "Multiple",
         "challenge": 2
     },
-        {
+    {
         "id": 47,
         "question": "What is the role of the Speaker of the House?",
         "answer": "The presiding officer of the House of Representatives",
-        "incorrect_answers": ["The President of the Senate", "The Chief Justice of the Supreme Court", "The leader of the majority party in the Senate"],
+        "incorrect_answers": [
+            "The President of the Senate",
+            "The Chief Justice of the Supreme Court",
+            "The leader of the majority party in the Senate"
+        ],
         "content": "",
         "content_type": "",
-        "category": ["US Government", "Congress", "House of Representatives"],
+        "category": [
+            "US Government",
+            "Congress",
+            "House of Representatives"
+        ],
         "era": "Multiple",
         "challenge": 2
     },
@@ -520,10 +867,18 @@
         "id": 48,
         "question": "What is the 'Iron Triangle' in US politics?",
         "answer": "The close relationship between congressional committees, bureaucratic agencies, and interest groups",
-        "incorrect_answers": ["The three branches of government", "The three major political parties", "The three levels of government (federal, state, local)"],
+        "incorrect_answers": [
+            "The three branches of government",
+            "The three major political parties",
+            "The three levels of government (federal, state, local)"
+        ],
         "content": "",
         "content_type": "",
-        "category": ["US Politics", "Interest Groups", "Bureaucracy"],
+        "category": [
+            "US Politics",
+            "Interest Groups",
+            "Bureaucracy"
+        ],
         "era": "Multiple",
         "challenge": 3
     },
@@ -531,10 +886,17 @@
         "id": 49,
         "question": "What is the purpose of the Electoral College?",
         "answer": "To elect the President and Vice President of the United States",
-        "incorrect_answers": ["To elect members of Congress", "To directly elect the President by popular vote", "To select Supreme Court Justices"],
+        "incorrect_answers": [
+            "To elect members of Congress",
+            "To directly elect the President by popular vote",
+            "To select Supreme Court Justices"
+        ],
         "content": "",
         "content_type": "",
-        "category": ["US Elections", "Electoral College"],
+        "category": [
+            "US Elections",
+            "Electoral College"
+        ],
         "era": "Multiple",
         "challenge": 2
     },
@@ -542,10 +904,18 @@
         "id": 50,
         "question": "What is the difference between civil liberties and civil rights?",
         "answer": "Civil liberties protect individuals from government action; civil rights protect against discrimination",
-        "incorrect_answers": ["They are the same thing", "Civil liberties are protected by state laws; civil rights are protected by federal laws", "Civil liberties are only for citizens; civil rights are for everyone"],
+        "incorrect_answers": [
+            "They are the same thing",
+            "Civil liberties are protected by state laws; civil rights are protected by federal laws",
+            "Civil liberties are only for citizens; civil rights are for everyone"
+        ],
         "content": "",
         "content_type": "",
-        "category": ["US Law", "Civil Liberties", "Civil Rights"],
+        "category": [
+            "US Law",
+            "Civil Liberties",
+            "Civil Rights"
+        ],
         "era": "Multiple",
         "challenge": 3
     },
@@ -553,10 +923,17 @@
         "id": 51,
         "question": "What is the concept of 'judicial review'?",
         "answer": "The power of the courts to declare laws unconstitutional",
-        "incorrect_answers": ["The power of the President to veto laws", "The power of Congress to impeach the President", "The power of the states to nullify federal laws"],
+        "incorrect_answers": [
+            "The power of the President to veto laws",
+            "The power of Congress to impeach the President",
+            "The power of the states to nullify federal laws"
+        ],
         "content": "",
         "content_type": "",
-        "category": ["US Government", "Judicial Branch"],
+        "category": [
+            "US Government",
+            "Judicial Branch"
+        ],
         "era": "Multiple",
         "challenge": 2
     },
@@ -564,10 +941,18 @@
         "id": 52,
         "question": "What is the significance of the Voting Rights Act of 1965?",
         "answer": "It outlawed discriminatory voting practices, such as literacy tests",
-        "incorrect_answers": ["It established women's suffrage", "It lowered the voting age to 18", "It abolished slavery"],
+        "incorrect_answers": [
+            "It established women's suffrage",
+            "It lowered the voting age to 18",
+            "It abolished slavery"
+        ],
         "content": "",
         "content_type": "",
-        "category": ["US History", "Civil Rights", "Voting Rights"],
+        "category": [
+            "US History",
+            "Civil Rights",
+            "Voting Rights"
+        ],
         "era": "Mid-20th Century",
         "challenge": 2
     },
@@ -575,10 +960,18 @@
         "id": 53,
         "question": "What is the purpose of a political party's national convention?",
         "answer": "To formally nominate candidates for President and Vice President",
-        "incorrect_answers": ["To hold primary elections", "To debate policy issues", "To raise money for campaigns"],
+        "incorrect_answers": [
+            "To hold primary elections",
+            "To debate policy issues",
+            "To raise money for campaigns"
+        ],
         "content": "",
         "content_type": "",
-        "category": ["US Politics", "Political Parties", "Elections"],
+        "category": [
+            "US Politics",
+            "Political Parties",
+            "Elections"
+        ],
         "era": "Multiple",
         "challenge": 2
     },
@@ -586,10 +979,18 @@
         "id": 54,
         "question": "What is the difference between fiscal policy and monetary policy?",
         "answer": "Fiscal policy involves government spending and taxation; monetary policy involves managing the money supply and interest rates",
-        "incorrect_answers": ["Fiscal policy is set by the President; monetary policy is set by Congress", "They are the same thing", "Fiscal policy is about international trade; monetary policy is about domestic economy"],
+        "incorrect_answers": [
+            "Fiscal policy is set by the President; monetary policy is set by Congress",
+            "They are the same thing",
+            "Fiscal policy is about international trade; monetary policy is about domestic economy"
+        ],
         "content": "",
         "content_type": "",
-        "category": ["US Economy", "Fiscal Policy", "Monetary Policy"],
+        "category": [
+            "US Economy",
+            "Fiscal Policy",
+            "Monetary Policy"
+        ],
         "era": "Multiple",
         "challenge": 3
     },
@@ -597,87 +998,147 @@
         "id": 55,
         "question": "What is the role of the National Security Council?",
         "answer": "To advise the President on matters of national security and foreign policy",
-        "incorrect_answers": ["To conduct military operations", "To gather intelligence", "To enforce immigration laws"],
+        "incorrect_answers": [
+            "To conduct military operations",
+            "To gather intelligence",
+            "To enforce immigration laws"
+        ],
         "content": "",
         "content_type": "",
-        "category": ["US Government", "National Security", "Foreign Policy"],
+        "category": [
+            "US Government",
+            "National Security",
+            "Foreign Policy"
+        ],
         "era": "Multiple",
         "challenge": 2
     },
-        {
+    {
         "id": 56,
         "question": "What was the New Deal?",
         "answer": "A series of programs and reforms enacted by President Franklin D. Roosevelt in response to the Great Depression",
-        "incorrect_answers": ["A treaty that ended World War I", "A period of economic prosperity in the 1920s", "A military alliance during World War II"],
+        "incorrect_answers": [
+            "A treaty that ended World War I",
+            "A period of economic prosperity in the 1920s",
+            "A military alliance during World War II"
+        ],
         "content": "",
         "content_type": "",
-        "category": ["US History", "Great Depression", "Presidency"],
+        "category": [
+            "US History",
+            "Great Depression",
+            "Presidency"
+        ],
         "era": "Early 20th Century",
         "challenge": 2
     },
-        {
+    {
         "id": 57,
         "question": "What is the purpose of the World Trade Organization (WTO)?",
         "answer": "To regulate international trade",
-        "incorrect_answers": ["To provide foreign aid", "To promote international diplomacy", "To enforce international law"],
+        "incorrect_answers": [
+            "To provide foreign aid",
+            "To promote international diplomacy",
+            "To enforce international law"
+        ],
         "content": "",
         "content_type": "",
-        "category": ["International Relations", "Trade"],
+        "category": [
+            "International Relations",
+            "Trade"
+        ],
         "era": "Late 20th Century-Present",
         "challenge": 2
     },
-        {
+    {
         "id": 58,
         "question": "What is the 'necessary and proper' clause of the U.S. Constitution?",
         "answer": "It gives Congress the power to make laws necessary to carry out its enumerated powers",
-        "incorrect_answers": ["It establishes the Bill of Rights", "It defines the powers of the President", "It outlines the process for amending the Constitution"],
+        "incorrect_answers": [
+            "It establishes the Bill of Rights",
+            "It defines the powers of the President",
+            "It outlines the process for amending the Constitution"
+        ],
         "content": "",
         "content_type": "",
-        "category": ["US Government", "Constitution", "Powers"],
+        "category": [
+            "US Government",
+            "Constitution",
+            "Powers"
+        ],
         "era": "Multiple",
         "challenge": 3
     },
-        {
+    {
         "id": 59,
         "question": "What is the 'spoils system' in politics?",
         "answer": "The practice of rewarding political supporters with government jobs",
-        "incorrect_answers": ["A system of electing judges", "A method of campaign financing", "A type of voting fraud"],
+        "incorrect_answers": [
+            "A system of electing judges",
+            "A method of campaign financing",
+            "A type of voting fraud"
+        ],
         "content": "",
         "content_type": "",
-        "category": ["US Politics", "Political History"],
+        "category": [
+            "US Politics",
+            "Political History"
+        ],
         "era": "19th Century",
         "challenge": 3
     },
-        {
+    {
         "id": 60,
         "question": "What was the Monroe Doctrine?",
         "answer": "A U.S. foreign policy stating that European powers should not interfere with the affairs of the Western Hemisphere",
-        "incorrect_answers": ["A treaty that ended the American Revolution", "A policy of isolationism", "A plan for westward expansion"],
+        "incorrect_answers": [
+            "A treaty that ended the American Revolution",
+            "A policy of isolationism",
+            "A plan for westward expansion"
+        ],
         "content": "",
         "content_type": "",
-        "category": ["US Foreign Policy", "19th Century"],
+        "category": [
+            "US Foreign Policy",
+            "19th Century"
+        ],
         "era": "Early 19th Century",
         "challenge": 2
     },
-        {
+    {
         "id": 61,
         "question": "What is the role of the Joint Chiefs of Staff?",
         "answer": "To advise the President and Secretary of Defense on military matters",
-        "incorrect_answers": ["To command troops in the field", "To gather intelligence", "To negotiate treaties"],
+        "incorrect_answers": [
+            "To command troops in the field",
+            "To gather intelligence",
+            "To negotiate treaties"
+        ],
         "content": "",
         "content_type": "",
-        "category": ["US Government", "Military"],
+        "category": [
+            "US Government",
+            "Military"
+        ],
         "era": "Multiple",
         "challenge": 2
     },
-        {
+    {
         "id": 62,
         "question": "What is the significance of Brown v. Board of Education?",
         "answer": "It declared state-sponsored segregation in public schools unconstitutional",
-        "incorrect_answers": ["It established the principle of 'separate but equal'", "It ended slavery", "It granted women the right to vote"],
+        "incorrect_answers": [
+            "It established the principle of 'separate but equal'",
+            "It ended slavery",
+            "It granted women the right to vote"
+        ],
         "content": "",
         "content_type": "",
-        "category": ["US Law", "Civil Rights", "Supreme Court"],
+        "category": [
+            "US Law",
+            "Civil Rights",
+            "Supreme Court"
+        ],
         "era": "Mid-20th Century",
         "challenge": 2
     },
@@ -685,10 +1146,17 @@
         "id": 63,
         "question": "What is the function of an amicus curiae brief?",
         "answer": "To provide information or arguments to a court from a 'friend of the court' (a non-party)",
-        "incorrect_answers": ["To formally charge someone with a crime", "To issue a court order", "To pardon a convicted criminal"],
+        "incorrect_answers": [
+            "To formally charge someone with a crime",
+            "To issue a court order",
+            "To pardon a convicted criminal"
+        ],
         "content": "",
         "content_type": "",
-        "category": ["US Law", "Judicial Process"],
+        "category": [
+            "US Law",
+            "Judicial Process"
+        ],
         "era": "Multiple",
         "challenge": 3
     },
@@ -696,10 +1164,17 @@
         "id": 64,
         "question": "What was the purpose of the Marshall Plan?",
         "answer": "To provide economic aid to Western Europe after World War II",
-        "incorrect_answers": ["To establish the United Nations", "To create a military alliance against the Soviet Union", "To rebuild Japan after World War II"],
+        "incorrect_answers": [
+            "To establish the United Nations",
+            "To create a military alliance against the Soviet Union",
+            "To rebuild Japan after World War II"
+        ],
         "content": "",
         "content_type": "",
-        "category": ["US Foreign Policy", "Post-World War II"],
+        "category": [
+            "US Foreign Policy",
+            "Post-World War II"
+        ],
         "era": "Mid-20th Century",
         "challenge": 2
     },
@@ -707,10 +1182,16 @@
         "id": 65,
         "question": "What is the difference between a unitary system and a confederal system?",
         "answer": "In a unitary system, power is centralized in the national government; in a confederal system, power is held by the states",
-        "incorrect_answers": ["They are the same thing", "Unitary systems have a king or queen; confederal systems have a president", "Unitary systems are more democratic than confederal systems"],
+        "incorrect_answers": [
+            "They are the same thing",
+            "Unitary systems have a king or queen; confederal systems have a president",
+            "Unitary systems are more democratic than confederal systems"
+        ],
         "content": "",
         "content_type": "",
-        "category": ["Political Systems"],
+        "category": [
+            "Political Systems"
+        ],
         "era": "Multiple",
         "challenge": 3
     },
@@ -718,10 +1199,17 @@
         "id": 66,
         "question": "What is the concept of 'double jeopardy'?",
         "answer": "Being tried twice for the same crime",
-        "incorrect_answers": ["Being arrested without probable cause", "Being denied the right to an attorney", "Being forced to testify against oneself"],
+        "incorrect_answers": [
+            "Being arrested without probable cause",
+            "Being denied the right to an attorney",
+            "Being forced to testify against oneself"
+        ],
         "content": "",
         "content_type": "",
-        "category": ["US Law", "Criminal Justice"],
+        "category": [
+            "US Law",
+            "Criminal Justice"
+        ],
         "era": "Multiple",
         "challenge": 2
     },
@@ -729,10 +1217,18 @@
         "id": 67,
         "question": "What was the Iran-Contra affair?",
         "answer": "A political scandal in which the Reagan administration secretly sold arms to Iran in exchange for the release of American hostages",
-        "incorrect_answers": ["A hostage crisis at the US embassy in Iran", "A war between Iran and Iraq", "A trade agreement between the US and Iran"],
+        "incorrect_answers": [
+            "A hostage crisis at the US embassy in Iran",
+            "A war between Iran and Iraq",
+            "A trade agreement between the US and Iran"
+        ],
         "content": "",
         "content_type": "",
-        "category": ["US Politics", "Scandals", "Foreign Policy"],
+        "category": [
+            "US Politics",
+            "Scandals",
+            "Foreign Policy"
+        ],
         "era": "Late 20th Century",
         "challenge": 2
     },
@@ -740,10 +1236,18 @@
         "id": 68,
         "question": "What is the role of the Congressional Budget Office (CBO)?",
         "answer": "To provide budget and economic information to Congress",
-        "incorrect_answers": ["To collect taxes", "To enforce federal spending laws", "To set interest rates"],
+        "incorrect_answers": [
+            "To collect taxes",
+            "To enforce federal spending laws",
+            "To set interest rates"
+        ],
         "content": "",
         "content_type": "",
-        "category": ["US Government", "Congress", "Budget"],
+        "category": [
+            "US Government",
+            "Congress",
+            "Budget"
+        ],
         "era": "Multiple",
         "challenge": 2
     },
@@ -751,10 +1255,18 @@
         "id": 69,
         "question": "What is the significance of the Emancipation Proclamation?",
         "answer": "It declared slaves free in Confederate-held territory during the Civil War",
-        "incorrect_answers": ["It ended the Civil War", "It abolished slavery throughout the United States", "It granted citizenship to former slaves"],
+        "incorrect_answers": [
+            "It ended the Civil War",
+            "It abolished slavery throughout the United States",
+            "It granted citizenship to former slaves"
+        ],
         "content": "",
         "content_type": "",
-        "category": ["US History", "Civil War", "Slavery"],
+        "category": [
+            "US History",
+            "Civil War",
+            "Slavery"
+        ],
         "era": "Mid-19th Century",
         "challenge": 2
     },
@@ -762,10 +1274,17 @@
         "id": 70,
         "question": "What is the purpose of sanctions in international relations?",
         "answer": "To impose penalties on a country to influence its behavior",
-        "incorrect_answers": ["To provide economic aid", "To promote free trade", "To declare war"],
+        "incorrect_answers": [
+            "To provide economic aid",
+            "To promote free trade",
+            "To declare war"
+        ],
         "content": "",
         "content_type": "",
-        "category": ["International Relations", "Foreign Policy"],
+        "category": [
+            "International Relations",
+            "Foreign Policy"
+        ],
         "era": "Multiple",
         "challenge": 2
     },
@@ -773,10 +1292,16 @@
         "id": 71,
         "question": "What is the difference between a 'hawk' and a 'dove' in foreign policy?",
         "answer": "Hawks favor military intervention; doves favor diplomatic solutions",
-        "incorrect_answers": ["Hawks are Republicans; doves are Democrats", "Hawks are isolationists; doves are internationalists", "They are the same thing"],
+        "incorrect_answers": [
+            "Hawks are Republicans; doves are Democrats",
+            "Hawks are isolationists; doves are internationalists",
+            "They are the same thing"
+        ],
         "content": "",
         "content_type": "",
-        "category": ["US Foreign Policy"],
+        "category": [
+            "US Foreign Policy"
+        ],
         "era": "Multiple",
         "challenge": 3
     },
@@ -784,10 +1309,18 @@
         "id": 72,
         "question": "What is the concept of 'executive privilege'?",
         "answer": "The President's right to withhold certain information from Congress or the courts",
-        "incorrect_answers": ["The President's power to pardon criminals", "The President's power to declare war", "The President's power to appoint judges"],
+        "incorrect_answers": [
+            "The President's power to pardon criminals",
+            "The President's power to declare war",
+            "The President's power to appoint judges"
+        ],
         "content": "",
         "content_type": "",
-        "category": ["US Government", "Executive Branch", "President"],
+        "category": [
+            "US Government",
+            "Executive Branch",
+            "President"
+        ],
         "era": "Multiple",
         "challenge": 3
     },
@@ -795,10 +1328,17 @@
         "id": 73,
         "question": "What was the Cuban Missile Crisis?",
         "answer": "A 13-day confrontation between the United States and the Soviet Union over Soviet missiles deployed in Cuba",
-        "incorrect_answers": ["A communist revolution in Cuba", "A US invasion of Cuba", "A trade embargo against Cuba"],
+        "incorrect_answers": [
+            "A communist revolution in Cuba",
+            "A US invasion of Cuba",
+            "A trade embargo against Cuba"
+        ],
         "content": "",
         "content_type": "",
-        "category": ["International Relations", "Cold War"],
+        "category": [
+            "International Relations",
+            "Cold War"
+        ],
         "era": "Mid-20th Century",
         "challenge": 2
     },
@@ -806,10 +1346,17 @@
         "id": 74,
         "question": "What is the function of the Government Accountability Office (GAO)?",
         "answer": "To audit and investigate government spending and programs",
-        "incorrect_answers": ["To collect taxes", "To enforce federal laws", "To set interest rates"],
+        "incorrect_answers": [
+            "To collect taxes",
+            "To enforce federal laws",
+            "To set interest rates"
+        ],
         "content": "",
         "content_type": "",
-        "category": ["US Government", "Oversight"],
+        "category": [
+            "US Government",
+            "Oversight"
+        ],
         "era": "Multiple",
         "challenge": 2
     },
@@ -817,10 +1364,18 @@
         "id": 75,
         "question": "What is the significance of the Gettysburg Address?",
         "answer": "A speech by President Abraham Lincoln during the Civil War that dedicated a national cemetery at Gettysburg",
-        "incorrect_answers": ["A speech that declared independence from Great Britain", "A speech that ended the Civil War", "A speech that outlined the principles of the Republican Party"],
+        "incorrect_answers": [
+            "A speech that declared independence from Great Britain",
+            "A speech that ended the Civil War",
+            "A speech that outlined the principles of the Republican Party"
+        ],
         "content": "",
         "content_type": "",
-        "category": ["US History", "Civil War", "Presidency"],
+        "category": [
+            "US History",
+            "Civil War",
+            "Presidency"
+        ],
         "era": "Mid-19th Century",
         "challenge": 2
     },
@@ -828,10 +1383,17 @@
         "id": 76,
         "question": "What is the purpose of international law?",
         "answer": "To regulate relations between states and other international actors",
-        "incorrect_answers": ["To govern individuals within a single country", "To enforce global taxes", "To establish a world government"],
+        "incorrect_answers": [
+            "To govern individuals within a single country",
+            "To enforce global taxes",
+            "To establish a world government"
+        ],
         "content": "",
         "content_type": "",
-        "category": ["International Relations", "Law"],
+        "category": [
+            "International Relations",
+            "Law"
+        ],
         "era": "Multiple",
         "challenge": 2
     },
@@ -839,10 +1401,16 @@
         "id": 77,
         "question": "What is the difference between an 'interventionist' and an 'isolationist' foreign policy?",
         "answer": "Interventionists favor active involvement in international affairs; isolationists favor limited involvement",
-        "incorrect_answers": ["Interventionists are Democrats; isolationists are Republicans", "Interventionists favor free trade; isolationists favor protectionism", "They are the same thing"],
+        "incorrect_answers": [
+            "Interventionists are Democrats; isolationists are Republicans",
+            "Interventionists favor free trade; isolationists favor protectionism",
+            "They are the same thing"
+        ],
         "content": "",
         "content_type": "",
-        "category": ["US Foreign Policy"],
+        "category": [
+            "US Foreign Policy"
+        ],
         "era": "Multiple",
         "challenge": 3
     },
@@ -850,10 +1418,17 @@
         "id": 78,
         "question": "What is the concept of 'originalism' in constitutional interpretation?",
         "answer": "Interpreting the Constitution according to the framers' original understanding",
-        "incorrect_answers": ["Interpreting the Constitution according to modern values", "Ignoring the Constitution altogether", "Interpreting the Constitution based on current public opinion"],
+        "incorrect_answers": [
+            "Interpreting the Constitution according to modern values",
+            "Ignoring the Constitution altogether",
+            "Interpreting the Constitution based on current public opinion"
+        ],
         "content": "",
         "content_type": "",
-        "category": ["US Law", "Constitutional Law"],
+        "category": [
+            "US Law",
+            "Constitutional Law"
+        ],
         "era": "Multiple",
         "challenge": 3
     },
@@ -861,10 +1436,17 @@
         "id": 79,
         "question": "What was the Vietnam War?",
         "answer": "A conflict between North Vietnam (communist) and South Vietnam (supported by the US)",
-        "incorrect_answers": ["A war between the US and China", "A civil war in Korea", "A conflict in the Middle East"],
+        "incorrect_answers": [
+            "A war between the US and China",
+            "A civil war in Korea",
+            "A conflict in the Middle East"
+        ],
         "content": "",
         "content_type": "",
-        "category": ["US History", "Cold War"],
+        "category": [
+            "US History",
+            "Cold War"
+        ],
         "era": "Mid-20th Century",
         "challenge": 2
     },
@@ -872,10 +1454,16 @@
         "id": 80,
         "question": "What is the function of the Federal Bureau of Investigation (FBI)?",
         "answer": "To investigate federal crimes and protect the United States from threats",
-        "incorrect_answers": ["To enforce local laws", "To provide military defense", "To collect taxes"],
+        "incorrect_answers": [
+            "To enforce local laws",
+            "To provide military defense",
+            "To collect taxes"
+        ],
         "content": "",
         "content_type": "",
-        "category": ["US Law Enforcement"],
+        "category": [
+            "US Law Enforcement"
+        ],
         "era": "Multiple",
         "challenge": 2
     },
@@ -883,10 +1471,17 @@
         "id": 81,
         "question": "What is the significance of the Mayflower Compact?",
         "answer": "It was the first governing document of Plymouth Colony",
-        "incorrect_answers": ["It declared independence from Great Britain", "It established the US Constitution", "It ended the French and Indian War"],
+        "incorrect_answers": [
+            "It declared independence from Great Britain",
+            "It established the US Constitution",
+            "It ended the French and Indian War"
+        ],
         "content": "",
         "content_type": "",
-        "category": ["US History", "Colonial America"],
+        "category": [
+            "US History",
+            "Colonial America"
+        ],
         "era": "Early 17th Century",
         "challenge": 2
     },
@@ -894,10 +1489,16 @@
         "id": 82,
         "question": "What is the purpose of diplomacy in international relations?",
         "answer": "To conduct negotiations and maintain peaceful relations between countries",
-        "incorrect_answers": ["To declare war", "To impose sanctions", "To gather intelligence"],
+        "incorrect_answers": [
+            "To declare war",
+            "To impose sanctions",
+            "To gather intelligence"
+        ],
         "content": "",
         "content_type": "",
-        "category": ["International Relations"],
+        "category": [
+            "International Relations"
+        ],
         "era": "Multiple",
         "challenge": 2
     },
@@ -905,10 +1506,17 @@
         "id": 83,
         "question": "What is the difference between a 'bicameral' and a 'unicameral' legislature?",
         "answer": "A bicameral legislature has two chambers; a unicameral legislature has one",
-        "incorrect_answers": ["Bicameral legislatures are more democratic; unicameral legislatures are less democratic", "They are the same thing", "Bicameral legislatures are only found in federal systems; unicameral legislatures are only found in unitary systems"],
+        "incorrect_answers": [
+            "Bicameral legislatures are more democratic; unicameral legislatures are less democratic",
+            "They are the same thing",
+            "Bicameral legislatures are only found in federal systems; unicameral legislatures are only found in unitary systems"
+        ],
         "content": "",
         "content_type": "",
-        "category": ["Political Systems", "Legislatures"],
+        "category": [
+            "Political Systems",
+            "Legislatures"
+        ],
         "era": "Multiple",
         "challenge": 3
     },
@@ -916,10 +1524,17 @@
         "id": 84,
         "question": "What is the concept of 'due process'?",
         "answer": "Fair treatment through the normal judicial system",
-        "incorrect_answers": ["Being arrested without probable cause", "Being denied the right to an attorney", "Being tried twice for the same crime"],
+        "incorrect_answers": [
+            "Being arrested without probable cause",
+            "Being denied the right to an attorney",
+            "Being tried twice for the same crime"
+        ],
         "content": "",
         "content_type": "",
-        "category": ["US Law", "Constitutional Law"],
+        "category": [
+            "US Law",
+            "Constitutional Law"
+        ],
         "era": "Multiple",
         "challenge": 2
     },
@@ -927,87 +1542,141 @@
         "id": 85,
         "question": "What was the Bay of Pigs invasion?",
         "answer": "A failed attempt by US-backed Cuban exiles to overthrow Fidel Castro",
-        "incorrect_answers": ["A successful US invasion of Cuba", "A Soviet invasion of Cuba", "A Cuban invasion of the United States"],
+        "incorrect_answers": [
+            "A successful US invasion of Cuba",
+            "A Soviet invasion of Cuba",
+            "A Cuban invasion of the United States"
+        ],
         "content": "",
         "content_type": "",
-        "category": ["US Foreign Policy", "Cold War"],
+        "category": [
+            "US Foreign Policy",
+            "Cold War"
+        ],
         "era": "Mid-20th Century",
         "challenge": 2
     },
-        {
+    {
         "id": 86,
         "question": "What is the role of the Secret Service?",
         "answer": "To protect the President and other high-ranking government officials",
-        "incorrect_answers": ["To investigate federal crimes", "To gather intelligence", "To enforce immigration laws"],
+        "incorrect_answers": [
+            "To investigate federal crimes",
+            "To gather intelligence",
+            "To enforce immigration laws"
+        ],
         "content": "",
         "content_type": "",
-        "category": ["US Law Enforcement"],
+        "category": [
+            "US Law Enforcement"
+        ],
         "era": "Multiple",
         "challenge": 2
     },
-        {
+    {
         "id": 87,
         "question": "What is the significance of Common Sense by Thomas Paine?",
         "answer": "It advocated for American independence from Great Britain",
-        "incorrect_answers": ["It argued for continued British rule", "It outlined the principles of the US Constitution", "It proposed a plan for westward expansion"],
+        "incorrect_answers": [
+            "It argued for continued British rule",
+            "It outlined the principles of the US Constitution",
+            "It proposed a plan for westward expansion"
+        ],
         "content": "",
         "content_type": "",
-        "category": ["US History", "Founding Documents"],
+        "category": [
+            "US History",
+            "Founding Documents"
+        ],
         "era": "Late 18th Century",
         "challenge": 2
     },
-        {
+    {
         "id": 88,
         "question": "What is the purpose of international organizations like the International Monetary Fund (IMF)?",
         "answer": "To promote international monetary cooperation and financial stability",
-        "incorrect_answers": ["To provide military defense for member nations", "To regulate international trade", "To establish a world government"],
+        "incorrect_answers": [
+            "To provide military defense for member nations",
+            "To regulate international trade",
+            "To establish a world government"
+        ],
         "content": "",
         "content_type": "",
-        "category": ["International Relations", "Economics"],
+        "category": [
+            "International Relations",
+            "Economics"
+        ],
         "era": "Multiple",
         "challenge": 2
     },
-        {
+    {
         "id": 89,
         "question": "What is the difference between a 'parliamentary' and a 'presidential' system of government?",
         "answer": "In a parliamentary system, the executive is drawn from the legislature; in a presidential system, the executive is elected separately",
-        "incorrect_answers": ["Parliamentary systems have a king or queen; presidential systems have a president", "Parliamentary systems are more democratic than presidential systems", "They are the same thing"],
+        "incorrect_answers": [
+            "Parliamentary systems have a king or queen; presidential systems have a president",
+            "Parliamentary systems are more democratic than presidential systems",
+            "They are the same thing"
+        ],
         "content": "",
         "content_type": "",
-        "category": ["Political Systems"],
+        "category": [
+            "Political Systems"
+        ],
         "era": "Multiple",
         "challenge": 3
     },
-        {
+    {
         "id": 90,
         "question": "What is the concept of 'habeas corpus'?",
         "answer": "The right of a person to be brought before a court to determine if their detention is lawful",
-        "incorrect_answers": ["The right to free speech", "The right to bear arms", "The right to a fair trial"],
+        "incorrect_answers": [
+            "The right to free speech",
+            "The right to bear arms",
+            "The right to a fair trial"
+        ],
         "content": "",
         "content_type": "",
-        "category": ["US Law", "Criminal Justice"],
+        "category": [
+            "US Law",
+            "Criminal Justice"
+        ],
         "era": "Multiple",
         "challenge": 2
     },
-        {
+    {
         "id": 91,
         "question": "What was the Persian Gulf War?",
         "answer": "A conflict between Iraq and a US-led coalition following Iraq's invasion of Kuwait",
-        "incorrect_answers": ["A war between Iran and Iraq", "A civil war in Lebanon", "A conflict in Afghanistan"],
+        "incorrect_answers": [
+            "A war between Iran and Iraq",
+            "A civil war in Lebanon",
+            "A conflict in Afghanistan"
+        ],
         "content": "",
         "content_type": "",
-        "category": ["US Foreign Policy", "Middle East"],
+        "category": [
+            "US Foreign Policy",
+            "Middle East"
+        ],
         "era": "Late 20th Century",
         "challenge": 2
     },
-        {
+    {
         "id": 92,
         "question": "What is the role of the Environmental Protection Agency (EPA)?",
         "answer": "To protect human health and the environment by enforcing environmental laws",
-        "incorrect_answers": ["To regulate international trade", "To provide foreign aid", "To manage national parks"],
+        "incorrect_answers": [
+            "To regulate international trade",
+            "To provide foreign aid",
+            "To manage national parks"
+        ],
         "content": "",
         "content_type": "",
-        "category": ["US Government", "Environmental Policy"],
+        "category": [
+            "US Government",
+            "Environmental Policy"
+        ],
         "era": "Multiple",
         "challenge": 2
     },
@@ -1015,10 +1684,17 @@
         "id": 93,
         "question": "What is the significance of the Federalist Papers?",
         "answer": "A series of essays written by James Madison, Alexander Hamilton, and John Jay to advocate for the ratification of the US Constitution",
-        "incorrect_answers": ["A declaration of independence from Great Britain", "A treaty that ended the American Revolution", "A collection of speeches by George Washington"],
+        "incorrect_answers": [
+            "A declaration of independence from Great Britain",
+            "A treaty that ended the American Revolution",
+            "A collection of speeches by George Washington"
+        ],
         "content": "",
         "content_type": "",
-        "category": ["US History", "Founding Documents"],
+        "category": [
+            "US History",
+            "Founding Documents"
+        ],
         "era": "Late 18th Century",
         "challenge": 2
     },
@@ -1026,10 +1702,18 @@
         "id": 94,
         "question": "What is the purpose of a referendum or initiative?",
         "answer": "To allow citizens to vote directly on laws or constitutional amendments",
-        "incorrect_answers": ["To elect government officials", "To impeach the president", "To declare war"],
+        "incorrect_answers": [
+            "To elect government officials",
+            "To impeach the president",
+            "To declare war"
+        ],
         "content": "",
         "content_type": "",
-        "category": ["US Politics", "Elections", "Direct Democracy"],
+        "category": [
+            "US Politics",
+            "Elections",
+            "Direct Democracy"
+        ],
         "era": "Multiple",
         "challenge": 3
     },
@@ -1037,10 +1721,17 @@
         "id": 95,
         "question": "What is the difference between 'de jure' and 'de facto' segregation?",
         "answer": "De jure segregation is segregation by law; de facto segregation is segregation by social practice",
-        "incorrect_answers": ["They are the same thing", "De jure segregation is only found in the South; de facto segregation is only found in the North", "De jure segregation is legal; de facto segregation is illegal"],
+        "incorrect_answers": [
+            "They are the same thing",
+            "De jure segregation is only found in the South; de facto segregation is only found in the North",
+            "De jure segregation is legal; de facto segregation is illegal"
+        ],
         "content": "",
         "content_type": "",
-        "category": ["US History", "Civil Rights"],
+        "category": [
+            "US History",
+            "Civil Rights"
+        ],
         "era": "Multiple",
         "challenge": 3
     },
@@ -1048,10 +1739,17 @@
         "id": 96,
         "question": "What was the War on Poverty?",
         "answer": "A set of government programs introduced by President Lyndon B. Johnson to reduce poverty",
-        "incorrect_answers": ["A military conflict", "A period of economic recession", "A movement for civil rights"],
+        "incorrect_answers": [
+            "A military conflict",
+            "A period of economic recession",
+            "A movement for civil rights"
+        ],
         "content": "",
         "content_type": "",
-        "category": ["US History", "Social Programs"],
+        "category": [
+            "US History",
+            "Social Programs"
+        ],
         "era": "Mid-20th Century",
         "challenge": 2
     },
@@ -1059,10 +1757,17 @@
         "id": 97,
         "question": "What is the role of the World Bank?",
         "answer": "To provide financial and technical assistance to developing countries",
-        "incorrect_answers": ["To regulate international trade", "To enforce international law", "To provide military defense for member nations"],
+        "incorrect_answers": [
+            "To regulate international trade",
+            "To enforce international law",
+            "To provide military defense for member nations"
+        ],
         "content": "",
         "content_type": "",
-        "category": ["International Relations", "Economics"],
+        "category": [
+            "International Relations",
+            "Economics"
+        ],
         "era": "Multiple",
         "challenge": 2
     },
@@ -1070,10 +1775,17 @@
         "id": 98,
         "question": "What is the concept of 'states' rights'?",
         "answer": "The belief that states should have significant autonomy and power relative to the federal government",
-        "incorrect_answers": ["The belief that the federal government should have absolute power", "The belief that states should have no power", "The belief that states should have the power to secede from the Union"],
+        "incorrect_answers": [
+            "The belief that the federal government should have absolute power",
+            "The belief that states should have no power",
+            "The belief that states should have the power to secede from the Union"
+        ],
         "content": "",
         "content_type": "",
-        "category": ["US Government", "Federalism"],
+        "category": [
+            "US Government",
+            "Federalism"
+        ],
         "era": "Multiple",
         "challenge": 3
     },
@@ -1081,10 +1793,18 @@
         "id": 99,
         "question": "What was the Watergate Scandal's impact on public trust in government?",
         "answer": "It significantly eroded public trust in government",
-        "incorrect_answers": ["It increased public trust in government", "It had no impact on public trust", "It only affected trust in the presidency"],
+        "incorrect_answers": [
+            "It increased public trust in government",
+            "It had no impact on public trust",
+            "It only affected trust in the presidency"
+        ],
         "content": "",
         "content_type": "",
-        "category": ["US Politics", "Scandals", "Presidency"],
+        "category": [
+            "US Politics",
+            "Scandals",
+            "Presidency"
+        ],
         "era": "Late 20th Century",
         "challenge": 2
     },
@@ -1092,10 +1812,17 @@
         "id": 100,
         "question": "What is the purpose of the United Nations Security Council?",
         "answer": "To maintain international peace and security",
-        "incorrect_answers": ["To promote international trade", "To provide economic aid", "To govern all countries of the world"],
+        "incorrect_answers": [
+            "To promote international trade",
+            "To provide economic aid",
+            "To govern all countries of the world"
+        ],
         "content": "",
         "content_type": "",
-        "category": ["International Relations", "United Nations"],
+        "category": [
+            "International Relations",
+            "United Nations"
+        ],
         "era": "Post-World War II",
         "challenge": 2
     }
