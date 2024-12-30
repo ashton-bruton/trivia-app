@@ -1,12 +1,19 @@
 [
-{
+  {
     "id": 1,
     "question": "Who played Jack Dawson in Titanic?",
     "answer": "Leonardo DiCaprio",
-    "incorrect_answers": ["Brad Pitt", "Matt Damon", "Tom Cruise"],
+    "incorrect_answers": [
+      "Brad Pitt",
+      "Matt Damon",
+      "Tom Cruise"
+    ],
     "content": "",
     "content_type": "",
-    "category": ["Romance", "Disaster"],
+    "category": [
+      "Romance",
+      "Disaster"
+    ],
     "era": "1990s",
     "challenge": 1
   },
@@ -14,10 +21,17 @@
     "id": 2,
     "question": "What year was the original Jurassic Park released?",
     "answer": "1993",
-    "incorrect_answers": ["1990", "1995", "1997"],
+    "incorrect_answers": [
+      "1990",
+      "1995",
+      "1997"
+    ],
     "content": "",
     "content_type": "",
-    "category": ["Science Fiction", "Adventure"],
+    "category": [
+      "Science Fiction",
+      "Adventure"
+    ],
     "era": "1990s",
     "challenge": 1
   },
@@ -25,10 +39,17 @@
     "id": 3,
     "question": "Who directed the movie 'Pulp Fiction'?",
     "answer": "Quentin Tarantino",
-    "incorrect_answers": ["Martin Scorsese", "Steven Spielberg", "Christopher Nolan"],
+    "incorrect_answers": [
+      "Martin Scorsese",
+      "Steven Spielberg",
+      "Christopher Nolan"
+    ],
     "content": "",
     "content_type": "",
-    "category": ["Crime", "Drama"],
+    "category": [
+      "Crime",
+      "Drama"
+    ],
     "era": "1990s",
     "challenge": 2
   },
@@ -36,10 +57,17 @@
     "id": 4,
     "question": "What is the name of the main character in the 'Harry Potter' film series?",
     "answer": "Harry Potter",
-    "incorrect_answers": ["Ron Weasley", "Hermione Granger", "Draco Malfoy"],
+    "incorrect_answers": [
+      "Ron Weasley",
+      "Hermione Granger",
+      "Draco Malfoy"
+    ],
     "content": "",
     "content_type": "",
-    "category": ["Fantasy", "Adventure"],
+    "category": [
+      "Fantasy",
+      "Adventure"
+    ],
     "era": "2000s",
     "challenge": 1
   },
@@ -47,153 +75,252 @@
     "id": 5,
     "question": "Which actor played the Joker in 'The Dark Knight'?",
     "answer": "Heath Ledger",
-    "incorrect_answers": ["Jack Nicholson", "Joaquin Phoenix", "Jared Leto"],
+    "incorrect_answers": [
+      "Jack Nicholson",
+      "Joaquin Phoenix",
+      "Jared Leto"
+    ],
     "content": "",
     "content_type": "",
-    "category": ["Superhero", "Action"],
+    "category": [
+      "Superhero",
+      "Action"
+    ],
     "era": "2000s",
     "challenge": 1
   },
-    {
+  {
     "id": 6,
     "question": "Who directed 'The Shawshank Redemption'?",
     "answer": "Frank Darabont",
-    "incorrect_answers": ["Steven Spielberg", "Ridley Scott", "Christopher Nolan"],
+    "incorrect_answers": [
+      "Steven Spielberg",
+      "Ridley Scott",
+      "Christopher Nolan"
+    ],
     "content": "",
     "content_type": "",
-    "category": ["Drama", "Crime"],
+    "category": [
+      "Drama",
+      "Crime"
+    ],
     "era": "1990s",
     "challenge": 2
   },
-    {
+  {
     "id": 7,
     "question": "What is the highest-grossing film of all time (unadjusted for inflation)?",
     "answer": "Avatar",
-    "incorrect_answers": ["Avengers: Endgame", "Titanic", "Star Wars: The Force Awakens"],
+    "incorrect_answers": [
+      "Avengers: Endgame",
+      "Titanic",
+      "Star Wars: The Force Awakens"
+    ],
     "content": "",
     "content_type": "",
-    "category": ["Science Fiction", "Action"],
+    "category": [
+      "Science Fiction",
+      "Action"
+    ],
     "era": "2000s",
     "challenge": 2
   },
-      {
+  {
     "id": 8,
     "question": "In 'The Matrix', what color pill does Neo take?",
     "answer": "Red",
-    "incorrect_answers": ["Blue", "Green", "Yellow"],
+    "incorrect_answers": [
+      "Blue",
+      "Green",
+      "Yellow"
+    ],
     "content": "",
     "content_type": "",
-    "category": ["Science Fiction", "Action"],
+    "category": [
+      "Science Fiction",
+      "Action"
+    ],
     "era": "1990s",
     "challenge": 2
   },
-      {
+  {
     "id": 9,
     "question": "Who played Forrest Gump?",
     "answer": "Tom Hanks",
-    "incorrect_answers": ["Kevin Costner", "Robin Williams", "Dustin Hoffman"],
+    "incorrect_answers": [
+      "Kevin Costner",
+      "Robin Williams",
+      "Dustin Hoffman"
+    ],
     "content": "",
     "content_type": "",
-    "category": ["Drama", "Romance"],
+    "category": [
+      "Drama",
+      "Romance"
+    ],
     "era": "1990s",
     "challenge": 1
   },
-      {
+  {
     "id": 10,
     "question": "What is the name of the spaceship in 'Star Wars' piloted by Han Solo?",
     "answer": "Millennium Falcon",
-    "incorrect_answers": ["X-Wing", "Tie Fighter", "Star Destroyer"],
+    "incorrect_answers": [
+      "X-Wing",
+      "Tie Fighter",
+      "Star Destroyer"
+    ],
     "content": "",
     "content_type": "",
-    "category": ["Science Fiction", "Action"],
+    "category": [
+      "Science Fiction",
+      "Action"
+    ],
     "era": "1970s",
     "challenge": 1
   },
-      {
+  {
     "id": 11,
     "question": "Who directed 'E.T. the Extra-Terrestrial'?",
     "answer": "Steven Spielberg",
-    "incorrect_answers": ["George Lucas", "James Cameron", "Robert Zemeckis"],
+    "incorrect_answers": [
+      "George Lucas",
+      "James Cameron",
+      "Robert Zemeckis"
+    ],
     "content": "",
     "content_type": "",
-    "category": ["Science Fiction", "Family"],
+    "category": [
+      "Science Fiction",
+      "Family"
+    ],
     "era": "1980s",
     "challenge": 1
   },
-      {
+  {
     "id": 12,
     "question": "What famous line does Arnold Schwarzenegger say in 'The Terminator'?",
     "answer": "I'll be back.",
-    "incorrect_answers": ["Hasta la vista, baby.", "Get to the chopper!", "Come with me if you want to live."],
+    "incorrect_answers": [
+      "Hasta la vista, baby.",
+      "Get to the chopper!",
+      "Come with me if you want to live."
+    ],
     "content": "",
     "content_type": "",
-    "category": ["Science Fiction", "Action"],
+    "category": [
+      "Science Fiction",
+      "Action"
+    ],
     "era": "1980s",
     "challenge": 1
   },
-      {
+  {
     "id": 13,
     "question": "Who played Indiana Jones?",
     "answer": "Harrison Ford",
-    "incorrect_answers": ["Tom Selleck", "Jeff Goldblum", "Mark Hamill"],
+    "incorrect_answers": [
+      "Tom Selleck",
+      "Jeff Goldblum",
+      "Mark Hamill"
+    ],
     "content": "",
     "content_type": "",
-    "category": ["Action", "Adventure"],
+    "category": [
+      "Action",
+      "Adventure"
+    ],
     "era": "1980s",
     "challenge": 1
   },
-      {
+  {
     "id": 14,
     "question": "What is the name of the fictional city where Batman operates?",
     "answer": "Gotham City",
-    "incorrect_answers": ["Metropolis", "Star City", "Central City"],
+    "incorrect_answers": [
+      "Metropolis",
+      "Star City",
+      "Central City"
+    ],
     "content": "",
     "content_type": "",
-    "category": ["Superhero", "Action"],
+    "category": [
+      "Superhero",
+      "Action"
+    ],
     "era": "1980s",
     "challenge": 1
   },
-      {
+  {
     "id": 15,
     "question": "Who directed 'Back to the Future'?",
     "answer": "Robert Zemeckis",
-    "incorrect_answers": ["Steven Spielberg", "George Lucas", "James Cameron"],
+    "incorrect_answers": [
+      "Steven Spielberg",
+      "George Lucas",
+      "James Cameron"
+    ],
     "content": "",
     "content_type": "",
-    "category": ["Science Fiction", "Comedy"],
+    "category": [
+      "Science Fiction",
+      "Comedy"
+    ],
     "era": "1980s",
     "challenge": 1
   },
-        {
+  {
     "id": 16,
     "question": "What is the name of the hotel in 'The Shining'?",
     "answer": "Overlook Hotel",
-    "incorrect_answers": ["Bates Motel", "Timberline Lodge", "Stanley Hotel"],
+    "incorrect_answers": [
+      "Bates Motel",
+      "Timberline Lodge",
+      "Stanley Hotel"
+    ],
     "content": "",
     "content_type": "",
-    "category": ["Horror", "Thriller"],
+    "category": [
+      "Horror",
+      "Thriller"
+    ],
     "era": "1980s",
     "challenge": 2
   },
-        {
+  {
     "id": 17,
     "question": "Who played Marty McFly in 'Back to the Future'?",
     "answer": "Michael J. Fox",
-    "incorrect_answers": ["Christopher Lloyd", "Crispin Glover", "Lea Thompson"],
+    "incorrect_answers": [
+      "Christopher Lloyd",
+      "Crispin Glover",
+      "Lea Thompson"
+    ],
     "content": "",
     "content_type": "",
-    "category": ["Science Fiction", "Comedy"],
+    "category": [
+      "Science Fiction",
+      "Comedy"
+    ],
     "era": "1980s",
     "challenge": 1
   },
-        {
+  {
     "id": 18,
     "question": "What is the name of the alien in 'Predator'?",
     "answer": "Predator",
-    "incorrect_answers": ["Xenomorph", "The Thing", "Kryptonian"],
+    "incorrect_answers": [
+      "Xenomorph",
+      "The Thing",
+      "Kryptonian"
+    ],
     "content": "",
     "content_type": "",
-    "category": ["Science Fiction", "Action", "Horror"],
+    "category": [
+      "Science Fiction",
+      "Action",
+      "Horror"
+    ],
     "era": "1980s",
     "challenge": 2
   },
@@ -201,10 +328,17 @@
     "id": 19,
     "question": "Who directed 'Blade Runner'?",
     "answer": "Ridley Scott",
-    "incorrect_answers": ["James Cameron", "Steven Spielberg", "Stanley Kubrick"],
+    "incorrect_answers": [
+      "James Cameron",
+      "Steven Spielberg",
+      "Stanley Kubrick"
+    ],
     "content": "",
     "content_type": "",
-    "category": ["Science Fiction", "Neo-noir"],
+    "category": [
+      "Science Fiction",
+      "Neo-noir"
+    ],
     "era": "1980s",
     "challenge": 2
   },
@@ -212,186 +346,306 @@
     "id": 20,
     "question": "What is the name of the main character in 'Fight Club'?",
     "answer": "The Narrator (Jack)",
-    "incorrect_answers": ["Tyler Durden", "Marla Singer", "Robert Paulson"],
+    "incorrect_answers": [
+      "Tyler Durden",
+      "Marla Singer",
+      "Robert Paulson"
+    ],
     "content": "",
     "content_type": "",
-    "category": ["Drama", "Thriller"],
+    "category": [
+      "Drama",
+      "Thriller"
+    ],
     "era": "1990s",
     "challenge": 2
   },
-    {
+  {
     "id": 21,
     "question": "Who directed 'Goodfellas'?",
     "answer": "Martin Scorsese",
-    "incorrect_answers": ["Francis Ford Coppola", "Brian De Palma", "Quentin Tarantino"],
+    "incorrect_answers": [
+      "Francis Ford Coppola",
+      "Brian De Palma",
+      "Quentin Tarantino"
+    ],
     "content": "",
     "content_type": "",
-    "category": ["Crime", "Drama"],
+    "category": [
+      "Crime",
+      "Drama"
+    ],
     "era": "1990s",
     "challenge": 2
   },
-    {
+  {
     "id": 22,
     "question": "What is the name of the island in 'Shutter Island'?",
     "answer": "Shutter Island",
-    "incorrect_answers": ["Alcatraz", "Ellis Island", "Rikers Island"],
+    "incorrect_answers": [
+      "Alcatraz",
+      "Ellis Island",
+      "Rikers Island"
+    ],
     "content": "",
     "content_type": "",
-    "category": ["Mystery", "Thriller"],
+    "category": [
+      "Mystery",
+      "Thriller"
+    ],
     "era": "2010s",
     "challenge": 2
   },
-    {
+  {
     "id": 23,
     "question": "Who played Captain Jack Sparrow in the 'Pirates of the Caribbean' films?",
     "answer": "Johnny Depp",
-    "incorrect_answers": ["Orlando Bloom", "Keira Knightley", "Geoffrey Rush"],
+    "incorrect_answers": [
+      "Orlando Bloom",
+      "Keira Knightley",
+      "Geoffrey Rush"
+    ],
     "content": "",
     "content_type": "",
-    "category": ["Adventure", "Fantasy"],
+    "category": [
+      "Adventure",
+      "Fantasy"
+    ],
     "era": "2000s",
     "challenge": 1
   },
-    {
+  {
     "id": 24,
     "question": "What is the name of the superhero team in 'The Avengers'?",
     "answer": "The Avengers",
-    "incorrect_answers": ["The Justice League", "The X-Men", "The Fantastic Four"],
+    "incorrect_answers": [
+      "The Justice League",
+      "The X-Men",
+      "The Fantastic Four"
+    ],
     "content": "",
     "content_type": "",
-    "category": ["Superhero", "Action"],
+    "category": [
+      "Superhero",
+      "Action"
+    ],
     "era": "2010s",
     "challenge": 1
   },
-    {
+  {
     "id": 25,
     "question": "Who directed 'Inception'?",
     "answer": "Christopher Nolan",
-    "incorrect_answers": ["Steven Spielberg", "James Cameron", "Ridley Scott"],
+    "incorrect_answers": [
+      "Steven Spielberg",
+      "James Cameron",
+      "Ridley Scott"
+    ],
     "content": "",
     "content_type": "",
-    "category": ["Science Fiction", "Action"],
+    "category": [
+      "Science Fiction",
+      "Action"
+    ],
     "era": "2010s",
     "challenge": 2
   },
-    {
+  {
     "id": 26,
     "question": "What is the name of the hobbit who goes on a quest to destroy the One Ring in 'The Lord of the Rings'?",
     "answer": "Frodo Baggins",
-    "incorrect_answers": ["Bilbo Baggins", "Samwise Gamgee", "Merry Brandybuck"],
+    "incorrect_answers": [
+      "Bilbo Baggins",
+      "Samwise Gamgee",
+      "Merry Brandybuck"
+    ],
     "content": "",
     "content_type": "",
-    "category": ["Fantasy", "Adventure"],
+    "category": [
+      "Fantasy",
+      "Adventure"
+    ],
     "era": "2000s",
     "challenge": 1
   },
-    {
+  {
     "id": 27,
     "question": "Who played Neo in 'The Matrix'?",
     "answer": "Keanu Reeves",
-    "incorrect_answers": ["Laurence Fishburne", "Carrie-Anne Moss", "Hugo Weaving"],
+    "incorrect_answers": [
+      "Laurence Fishburne",
+      "Carrie-Anne Moss",
+      "Hugo Weaving"
+    ],
     "content": "",
     "content_type": "",
-    "category": ["Science Fiction", "Action"],
+    "category": [
+      "Science Fiction",
+      "Action"
+    ],
     "era": "1990s",
     "challenge": 1
   },
-    {
+  {
     "id": 28,
     "question": "What is the name of the dinosaur park in 'Jurassic Park'?",
     "answer": "Jurassic Park",
-    "incorrect_answers": ["Dino World", "Prehistoric Park", "Cretaceous Kingdom"],
+    "incorrect_answers": [
+      "Dino World",
+      "Prehistoric Park",
+      "Cretaceous Kingdom"
+    ],
     "content": "",
     "content_type": "",
-    "category": ["Science Fiction", "Adventure"],
+    "category": [
+      "Science Fiction",
+      "Adventure"
+    ],
     "era": "1990s",
     "challenge": 1
   },
-    {
+  {
     "id": 29,
     "question": "Who directed 'The Silence of the Lambs'?",
     "answer": "Jonathan Demme",
-    "incorrect_answers": ["Ridley Scott", "David Fincher", "Alfred Hitchcock"],
+    "incorrect_answers": [
+      "Ridley Scott",
+      "David Fincher",
+      "Alfred Hitchcock"
+    ],
     "content": "",
     "content_type": "",
-    "category": ["Thriller", "Crime", "Horror"],
+    "category": [
+      "Thriller",
+      "Crime",
+      "Horror"
+    ],
     "era": "1990s",
     "challenge": 2
   },
-    {
+  {
     "id": 30,
     "question": "What is the name of the main character in 'Taxi Driver'?",
     "answer": "Travis Bickle",
-    "incorrect_answers": ["Paul Schrader", "Betsy", "Iris"],
+    "incorrect_answers": [
+      "Paul Schrader",
+      "Betsy",
+      "Iris"
+    ],
     "content": "",
     "content_type": "",
-    "category": ["Drama", "Crime"],
+    "category": [
+      "Drama",
+      "Crime"
+    ],
     "era": "1970s",
     "challenge": 2
   },
-    {
+  {
     "id": 31,
     "question": "Who played Vito Corleone in 'The Godfather'?",
     "answer": "Marlon Brando",
-    "incorrect_answers": ["Al Pacino", "Robert De Niro", "James Caan"],
+    "incorrect_answers": [
+      "Al Pacino",
+      "Robert De Niro",
+      "James Caan"
+    ],
     "content": "",
     "content_type": "",
-    "category": ["Crime", "Drama"],
+    "category": [
+      "Crime",
+      "Drama"
+    ],
     "era": "1970s",
     "challenge": 1
   },
-    {
+  {
     "id": 32,
     "question": "What is the name of the ape in 'King Kong'?",
     "answer": "King Kong",
-    "incorrect_answers": ["Godzilla", "Rodan", "Mothra"],
+    "incorrect_answers": [
+      "Godzilla",
+      "Rodan",
+      "Mothra"
+    ],
     "content": "",
     "content_type": "",
-    "category": ["Monster", "Adventure"],
+    "category": [
+      "Monster",
+      "Adventure"
+    ],
     "era": "1930s",
     "challenge": 1
   },
-      {
+  {
     "id": 33,
     "question": "Who directed 'Citizen Kane'?",
     "answer": "Orson Welles",
-    "incorrect_answers": ["Alfred Hitchcock", "John Ford", "Howard Hawks"],
+    "incorrect_answers": [
+      "Alfred Hitchcock",
+      "John Ford",
+      "Howard Hawks"
+    ],
     "content": "",
     "content_type": "",
-    "category": ["Drama", "Mystery"],
+    "category": [
+      "Drama",
+      "Mystery"
+    ],
     "era": "1940s",
     "challenge": 2
   },
-      {
+  {
     "id": 34,
     "question": "What is the name of the spaceship in '2001: A Space Odyssey'?",
     "answer": "Discovery One",
-    "incorrect_answers": ["Enterprise", "Millennium Falcon", "Serenity"],
+    "incorrect_answers": [
+      "Enterprise",
+      "Millennium Falcon",
+      "Serenity"
+    ],
     "content": "",
     "content_type": "",
-    "category": ["Science Fiction", "Adventure"],
+    "category": [
+      "Science Fiction",
+      "Adventure"
+    ],
     "era": "1960s",
     "challenge": 2
   },
-      {
+  {
     "id": 35,
     "question": "Who played Scarlett O'Hara in 'Gone with the Wind'?",
     "answer": "Vivien Leigh",
-    "incorrect_answers": ["Olivia de Havilland", "Bette Davis", "Katharine Hepburn"],
+    "incorrect_answers": [
+      "Olivia de Havilland",
+      "Bette Davis",
+      "Katharine Hepburn"
+    ],
     "content": "",
     "content_type": "",
-    "category": ["Romance", "Drama"],
+    "category": [
+      "Romance",
+      "Drama"
+    ],
     "era": "1930s",
     "challenge": 2
   },
-        {
+  {
     "id": 36,
     "question": "What year was 'The Wizard of Oz' released?",
     "answer": "1939",
-    "incorrect_answers": ["1935", "1942", "1945"],
+    "incorrect_answers": [
+      "1935",
+      "1942",
+      "1945"
+    ],
     "content": "",
     "content_type": "",
-    "category": ["Musical", "Fantasy"],
+    "category": [
+      "Musical",
+      "Fantasy"
+    ],
     "era": "1930s",
     "challenge": 3
   },
@@ -399,10 +653,17 @@
     "id": 37,
     "question": "Who directed 'Psycho'?",
     "answer": "Alfred Hitchcock",
-    "incorrect_answers": ["Stanley Kubrick", "Orson Welles", "Billy Wilder"],
+    "incorrect_answers": [
+      "Stanley Kubrick",
+      "Orson Welles",
+      "Billy Wilder"
+    ],
     "content": "",
     "content_type": "",
-    "category": ["Horror", "Thriller"],
+    "category": [
+      "Horror",
+      "Thriller"
+    ],
     "era": "1960s",
     "challenge": 2
   },
@@ -410,175 +671,293 @@
     "id": 38,
     "question": "What is the name of the main character in 'The Godfather Part II'?",
     "answer": "Michael Corleone",
-    "incorrect_answers": ["Vito Corleone", "Sonny Corleone", "Fredo Corleone"],
+    "incorrect_answers": [
+      "Vito Corleone",
+      "Sonny Corleone",
+      "Fredo Corleone"
+    ],
     "content": "",
     "content_type": "",
-    "category": ["Crime", "Drama"],
+    "category": [
+      "Crime",
+      "Drama"
+    ],
     "era": "1970s",
     "challenge": 2
   },
-    {
+  {
     "id": 39,
     "question": "Who played the lead role in 'Lawrence of Arabia'?",
     "answer": "Peter O'Toole",
-    "incorrect_answers": ["Alec Guinness", "Anthony Quinn", "Omar Sharif"],
+    "incorrect_answers": [
+      "Alec Guinness",
+      "Anthony Quinn",
+      "Omar Sharif"
+    ],
     "content": "",
     "content_type": "",
-    "category": ["Adventure", "Biography", "War"],
+    "category": [
+      "Adventure",
+      "Biography",
+      "War"
+    ],
     "era": "1960s",
     "challenge": 2
   },
-    {
+  {
     "id": 40,
     "question": "What is the name of the spaceship in 'Alien'?",
     "answer": "Nostromo",
-    "incorrect_answers": ["Sulaco", "Pioneer", "Event Horizon"],
+    "incorrect_answers": [
+      "Sulaco",
+      "Pioneer",
+      "Event Horizon"
+    ],
     "content": "",
     "content_type": "",
-    "category": ["Science Fiction", "Horror"],
+    "category": [
+      "Science Fiction",
+      "Horror"
+    ],
     "era": "1970s",
     "challenge": 2
   },
-    {
+  {
     "id": 41,
     "question": "Who directed 'Jaws'?",
     "answer": "Steven Spielberg",
-    "incorrect_answers": ["Alfred Hitchcock", "Ridley Scott", "James Cameron"],
+    "incorrect_answers": [
+      "Alfred Hitchcock",
+      "Ridley Scott",
+      "James Cameron"
+    ],
     "content": "",
     "content_type": "",
-    "category": ["Thriller", "Adventure", "Horror"],
+    "category": [
+      "Thriller",
+      "Adventure",
+      "Horror"
+    ],
     "era": "1970s",
     "challenge": 1
   },
-    {
+  {
     "id": 42,
     "question": "What is the name of the main character in 'The Good, the Bad and the Ugly'?",
     "answer": "Blondie (The Man with No Name)",
-    "incorrect_answers": ["Angel Eyes (Sentenza)", "Tuco (The Ugly)", "Joe"],
+    "incorrect_answers": [
+      "Angel Eyes (Sentenza)",
+      "Tuco (The Ugly)",
+      "Joe"
+    ],
     "content": "",
     "content_type": "",
-    "category": ["Western", "Adventure"],
+    "category": [
+      "Western",
+      "Adventure"
+    ],
     "era": "1960s",
     "challenge": 2
   },
-    {
+  {
     "id": 43,
     "question": "Who played James Bond in 'Goldfinger'?",
     "answer": "Sean Connery",
-    "incorrect_answers": ["Roger Moore", "George Lazenby", "Timothy Dalton"],
+    "incorrect_answers": [
+      "Roger Moore",
+      "George Lazenby",
+      "Timothy Dalton"
+    ],
     "content": "",
     "content_type": "",
-    "category": ["Action", "Spy"],
+    "category": [
+      "Action",
+      "Spy"
+    ],
     "era": "1960s",
     "challenge": 1
   },
-    {
+  {
     "id": 44,
     "question": "What is the name of the car in 'Bullitt'?",
     "answer": "1968 Ford Mustang GT Fastback",
-    "incorrect_answers": ["1969 Dodge Charger", "1970 Chevrolet Chevelle", "1967 Chevrolet Impala"],
+    "incorrect_answers": [
+      "1969 Dodge Charger",
+      "1970 Chevrolet Chevelle",
+      "1967 Chevrolet Impala"
+    ],
     "content": "",
     "content_type": "",
-    "category": ["Action", "Thriller"],
+    "category": [
+      "Action",
+      "Thriller"
+    ],
     "era": "1960s",
     "challenge": 3
   },
-    {
+  {
     "id": 45,
     "question": "Who directed 'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb'?",
     "answer": "Stanley Kubrick",
-    "incorrect_answers": ["Alfred Hitchcock", "Orson Welles", "Billy Wilder"],
+    "incorrect_answers": [
+      "Alfred Hitchcock",
+      "Orson Welles",
+      "Billy Wilder"
+    ],
     "content": "",
     "content_type": "",
-    "category": ["Comedy", "War", "Satire"],
+    "category": [
+      "Comedy",
+      "War",
+      "Satire"
+    ],
     "era": "1960s",
     "challenge": 2
   },
-    {
+  {
     "id": 46,
     "question": "What is the name of the main character in 'The Graduate'?",
     "answer": "Benjamin Braddock",
-    "incorrect_answers": ["Mrs. Robinson", "Elaine Robinson", "Mr. Braddock"],
+    "incorrect_answers": [
+      "Mrs. Robinson",
+      "Elaine Robinson",
+      "Mr. Braddock"
+    ],
     "content": "",
     "content_type": "",
-    "category": ["Comedy", "Drama", "Romance"],
+    "category": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
     "era": "1960s",
     "challenge": 2
   },
-    {
+  {
     "id": 47,
     "question": "Who played Holly Golightly in 'Breakfast at Tiffany's'?",
     "answer": "Audrey Hepburn",
-    "incorrect_answers": ["Marilyn Monroe", "Elizabeth Taylor", "Grace Kelly"],
+    "incorrect_answers": [
+      "Marilyn Monroe",
+      "Elizabeth Taylor",
+      "Grace Kelly"
+    ],
     "content": "",
     "content_type": "",
-    "category": ["Romance", "Comedy", "Drama"],
+    "category": [
+      "Romance",
+      "Comedy",
+      "Drama"
+    ],
     "era": "1960s",
     "challenge": 1
   },
-    {
+  {
     "id": 48,
     "question": "What is the name of the prison in 'Escape from Alcatraz'?",
     "answer": "Alcatraz",
-    "incorrect_answers": ["Shawshank", "Cold Mountain", "Devil's Island"],
+    "incorrect_answers": [
+      "Shawshank",
+      "Cold Mountain",
+      "Devil's Island"
+    ],
     "content": "",
     "content_type": "",
-    "category": ["Action", "Thriller", "Crime"],
+    "category": [
+      "Action",
+      "Thriller",
+      "Crime"
+    ],
     "era": "1970s",
     "challenge": 1
   },
-    {
+  {
     "id": 49,
     "question": "Who directed 'Apocalypse Now'?",
     "answer": "Francis Ford Coppola",
-    "incorrect_answers": ["Martin Scorsese", "Stanley Kubrick", "Steven Spielberg"],
+    "incorrect_answers": [
+      "Martin Scorsese",
+      "Stanley Kubrick",
+      "Steven Spielberg"
+    ],
     "content": "",
     "content_type": "",
-    "category": ["War", "Drama"],
+    "category": [
+      "War",
+      "Drama"
+    ],
     "era": "1970s",
     "challenge": 2
   },
-    {
+  {
     "id": 50,
     "question": "What is the name of the main character in 'Rocky'?",
     "answer": "Rocky Balboa",
-    "incorrect_answers": ["Apollo Creed", "Adrian Pennino", "Paulie Pennino"],
+    "incorrect_answers": [
+      "Apollo Creed",
+      "Adrian Pennino",
+      "Paulie Pennino"
+    ],
     "content": "",
     "content_type": "",
-    "category": ["Drama", "Sports"],
+    "category": [
+      "Drama",
+      "Sports"
+    ],
     "era": "1970s",
     "challenge": 1
   },
-    {
+  {
     "id": 51,
     "question": "Who directed 'Close Encounters of the Third Kind'?",
     "answer": "Steven Spielberg",
-    "incorrect_answers": ["George Lucas", "Robert Zemeckis", "James Cameron"],
+    "incorrect_answers": [
+      "George Lucas",
+      "Robert Zemeckis",
+      "James Cameron"
+    ],
     "content": "",
     "content_type": "",
-    "category": ["Science Fiction", "Drama"],
+    "category": [
+      "Science Fiction",
+      "Drama"
+    ],
     "era": "1970s",
     "challenge": 2
   },
-    {
+  {
     "id": 52,
     "question": "What is the name of the hotel in 'Some Like It Hot'?",
     "answer": "Seminole Ritz Hotel",
-    "incorrect_answers": ["Overlook Hotel", "Bates Motel", "The Plaza Hotel"],
+    "incorrect_answers": [
+      "Overlook Hotel",
+      "Bates Motel",
+      "The Plaza Hotel"
+    ],
     "content": "",
     "content_type": "",
-    "category": ["Comedy", "Romance"],
+    "category": [
+      "Comedy",
+      "Romance"
+    ],
     "era": "1950s",
     "challenge": 3
   },
-    {
+  {
     "id": 53,
     "question": "Who played Sugar Kane in 'Some Like It Hot'?",
     "answer": "Marilyn Monroe",
-    "incorrect_answers": ["Audrey Hepburn", "Elizabeth Taylor", "Grace Kelly"],
+    "incorrect_answers": [
+      "Audrey Hepburn",
+      "Elizabeth Taylor",
+      "Grace Kelly"
+    ],
     "content": "",
     "content_type": "",
-    "category": ["Comedy", "Romance"],
+    "category": [
+      "Comedy",
+      "Romance"
+    ],
     "era": "1950s",
     "challenge": 1
   },
@@ -586,10 +965,18 @@
     "id": 54,
     "question": "What is the name of the plane in 'Casablanca'?",
     "answer": "Lockheed Model 12 Electra Junior",
-    "incorrect_answers": ["Douglas DC-3", "Boeing 747", "Ford Trimotor"],
+    "incorrect_answers": [
+      "Douglas DC-3",
+      "Boeing 747",
+      "Ford Trimotor"
+    ],
     "content": "",
     "content_type": "",
-    "category": ["Drama", "Romance", "War"],
+    "category": [
+      "Drama",
+      "Romance",
+      "War"
+    ],
     "era": "1940s",
     "challenge": 3
   },
@@ -597,186 +984,311 @@
     "id": 55,
     "question": "Who played Rick Blaine in 'Casablanca'?",
     "answer": "Humphrey Bogart",
-    "incorrect_answers": ["Cary Grant", "Clark Gable", "James Cagney"],
+    "incorrect_answers": [
+      "Cary Grant",
+      "Clark Gable",
+      "James Cagney"
+    ],
     "content": "",
     "content_type": "",
-    "category": ["Drama", "Romance", "War"],
+    "category": [
+      "Drama",
+      "Romance",
+      "War"
+    ],
     "era": "1940s",
     "challenge": 1
   },
-    {
+  {
     "id": 56,
     "question": "What is the name of the sled in 'Citizen Kane'?",
     "answer": "Rosebud",
-    "incorrect_answers": ["Eagle", "Sunshine", "Liberty"],
+    "incorrect_answers": [
+      "Eagle",
+      "Sunshine",
+      "Liberty"
+    ],
     "content": "",
     "content_type": "",
-    "category": ["Drama", "Mystery"],
+    "category": [
+      "Drama",
+      "Mystery"
+    ],
     "era": "1940s",
     "challenge": 2
   },
-    {
+  {
     "id": 57,
     "question": "Who directed 'Singin' in the Rain'?",
     "answer": "Gene Kelly and Stanley Donen",
-    "incorrect_answers": ["Fred Astaire", "Busby Berkeley", "Vincente Minnelli"],
+    "incorrect_answers": [
+      "Fred Astaire",
+      "Busby Berkeley",
+      "Vincente Minnelli"
+    ],
     "content": "",
     "content_type": "",
-    "category": ["Musical", "Comedy", "Romance"],
+    "category": [
+      "Musical",
+      "Comedy",
+      "Romance"
+    ],
     "era": "1950s",
     "challenge": 2
   },
-    {
+  {
     "id": 58,
     "question": "What is the name of the main character in 'Vertigo'?",
     "answer": "John 'Scottie' Ferguson",
-    "incorrect_answers": ["Madeleine Elster", "Gavin Elster", "Midge Wood"],
+    "incorrect_answers": [
+      "Madeleine Elster",
+      "Gavin Elster",
+      "Midge Wood"
+    ],
     "content": "",
     "content_type": "",
-    "category": ["Thriller", "Mystery", "Romance"],
+    "category": [
+      "Thriller",
+      "Mystery",
+      "Romance"
+    ],
     "era": "1950s",
     "challenge": 2
   },
-    {
+  {
     "id": 59,
     "question": "Who played the Wicked Witch of the West in 'The Wizard of Oz'?",
     "answer": "Margaret Hamilton",
-    "incorrect_answers": ["Billie Burke", "Judy Garland", "Clara Blandick"],
+    "incorrect_answers": [
+      "Billie Burke",
+      "Judy Garland",
+      "Clara Blandick"
+    ],
     "content": "",
     "content_type": "",
-    "category": ["Musical", "Fantasy"],
+    "category": [
+      "Musical",
+      "Fantasy"
+    ],
     "era": "1930s",
     "challenge": 2
   },
-    {
+  {
     "id": 60,
     "question": "What is the name of the ape in the original 'Planet of the Apes'?",
     "answer": "Cornelius",
-    "incorrect_answers": ["Zira", "Dr. Zaius", "General Ursus"],
+    "incorrect_answers": [
+      "Zira",
+      "Dr. Zaius",
+      "General Ursus"
+    ],
     "content": "",
     "content_type": "",
-    "category": ["Science Fiction", "Adventure"],
+    "category": [
+      "Science Fiction",
+      "Adventure"
+    ],
     "era": "1960s",
     "challenge": 2
   },
-    {
+  {
     "id": 61,
     "question": "Who directed 'The Bridge on the River Kwai'?",
     "answer": "David Lean",
-    "incorrect_answers": ["John Ford", "William Wyler", "Alfred Hitchcock"],
+    "incorrect_answers": [
+      "John Ford",
+      "William Wyler",
+      "Alfred Hitchcock"
+    ],
     "content": "",
     "content_type": "",
-    "category": ["War", "Drama", "Adventure"],
+    "category": [
+      "War",
+      "Drama",
+      "Adventure"
+    ],
     "era": "1950s",
     "challenge": 2
   },
-    {
+  {
     "id": 62,
     "question": "What is the name of the main character in 'Rear Window'?",
     "answer": "L.B. 'Jeff' Jeffries",
-    "incorrect_answers": ["Lisa Fremont", "Stella", "Thorwald"],
+    "incorrect_answers": [
+      "Lisa Fremont",
+      "Stella",
+      "Thorwald"
+    ],
     "content": "",
     "content_type": "",
-    "category": ["Thriller", "Mystery"],
+    "category": [
+      "Thriller",
+      "Mystery"
+    ],
     "era": "1950s",
     "challenge": 2
   },
-    {
+  {
     "id": 63,
     "question": "Who played Dorothy Gale in 'The Wizard of Oz'?",
     "answer": "Judy Garland",
-    "incorrect_answers": ["Liza Minnelli", "Shirley Temple", "Deanna Durbin"],
+    "incorrect_answers": [
+      "Liza Minnelli",
+      "Shirley Temple",
+      "Deanna Durbin"
+    ],
     "content": "",
     "content_type": "",
-    "category": ["Musical", "Fantasy"],
+    "category": [
+      "Musical",
+      "Fantasy"
+    ],
     "era": "1930s",
     "challenge": 1
   },
-    {
+  {
     "id": 64,
     "question": "What is the name of the island in 'Jaws'?",
     "answer": "Amity Island",
-    "incorrect_answers": ["Martha's Vineyard", "Nantucket", "Long Island"],
+    "incorrect_answers": [
+      "Martha's Vineyard",
+      "Nantucket",
+      "Long Island"
+    ],
     "content": "",
     "content_type": "",
-    "category": ["Thriller", "Adventure", "Horror"],
+    "category": [
+      "Thriller",
+      "Adventure",
+      "Horror"
+    ],
     "era": "1970s",
     "challenge": 2
   },
-    {
+  {
     "id": 65,
     "question": "Who directed 'The Searchers'?",
     "answer": "John Ford",
-    "incorrect_answers": ["Howard Hawks", "John Huston", "Alfred Hitchcock"],
+    "incorrect_answers": [
+      "Howard Hawks",
+      "John Huston",
+      "Alfred Hitchcock"
+    ],
     "content": "",
     "content_type": "",
-    "category": ["Western", "Adventure"],
+    "category": [
+      "Western",
+      "Adventure"
+    ],
     "era": "1950s",
     "challenge": 2
   },
-    {
+  {
     "id": 66,
     "question": "What is the name of the main character in 'North by Northwest'?",
     "answer": "Roger Thornhill",
-    "incorrect_answers": ["Eve Kendall", "Phillip Vandamm", "The Professor"],
+    "incorrect_answers": [
+      "Eve Kendall",
+      "Phillip Vandamm",
+      "The Professor"
+    ],
     "content": "",
     "content_type": "",
-    "category": ["Thriller", "Spy", "Adventure"],
+    "category": [
+      "Thriller",
+      "Spy",
+      "Adventure"
+    ],
     "era": "1950s",
     "challenge": 2
   },
-    {
+  {
     "id": 67,
     "question": "Who played the Creature from the Black Lagoon?",
     "answer": "Ben Chapman (on land) / Ricou Browning (underwater)",
-    "incorrect_answers": ["Lon Chaney Jr.", "Bela Lugosi", "Boris Karloff"],
+    "incorrect_answers": [
+      "Lon Chaney Jr.",
+      "Bela Lugosi",
+      "Boris Karloff"
+    ],
     "content": "",
     "content_type": "",
-    "category": ["Horror", "Monster"],
+    "category": [
+      "Horror",
+      "Monster"
+    ],
     "era": "1950s",
     "challenge": 3
   },
-    {
+  {
     "id": 68,
     "question": "What is the name of the spaceship in 'Forbidden Planet'?",
     "answer": "C-57D",
-    "incorrect_answers": ["Nostromo", "Discovery One", "Enterprise"],
+    "incorrect_answers": [
+      "Nostromo",
+      "Discovery One",
+      "Enterprise"
+    ],
     "content": "",
     "content_type": "",
-    "category": ["Science Fiction", "Adventure"],
+    "category": [
+      "Science Fiction",
+      "Adventure"
+    ],
     "era": "1950s",
     "challenge": 3
   },
-    {
+  {
     "id": 69,
     "question": "Who directed 'The Day the Earth Stood Still'?",
     "answer": "Robert Wise",
-    "incorrect_answers": ["Steven Spielberg", "George Pal", "Byron Haskin"],
+    "incorrect_answers": [
+      "Steven Spielberg",
+      "George Pal",
+      "Byron Haskin"
+    ],
     "content": "",
     "content_type": "",
-    "category": ["Science Fiction", "Drama"],
+    "category": [
+      "Science Fiction",
+      "Drama"
+    ],
     "era": "1950s",
     "challenge": 2
   },
-    {
+  {
     "id": 70,
     "question": "What is the name of the robot in 'Forbidden Planet'?",
     "answer": "Robby the Robot",
-    "incorrect_answers": ["Gort", "C-3PO", "R2-D2"],
+    "incorrect_answers": [
+      "Gort",
+      "C-3PO",
+      "R2-D2"
+    ],
     "content": "",
     "content_type": "",
-    "category": ["Science Fiction", "Adventure"],
+    "category": [
+      "Science Fiction",
+      "Adventure"
+    ],
     "era": "1950s",
     "challenge": 2
   },
-    {
+  {
     "id": 71,
     "question": "Who played the Bride in 'Kill Bill'?",
     "answer": "Uma Thurman",
-    "incorrect_answers": ["Lucy Liu", "Vivica A. Fox", "Daryl Hannah"],
+    "incorrect_answers": [
+      "Lucy Liu",
+      "Vivica A. Fox",
+      "Daryl Hannah"
+    ],
     "content": "",
     "content_type": "",
-    "category": ["Action", "Thriller"],
+    "category": [
+      "Action",
+      "Thriller"
+    ],
     "era": "2000s",
     "challenge": 1
   },
@@ -784,197 +1296,335 @@
     "id": 72,
     "question": "What is the name of the main character in 'The Big Lebowski'?",
     "answer": "Jeffrey 'The Dude' Lebowski",
-    "incorrect_answers": ["Walter Sobchak", "Donny Kerabatsos", "Maude Lebowski"],
+    "incorrect_answers": [
+      "Walter Sobchak",
+      "Donny Kerabatsos",
+      "Maude Lebowski"
+    ],
     "content": "",
     "content_type": "",
-    "category": ["Comedy", "Crime"],
+    "category": [
+      "Comedy",
+      "Crime"
+    ],
     "era": "1990s",
     "challenge": 2
   },
-    {
+  {
     "id": 73,
     "question": "Who directed 'Schindler's List'?",
     "answer": "Steven Spielberg",
-    "incorrect_answers": ["Roman Polanski", "Stanley Kubrick", "Martin Scorsese"],
+    "incorrect_answers": [
+      "Roman Polanski",
+      "Stanley Kubrick",
+      "Martin Scorsese"
+    ],
     "content": "",
     "content_type": "",
-    "category": ["Drama", "History", "War"],
+    "category": [
+      "Drama",
+      "History",
+      "War"
+    ],
     "era": "1990s",
     "challenge": 2
   },
-    {
+  {
     "id": 74,
     "question": "What is the name of the island in 'Cast Away'?",
     "answer": "Monuriki",
-    "incorrect_answers": ["Fiji", "Tahiti", "Hawaii"],
+    "incorrect_answers": [
+      "Fiji",
+      "Tahiti",
+      "Hawaii"
+    ],
     "content": "",
     "content_type": "",
-    "category": ["Adventure", "Drama"],
+    "category": [
+      "Adventure",
+      "Drama"
+    ],
     "era": "2000s",
     "challenge": 3
   },
-    {
+  {
     "id": 75,
     "question": "Who played Gollum in 'The Lord of the Rings' trilogy?",
     "answer": "Andy Serkis",
-    "incorrect_answers": ["Ian McKellen", "Elijah Wood", "Sean Astin"],
+    "incorrect_answers": [
+      "Ian McKellen",
+      "Elijah Wood",
+      "Sean Astin"
+    ],
     "content": "",
     "content_type": "",
-    "category": ["Fantasy", "Adventure"],
+    "category": [
+      "Fantasy",
+      "Adventure"
+    ],
     "era": "2000s",
     "challenge": 1
   },
-    {
+  {
     "id": 76,
     "question": "What is the name of the artificial intelligence in 'Her'?",
     "answer": "Samantha",
-    "incorrect_answers": ["Siri", "Alexa", "Cortana"],
+    "incorrect_answers": [
+      "Siri",
+      "Alexa",
+      "Cortana"
+    ],
     "content": "",
     "content_type": "",
-    "category": ["Romance", "Science Fiction", "Drama"],
+    "category": [
+      "Romance",
+      "Science Fiction",
+      "Drama"
+    ],
     "era": "2010s",
     "challenge": 2
   },
-    {
+  {
     "id": 77,
     "question": "Who directed 'Birdman or (The Unexpected Virtue of Ignorance)'?",
     "answer": "Alejandro G. Iñárritu",
-    "incorrect_answers": ["Alfonso Cuarón", "Guillermo del Toro", "Christopher Nolan"],
+    "incorrect_answers": [
+      "Alfonso Cuarón",
+      "Guillermo del Toro",
+      "Christopher Nolan"
+    ],
     "content": "",
     "content_type": "",
-    "category": ["Drama", "Comedy"],
+    "category": [
+      "Drama",
+      "Comedy"
+    ],
     "era": "2010s",
     "challenge": 2
   },
-    {
+  {
     "id": 78,
     "question": "What is the name of the main character in 'Whiplash'?",
     "answer": "Andrew Neiman",
-    "incorrect_answers": ["Terence Fletcher", "Nicole", "Jim"],
+    "incorrect_answers": [
+      "Terence Fletcher",
+      "Nicole",
+      "Jim"
+    ],
     "content": "",
     "content_type": "",
-    "category": ["Drama", "Music"],
+    "category": [
+      "Drama",
+      "Music"
+    ],
     "era": "2010s",
     "challenge": 2
   },
-    {
+  {
     "id": 79,
     "question": "Who played Rey in the 'Star Wars' sequel trilogy?",
     "answer": "Daisy Ridley",
-    "incorrect_answers": ["Carrie Fisher", "Natalie Portman", "Felicity Jones"],
+    "incorrect_answers": [
+      "Carrie Fisher",
+      "Natalie Portman",
+      "Felicity Jones"
+    ],
     "content": "",
     "content_type": "",
-    "category": ["Science Fiction", "Action", "Adventure"],
+    "category": [
+      "Science Fiction",
+      "Action",
+      "Adventure"
+    ],
     "era": "2010s",
     "challenge": 1
   },
-    {
+  {
     "id": 80,
     "question": "What is the name of the superheroine played by Gal Gadot?",
     "answer": "Wonder Woman",
-    "incorrect_answers": ["Black Widow", "Captain Marvel", "Scarlet Witch"],
+    "incorrect_answers": [
+      "Black Widow",
+      "Captain Marvel",
+      "Scarlet Witch"
+    ],
     "content": "",
     "content_type": "",
-    "category": ["Superhero", "Action", "Adventure"],
+    "category": [
+      "Superhero",
+      "Action",
+      "Adventure"
+    ],
     "era": "2010s",
     "challenge": 1
   },
-    {
+  {
     "id": 81,
     "question": "Who directed 'Parasite'?",
     "answer": "Bong Joon-ho",
-    "incorrect_answers": ["Park Chan-wook", "Kim Ki-duk", "Lee Chang-dong"],
+    "incorrect_answers": [
+      "Park Chan-wook",
+      "Kim Ki-duk",
+      "Lee Chang-dong"
+    ],
     "content": "",
     "content_type": "",
-    "category": ["Thriller", "Comedy", "Drama"],
+    "category": [
+      "Thriller",
+      "Comedy",
+      "Drama"
+    ],
     "era": "2010s",
     "challenge": 2
   },
-    {
+  {
     "id": 82,
     "question": "What is the name of the prison in 'The Green Mile'?",
     "answer": "Cold Mountain Penitentiary",
-    "incorrect_answers": ["Shawshank State Penitentiary", "Alcatraz Federal Penitentiary", "Sing Sing Correctional Facility"],
+    "incorrect_answers": [
+      "Shawshank State Penitentiary",
+      "Alcatraz Federal Penitentiary",
+      "Sing Sing Correctional Facility"
+    ],
     "content": "",
     "content_type": "",
-    "category": ["Drama", "Fantasy", "Crime"],
+    "category": [
+      "Drama",
+      "Fantasy",
+      "Crime"
+    ],
     "era": "1990s",
     "challenge": 2
   },
-    {
+  {
     "id": 83,
     "question": "Who played Hannibal Lecter in 'The Silence of the Lambs'?",
     "answer": "Anthony Hopkins",
-    "incorrect_answers": ["Brian Cox", "Mads Mikkelsen", "Gary Oldman"],
+    "incorrect_answers": [
+      "Brian Cox",
+      "Mads Mikkelsen",
+      "Gary Oldman"
+    ],
     "content": "",
     "content_type": "",
-    "category": ["Thriller", "Crime", "Horror"],
+    "category": [
+      "Thriller",
+      "Crime",
+      "Horror"
+    ],
     "era": "1990s",
     "challenge": 1
   },
-    {
+  {
     "id": 84,
     "question": "What is the name of the time-traveling DeLorean in 'Back to the Future'?",
     "answer": "DeLorean DMC-12",
-    "incorrect_answers": ["Ford Mustang", "Chevrolet Camaro", "Pontiac Firebird"],
+    "incorrect_answers": [
+      "Ford Mustang",
+      "Chevrolet Camaro",
+      "Pontiac Firebird"
+    ],
     "content": "",
     "content_type": "",
-    "category": ["Science Fiction", "Comedy", "Adventure"],
+    "category": [
+      "Science Fiction",
+      "Comedy",
+      "Adventure"
+    ],
     "era": "1980s",
     "challenge": 2
   },
-    {
+  {
     "id": 85,
     "question": "Who directed 'The Breakfast Club'?",
     "answer": "John Hughes",
-    "incorrect_answers": ["Steven Spielberg", "Robert Zemeckis", "Chris Columbus"],
+    "incorrect_answers": [
+      "Steven Spielberg",
+      "Robert Zemeckis",
+      "Chris Columbus"
+    ],
     "content": "",
     "content_type": "",
-    "category": ["Comedy", "Drama"],
+    "category": [
+      "Comedy",
+      "Drama"
+    ],
     "era": "1980s",
     "challenge": 1
   },
-    {
+  {
     "id": 86,
     "question": "What is the name of the main character in 'Scarface'?",
     "answer": "Tony Montana",
-    "incorrect_answers": ["Manny Ribera", "Elvira Hancock", "Frank Lopez"],
+    "incorrect_answers": [
+      "Manny Ribera",
+      "Elvira Hancock",
+      "Frank Lopez"
+    ],
     "content": "",
     "content_type": "",
-    "category": ["Crime", "Drama", "Thriller"],
+    "category": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
     "era": "1980s",
     "challenge": 1
   },
-    {
+  {
     "id": 87,
     "question": "Who played Ellen Ripley in the 'Alien' franchise?",
     "answer": "Sigourney Weaver",
-    "incorrect_answers": ["Linda Hamilton", "Jamie Lee Curtis", "Milla Jovovich"],
+    "incorrect_answers": [
+      "Linda Hamilton",
+      "Jamie Lee Curtis",
+      "Milla Jovovich"
+    ],
     "content": "",
     "content_type": "",
-    "category": ["Science Fiction", "Horror", "Action"],
+    "category": [
+      "Science Fiction",
+      "Horror",
+      "Action"
+    ],
     "era": "1970s",
     "challenge": 1
   },
-    {
+  {
     "id": 88,
     "question": "What is the name of the police chief in 'Jaws'?",
     "answer": "Martin Brody",
-    "incorrect_answers": ["Matt Hooper", "Quint", "Larry Vaughn"],
+    "incorrect_answers": [
+      "Matt Hooper",
+      "Quint",
+      "Larry Vaughn"
+    ],
     "content": "",
     "content_type": "",
-    "category": ["Thriller", "Adventure", "Horror"],
+    "category": [
+      "Thriller",
+      "Adventure",
+      "Horror"
+    ],
     "era": "1970s",
     "challenge": 2
   },
-    {
+  {
     "id": 89,
     "question": "Who directed 'Star Wars: A New Hope'?",
     "answer": "George Lucas",
-    "incorrect_answers": ["Steven Spielberg", "Irvin Kershner", "Richard Marquand"],
+    "incorrect_answers": [
+      "Steven Spielberg",
+      "Irvin Kershner",
+      "Richard Marquand"
+    ],
     "content": "",
     "content_type": "",
-    "category": ["Science Fiction", "Action", "Adventure"],
+    "category": [
+      "Science Fiction",
+      "Action",
+      "Adventure"
+    ],
     "era": "1970s",
     "challenge": 1
   },
@@ -982,120 +1632,203 @@
     "id": 90,
     "question": "What is the name of the main character in 'The Shining'?",
     "answer": "Jack Torrance",
-    "incorrect_answers": ["Wendy Torrance", "Danny Torrance", "Dick Hallorann"],
+    "incorrect_answers": [
+      "Wendy Torrance",
+      "Danny Torrance",
+      "Dick Hallorann"
+    ],
     "content": "",
     "content_type": "",
-    "category": ["Horror", "Thriller"],
+    "category": [
+      "Horror",
+      "Thriller"
+    ],
     "era": "1980s",
     "challenge": 2
   },
-    {
+  {
     "id": 91,
     "question": "Who played Sarah Connor in 'Terminator 2: Judgment Day'?",
     "answer": "Linda Hamilton",
-    "incorrect_answers": ["Sigourney Weaver", "Jamie Lee Curtis", "Carrie Henn"],
+    "incorrect_answers": [
+      "Sigourney Weaver",
+      "Jamie Lee Curtis",
+      "Carrie Henn"
+    ],
     "content": "",
     "content_type": "",
-    "category": ["Science Fiction", "Action"],
+    "category": [
+      "Science Fiction",
+      "Action"
+    ],
     "era": "1990s",
     "challenge": 1
   },
-    {
+  {
     "id": 92,
     "question": "What is the name of the villain in 'Die Hard'?",
     "answer": "Hans Gruber",
-    "incorrect_answers": ["John McClane", "Karl", "Harry Ellis"],
+    "incorrect_answers": [
+      "John McClane",
+      "Karl",
+      "Harry Ellis"
+    ],
     "content": "",
     "content_type": "",
-    "category": ["Action", "Thriller"],
+    "category": [
+      "Action",
+      "Thriller"
+    ],
     "era": "1980s",
     "challenge": 2
   },
-    {
+  {
     "id": 93,
     "question": "Who directed 'Saving Private Ryan'?",
     "answer": "Steven Spielberg",
-    "incorrect_answers": ["Clint Eastwood", "Ridley Scott", "Christopher Nolan"],
+    "incorrect_answers": [
+      "Clint Eastwood",
+      "Ridley Scott",
+      "Christopher Nolan"
+    ],
     "content": "",
     "content_type": "",
-    "category": ["War", "Drama", "History"],
+    "category": [
+      "War",
+      "Drama",
+      "History"
+    ],
     "era": "1990s",
     "challenge": 2
   },
-    {
+  {
     "id": 94,
     "question": "What is the name of the main character in 'Pulp Fiction'?",
     "answer": "There are multiple main characters. (e.g. Jules Winnfield, Vincent Vega)",
-    "incorrect_answers": ["Butch Coolidge", "Mia Wallace", "Marsellus Wallace"],
+    "incorrect_answers": [
+      "Butch Coolidge",
+      "Mia Wallace",
+      "Marsellus Wallace"
+    ],
     "content": "",
     "content_type": "",
-    "category": ["Crime", "Drama"],
+    "category": [
+      "Crime",
+      "Drama"
+    ],
     "era": "1990s",
     "challenge": 2
   },
-    {
+  {
     "id": 95,
     "question": "Who played Gandalf in 'The Lord of the Rings' trilogy?",
     "answer": "Ian McKellen",
-    "incorrect_answers": ["Christopher Lee", "Viggo Mortensen", "Orlando Bloom"],
+    "incorrect_answers": [
+      "Christopher Lee",
+      "Viggo Mortensen",
+      "Orlando Bloom"
+    ],
     "content": "",
     "content_type": "",
-    "category": ["Fantasy", "Adventure"],
+    "category": [
+      "Fantasy",
+      "Adventure"
+    ],
     "era": "2000s",
     "challenge": 1
   },
-    {
+  {
     "id": 96,
     "question": "What is the name of the superhero played by Robert Downey Jr.?",
     "answer": "Iron Man",
-    "incorrect_answers": ["Captain America", "Thor", "Hulk"],
+    "incorrect_answers": [
+      "Captain America",
+      "Thor",
+      "Hulk"
+    ],
     "content": "",
     "content_type": "",
-    "category": ["Superhero", "Action", "Science Fiction"],
+    "category": [
+      "Superhero",
+      "Action",
+      "Science Fiction"
+    ],
     "era": "2000s",
     "challenge": 1
   },
-    {
+  {
     "id": 97,
     "question": "Who directed 'The Departed'?",
     "answer": "Martin Scorsese",
-    "incorrect_answers": ["Francis Ford Coppola", "Brian De Palma", "Steven Spielberg"],
+    "incorrect_answers": [
+      "Francis Ford Coppola",
+      "Brian De Palma",
+      "Steven Spielberg"
+    ],
     "content": "",
     "content_type": "",
-    "category": ["Crime", "Thriller", "Drama"],
+    "category": [
+      "Crime",
+      "Thriller",
+      "Drama"
+    ],
     "era": "2000s",
     "challenge": 2
   },
-    {
+  {
     "id": 98,
     "question": "What is the name of the dystopian society in 'The Hunger Games'?",
     "answer": "Panem",
-    "incorrect_answers": ["Gilead", "Oceania", "Zion"],
+    "incorrect_answers": [
+      "Gilead",
+      "Oceania",
+      "Zion"
+    ],
     "content": "",
     "content_type": "",
-    "category": ["Science Fiction", "Action", "Adventure"],
+    "category": [
+      "Science Fiction",
+      "Action",
+      "Adventure"
+    ],
     "era": "2010s",
     "challenge": 2
   },
-    {
+  {
     "id": 99,
     "question": "Who played Katniss Everdeen in 'The Hunger Games' films?",
     "answer": "Jennifer Lawrence",
-    "incorrect_answers": ["Shailene Woodley", "Emma Watson", "Kristen Stewart"],
+    "incorrect_answers": [
+      "Shailene Woodley",
+      "Emma Watson",
+      "Kristen Stewart"
+    ],
     "content": "",
     "content_type": "",
-    "category": ["Science Fiction", "Action", "Adventure"],
+    "category": [
+      "Science Fiction",
+      "Action",
+      "Adventure"
+    ],
     "era": "2010s",
     "challenge": 1
   },
-    {
+  {
     "id": 100,
     "question": "What is the name of the main character in 'Mad Max: Fury Road'?",
     "answer": "Max Rockatansky",
-    "incorrect_answers": ["Imperator Furiosa", "Nux", "Immortan Joe"],
+    "incorrect_answers": [
+      "Imperator Furiosa",
+      "Nux",
+      "Immortan Joe"
+    ],
     "content": "",
     "content_type": "",
-    "category": ["Action", "Science Fiction", "Adventure"],
+    "category": [
+      "Action",
+      "Science Fiction",
+      "Adventure"
+    ],
     "era": "2010s",
     "challenge": 2
   }

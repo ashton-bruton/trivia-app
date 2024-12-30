@@ -1,1102 +1,1793 @@
 [
-    {
-      "id": 1,
-      "question": "Who is known as the 'King of Pop'?",
-      "answer": "Michael Jackson",
-      "incorrect_answers": ["Prince", "Elvis Presley", "Stevie Wonder"],
-      "content": "",
-      "content_type": "",
-      "category": ["Pop", "Music"],
-      "era": "1980s",
-      "challenge": 1
-    },
-    {
-      "id": 2,
-      "question": "Which hip-hop group released the album 'The Chronic'?",
-      "answer": "Dr. Dre",
-      "incorrect_answers": ["Wu-Tang Clan", "N.W.A", "A Tribe Called Quest"],
-      "content": "",
-      "content_type": "",
-      "category": ["Hip Hop", "Music"],
-      "era": "1990s",
-      "challenge": 2
-    },
-    {
-      "id": 3,
-      "question": "What is the name of the most common chord progression in pop music?",
-      "answer": "I-V-vi-IV",
-      "incorrect_answers": ["I-IV-V-I", "i-VI-III-VII", "I-vi-IV-V"],
-      "content": "",
-      "content_type": "",
-      "category": ["Music Theory", "Pop"],
-      "era": "Multiple",
-      "challenge": 2
-    },
-    {
-      "id": 4,
-      "question": "Which rock band is known for the song 'Bohemian Rhapsody'?",
-      "answer": "Queen",
-      "incorrect_answers": ["The Rolling Stones", "Led Zeppelin", "The Beatles"],
-      "content": "",
-      "content_type": "",
-      "category": ["Rock", "Music"],
-      "era": "1970s",
-      "challenge": 1
-    },
-    {
-      "id": 5,
-      "question": "What does R&B stand for?",
-      "answer": "Rhythm and Blues",
-      "incorrect_answers": ["Rock and Blues", "Rap and Blues", "Reggae and Blues"],
-      "content": "",
-      "content_type": "",
-      "category": ["R&B", "Music"],
-      "era": "Multiple",
-      "challenge": 1
-    },
-    {
-      "id": 6,
-      "question": "Which city is considered the birthplace of jazz?",
-      "answer": "New Orleans",
-      "incorrect_answers": ["Chicago", "New York City", "St. Louis"],
-      "content": "",
-      "content_type": "",
-      "category": ["Jazz", "Music"],
-      "era": "Early 1900s",
-      "challenge": 2
-    },
-    {
-      "id": 7,
-      "question": "What electronic music genre originated in Chicago in the 1980s?",
-      "answer": "House Music",
-      "incorrect_answers": ["Techno", "Trance", "Dubstep"],
-      "content": "",
-      "content_type": "",
-      "category": ["House", "Electronic Music"],
-      "era": "1980s",
-      "challenge": 2
-    },
-    {
-      "id": 8,
-      "question": "Who is known as the 'Godfather of Soul'?",
-      "answer": "James Brown",
-      "incorrect_answers": ["Ray Charles", "Otis Redding", "Marvin Gaye"],
-      "content": "",
-      "content_type": "",
-      "category": ["Soul", "Music"],
-      "era": "1960s-1970s",
-      "challenge": 2
-    },
-    {
-      "id": 9,
-      "question": "Which rapper released the album 'Illmatic'?",
-      "answer": "Nas",
-      "incorrect_answers": ["Jay-Z", "The Notorious B.I.G.", "Tupac Shakur"],
-      "content": "",
-      "content_type": "",
-      "category": ["Hip Hop", "Music"],
-      "era": "1990s",
-      "challenge": 2
-    },
-    {
-      "id": 10,
-      "question": "What is the term for a musical interval spanning twelve semitones?",
-      "answer": "Octave",
-      "incorrect_answers": ["Fifth", "Fourth", "Tritone"],
-      "content": "",
-      "content_type": "",
-      "category": ["Music Theory"],
-      "era": "Multiple",
-      "challenge": 2
-    },
-    {
-      "id": 11,
-      "question": "Which band is known for the song 'Stairway to Heaven'?",
-      "answer": "Led Zeppelin",
-      "incorrect_answers": ["Pink Floyd", "The Who", "Black Sabbath"],
-      "content": "",
-      "content_type": "",
-      "category": ["Rock", "Music"],
-      "era": "1970s",
-      "challenge": 1
-    },
-    {
-      "id": 12,
-      "question": "Which female R&B artist is known for the song 'Respect'?",
-      "answer": "Aretha Franklin",
-      "incorrect_answers": ["Etta James", "Gladys Knight", "Tina Turner"],
-      "content": "",
-      "content_type": "",
-      "category": ["R&B", "Music", "Women in Music"],
-      "era": "1960s",
-      "challenge": 2
-    },
-      {
-      "id": 13,
-      "question": "What is the name of the scale that uses only five notes?",
-      "answer": "Pentatonic Scale",
-      "incorrect_answers": ["Chromatic Scale", "Major Scale", "Minor Scale"],
-      "content": "",
-      "content_type": "",
-      "category": ["Music Theory"],
-      "era": "Multiple",
-      "challenge": 2
-    },
-      {
-      "id": 14,
-      "question": "Which jazz musician is famous for playing the saxophone and known for songs like 'Giant Steps'?",
-      "answer": "John Coltrane",
-      "incorrect_answers": ["Miles Davis", "Charlie Parker", "Duke Ellington"],
-      "content": "",
-      "content_type": "",
-      "category": ["Jazz", "Music"],
-      "era": "1950s-1960s",
-      "challenge": 2
-    },
-      {
-      "id": 15,
-      "question": "Which DJ is considered one of the pioneers of house music?",
-      "answer": "Frankie Knuckles",
-      "incorrect_answers": ["Larry Heard", "Ron Hardy", "Marshall Jefferson"],
-      "content": "",
-      "content_type": "",
-      "category": ["House", "Electronic Music"],
-      "era": "1980s",
-      "challenge": 2
-    },
-      {
-      "id": 16,
-      "question": "Which pop group was known for 'Spice Up Your Life'?",
-      "answer": "Spice Girls",
-      "incorrect_answers": ["Destiny's Child", "TLC", "All Saints"],
-      "content": "",
-      "content_type": "",
-      "category": ["Pop", "Music"],
-      "era": "1990s",
-      "challenge": 1
-    },
-      {
-      "id": 17,
-      "question": "Which hip hop group consisted of members Method Man, RZA, and Ghostface Killah?",
-      "answer": "Wu-Tang Clan",
-      "incorrect_answers": ["Mobb Deep", "Public Enemy", "Run-DMC"],
-      "content": "",
-      "content_type": "",
-      "category": ["Hip Hop", "Music"],
-      "era": "1990s",
-      "challenge": 2
-    },
-    {
+  {
+    "id": 1,
+    "question": "Who is known as the 'King of Pop'?",
+    "answer": "Michael Jackson",
+    "incorrect_answers": [
+      "Prince",
+      "Elvis Presley",
+      "Stevie Wonder"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Pop",
+      "Music"
+    ],
+    "era": "1980s",
+    "challenge": 1
+  },
+  {
+    "id": 2,
+    "question": "Which hip-hop group released the album 'The Chronic'?",
+    "answer": "Dr. Dre",
+    "incorrect_answers": [
+      "Wu-Tang Clan",
+      "N.W.A",
+      "A Tribe Called Quest"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Hip Hop",
+      "Music"
+    ],
+    "era": "1990s",
+    "challenge": 2
+  },
+  {
+    "id": 3,
+    "question": "What is the name of the most common chord progression in pop music?",
+    "answer": "I-V-vi-IV",
+    "incorrect_answers": [
+      "I-IV-V-I",
+      "i-VI-III-VII",
+      "I-vi-IV-V"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Music Theory",
+      "Pop"
+    ],
+    "era": "Multiple",
+    "challenge": 2
+  },
+  {
+    "id": 4,
+    "question": "Which rock band is known for the song 'Bohemian Rhapsody'?",
+    "answer": "Queen",
+    "incorrect_answers": [
+      "The Rolling Stones",
+      "Led Zeppelin",
+      "The Beatles"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Rock",
+      "Music"
+    ],
+    "era": "1970s",
+    "challenge": 1
+  },
+  {
+    "id": 5,
+    "question": "What does R&B stand for?",
+    "answer": "Rhythm and Blues",
+    "incorrect_answers": [
+      "Rock and Blues",
+      "Rap and Blues",
+      "Reggae and Blues"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "R&B",
+      "Music"
+    ],
+    "era": "Multiple",
+    "challenge": 1
+  },
+  {
+    "id": 6,
+    "question": "Which city is considered the birthplace of jazz?",
+    "answer": "New Orleans",
+    "incorrect_answers": [
+      "Chicago",
+      "New York City",
+      "St. Louis"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Jazz",
+      "Music"
+    ],
+    "era": "Early 1900s",
+    "challenge": 2
+  },
+  {
+    "id": 7,
+    "question": "What electronic music genre originated in Chicago in the 1980s?",
+    "answer": "House Music",
+    "incorrect_answers": [
+      "Techno",
+      "Trance",
+      "Dubstep"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "House",
+      "Electronic Music"
+    ],
+    "era": "1980s",
+    "challenge": 2
+  },
+  {
+    "id": 8,
+    "question": "Who is known as the 'Godfather of Soul'?",
+    "answer": "James Brown",
+    "incorrect_answers": [
+      "Ray Charles",
+      "Otis Redding",
+      "Marvin Gaye"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Soul",
+      "Music"
+    ],
+    "era": "1960s-1970s",
+    "challenge": 2
+  },
+  {
+    "id": 9,
+    "question": "Which rapper released the album 'Illmatic'?",
+    "answer": "Nas",
+    "incorrect_answers": [
+      "Jay-Z",
+      "The Notorious B.I.G.",
+      "Tupac Shakur"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Hip Hop",
+      "Music"
+    ],
+    "era": "1990s",
+    "challenge": 2
+  },
+  {
+    "id": 10,
+    "question": "What is the term for a musical interval spanning twelve semitones?",
+    "answer": "Octave",
+    "incorrect_answers": [
+      "Fifth",
+      "Fourth",
+      "Tritone"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Music Theory"
+    ],
+    "era": "Multiple",
+    "challenge": 2
+  },
+  {
+    "id": 11,
+    "question": "Which band is known for the song 'Stairway to Heaven'?",
+    "answer": "Led Zeppelin",
+    "incorrect_answers": [
+      "Pink Floyd",
+      "The Who",
+      "Black Sabbath"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Rock",
+      "Music"
+    ],
+    "era": "1970s",
+    "challenge": 1
+  },
+  {
+    "id": 12,
+    "question": "Which female R&B artist is known for the song 'Respect'?",
+    "answer": "Aretha Franklin",
+    "incorrect_answers": [
+      "Etta James",
+      "Gladys Knight",
+      "Tina Turner"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "R&B",
+      "Music",
+      "Women in Music"
+    ],
+    "era": "1960s",
+    "challenge": 2
+  },
+  {
+    "id": 13,
+    "question": "What is the name of the scale that uses only five notes?",
+    "answer": "Pentatonic Scale",
+    "incorrect_answers": [
+      "Chromatic Scale",
+      "Major Scale",
+      "Minor Scale"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Music Theory"
+    ],
+    "era": "Multiple",
+    "challenge": 2
+  },
+  {
+    "id": 14,
+    "question": "Which jazz musician is famous for playing the saxophone and known for songs like 'Giant Steps'?",
+    "answer": "John Coltrane",
+    "incorrect_answers": [
+      "Miles Davis",
+      "Charlie Parker",
+      "Duke Ellington"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Jazz",
+      "Music"
+    ],
+    "era": "1950s-1960s",
+    "challenge": 2
+  },
+  {
+    "id": 15,
+    "question": "Which DJ is considered one of the pioneers of house music?",
+    "answer": "Frankie Knuckles",
+    "incorrect_answers": [
+      "Larry Heard",
+      "Ron Hardy",
+      "Marshall Jefferson"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "House",
+      "Electronic Music"
+    ],
+    "era": "1980s",
+    "challenge": 2
+  },
+  {
+    "id": 16,
+    "question": "Which pop group was known for 'Spice Up Your Life'?",
+    "answer": "Spice Girls",
+    "incorrect_answers": [
+      "Destiny's Child",
+      "TLC",
+      "All Saints"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Pop",
+      "Music"
+    ],
+    "era": "1990s",
+    "challenge": 1
+  },
+  {
+    "id": 17,
+    "question": "Which hip hop group consisted of members Method Man, RZA, and Ghostface Killah?",
+    "answer": "Wu-Tang Clan",
+    "incorrect_answers": [
+      "Mobb Deep",
+      "Public Enemy",
+      "Run-DMC"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Hip Hop",
+      "Music"
+    ],
+    "era": "1990s",
+    "challenge": 2
+  },
+  {
     "id": 18,
     "question": "What is the term for a series of musical notes arranged in ascending or descending order?",
     "answer": "Scale",
-    "incorrect_answers": ["Chord", "Interval", "Arpeggio"],
+    "incorrect_answers": [
+      "Chord",
+      "Interval",
+      "Arpeggio"
+    ],
     "content": "",
     "content_type": "",
-    "category": ["Music Theory"],
+    "category": [
+      "Music Theory"
+    ],
     "era": "Multiple",
     "challenge": 1
-    },
-    {
-        "id": 19,
-        "question": "Which band released the album 'Nevermind' in 1991, ushering in the grunge era?",
-        "answer": "Nirvana",
-        "incorrect_answers": ["Pearl Jam", "Soundgarden", "Alice in Chains"],
-        "content": "",
-        "content_type": "",
-        "category": ["Rock", "Grunge"],
-        "era": "1990s",
-        "challenge": 2
-      },
-      {
-        "id": 20,
-        "question": "What is the name of the rhythmic pattern that emphasizes the off-beats in reggae music?",
-        "answer": "Syncopation",
-        "incorrect_answers": ["Swing", "Backbeat", "Polyrhythm"],
-        "content": "",
-        "content_type": "",
-        "category": ["Reggae", "Music Theory"],
-        "era": "Multiple",
-        "challenge": 2
-      },
-      {
-        "id": 21,
-        "question": "Which British rock band is known for their concept albums like 'The Dark Side of the Moon'?",
-        "answer": "Pink Floyd",
-        "incorrect_answers": ["The Rolling Stones", "The Who", "The Kinks"],
-        "content": "",
-        "content_type": "",
-        "category": ["Rock", "Progressive Rock"],
-        "era": "1970s",
-        "challenge": 2
-      },
-      {
-        "id": 22,
-        "question": "Which female artist is known as the 'Queen of Soul'?",
-        "answer": "Aretha Franklin",
-        "incorrect_answers": ["Gladys Knight", "Tina Turner", "Diana Ross"],
-        "content": "",
-        "content_type": "",
-        "category": ["Soul", "Music"],
-        "era": "1960s-1970s",
-        "challenge": 1
-      },
-      {
-        "id": 23,
-        "question": "Which rapper is known for his alter ego Slim Shady?",
-        "answer": "Eminem",
-        "incorrect_answers": ["Jay-Z", "Dr. Dre", "Snoop Dogg"],
-        "content": "",
-        "content_type": "",
-        "category": ["Hip Hop", "Music"],
-        "era": "2000s",
-        "challenge": 1
-      },
-      {
-        "id": 24,
-        "question": "What is the name of the musical form that features a repeating bass line?",
-        "answer": "Ground Bass",
-        "incorrect_answers": ["Rondo", "Sonata", "Fugue"],
-        "content": "",
-        "content_type": "",
-        "category": ["Music Theory"],
-        "era": "Multiple",
-        "challenge": 3
-      },
-      {
-        "id": 25,
-        "question": "Which jazz trumpeter was known for his innovative style and albums like 'Kind of Blue'?",
-        "answer": "Miles Davis",
-        "incorrect_answers": ["Louis Armstrong", "Dizzy Gillespie", "Chet Baker"],
-        "content": "",
-        "content_type": "",
-        "category": ["Jazz", "Music"],
-        "era": "1950s-1970s",
-        "challenge": 2
-      },
-      {
-        "id": 26,
-        "question": "Which electronic music duo is known for wearing robot helmets?",
-        "answer": "Daft Punk",
-        "incorrect_answers": ["The Chemical Brothers", "Underworld", "Orbital"],
-        "content": "",
-        "content_type": "",
-        "category": ["Electronic Music", "House", "Dance"],
-        "era": "1990s-2010s",
-        "challenge": 2
-      },
-      {
-        "id": 27,
-        "question": "Which pop star had hits such as 'Like a Virgin' and 'Material Girl'?",
-        "answer": "Madonna",
-        "incorrect_answers": ["Cyndi Lauper", "Whitney Houston", "Janet Jackson"],
-        "content": "",
-        "content_type": "",
-        "category": ["Pop", "Music"],
-        "era": "1980s",
-        "challenge": 1
-      },
-      {
-        "id": 28,
-        "question": "Which hip-hop group is known for their socially conscious lyrics and songs like 'Fight the Power'?",
-        "answer": "Public Enemy",
-        "incorrect_answers": ["N.W.A", "Run-DMC", "A Tribe Called Quest"],
-        "content": "",
-        "content_type": "",
-        "category": ["Hip Hop", "Music"],
-        "era": "1980s-1990s",
-        "challenge": 2
-      },
-      {
-        "id": 29,
-        "question": "What is the term for a short melodic phrase that is repeated throughout a musical piece?",
-        "answer": "Motif",
-        "incorrect_answers": ["Theme", "Phrase", "Cadence"],
-        "content": "",
-        "content_type": "",
-        "category": ["Music Theory"],
-        "era": "Multiple",
-        "challenge": 2
-      },
-      {
-        "id": 30,
-        "question": "Which rock guitarist is known for his blues-influenced playing and songs like 'Voodoo Child'?",
-        "answer": "Jimi Hendrix",
-        "incorrect_answers": ["Eric Clapton", "Jimmy Page", "Jeff Beck"],
-        "content": "",
-        "content_type": "",
-        "category": ["Rock", "Blues Rock"],
-        "era": "1960s",
-        "challenge": 2
-      },
-      {
-        "id": 31,
-        "question": "Which R&B artist is known for his falsetto vocals and songs like 'Let's Get It On'?",
-        "answer": "Marvin Gaye",
-        "incorrect_answers": ["Stevie Wonder", "Al Green", "Smokey Robinson"],
-        "content": "",
-        "content_type": "",
-        "category": ["R&B", "Soul"],
-        "era": "1960s-1970s",
-        "challenge": 2
-      },
-        {
-        "id": 32,
-        "question": "What is the name of the musical texture consisting of a melody with chordal accompaniment?",
-        "answer": "Homophony",
-        "incorrect_answers": ["Polyphony", "Monophony", "Heterophony"],
-        "content": "",
-        "content_type": "",
-        "category": ["Music Theory"],
-        "era": "Multiple",
-        "challenge": 3
-      },
-        {
-        "id": 33,
-        "question": "Which influential jazz saxophonist is known for his bebop style?",
-        "answer": "Charlie Parker",
-        "incorrect_answers": ["John Coltrane", "Sonny Rollins", "Cannonball Adderley"],
-        "content": "",
-        "content_type": "",
-        "category": ["Jazz", "Bebop"],
-        "era": "1940s-1950s",
-        "challenge": 2
-      },
-        {
-        "id": 34,
-        "question": "Which city is considered the birthplace of house music?",
-        "answer": "Chicago",
-        "incorrect_answers": ["Detroit", "New York", "London"],
-        "content": "",
-        "content_type": "",
-        "category": ["House", "Electronic Music"],
-        "era": "1980s",
-        "challenge": 1
-      },
-          {
-        "id": 35,
-        "question": "Which pop artist is known for his flamboyant costumes and songs like 'Rocket Man'?",
-        "answer": "Elton John",
-        "incorrect_answers": ["David Bowie", "Freddie Mercury", "Billy Joel"],
-        "content": "",
-        "content_type": "",
-        "category": ["Pop", "Rock"],
-        "era": "1970s",
-        "challenge": 2
-      },
-      {
-        "id": 36,
-        "question": "Which hip hop group is known for their Native Tongues Posse affiliation and jazz-influenced sound?",
-        "answer": "A Tribe Called Quest",
-        "incorrect_answers": ["De La Soul", "Jungle Brothers", "The Pharcyde"],
-        "content": "",
-        "content_type": "",
-        "category": ["Hip Hop", "Jazz Rap"],
-        "era": "1990s",
-        "challenge": 2
-    },
-    {
-        "id": 37,
-        "question": "What is the term for a musical device where a melody is played backwards?",
-        "answer": "Retrograde",
-        "incorrect_answers": ["Inversion", "Augmentation", "Diminution"],
-        "content": "",
-        "content_type": "",
-        "category": ["Music Theory"],
-        "era": "Multiple",
-        "challenge": 3
-    },
-    {
-        "id": 38,
-        "question": "Which blues musician is known as the 'King of the Blues'?",
-        "answer": "B.B. King",
-        "incorrect_answers": ["Muddy Waters", "Howlin' Wolf", "Robert Johnson"],
-        "content": "",
-        "content_type": "",
-        "category": ["Blues", "Music"],
-        "era": "1940s-2000s",
-        "challenge": 2
-    },
-    {
-        "id": 39,
-        "question": "Which R&B group is known for their harmonies and songs like 'My Girl'?",
-        "answer": "The Temptations",
-        "incorrect_answers": ["The Four Tops", "The Jackson 5", "The O'Jays"],
-        "content": "",
-        "content_type": "",
-        "category": ["R&B", "Motown"],
-        "era": "1960s-1970s",
-        "challenge": 2
-    },
-    {
-        "id": 40,
-        "question": "Which genre of electronic music is characterized by fast tempos, heavy basslines, and breakbeats?",
-        "answer": "Drum and Bass",
-        "incorrect_answers": ["Techno", "Trance", "Dubstep"],
-        "content": "",
-        "content_type": "",
-        "category": ["Electronic Music", "Drum and Bass"],
-        "era": "1990s-Present",
-        "challenge": 2
-    },
-    {
-        "id": 41,
-        "question": "Which pop artist is known for his elaborate stage shows and songs like 'Purple Rain'?",
-        "answer": "Prince",
-        "incorrect_answers": ["Michael Jackson", "David Bowie", "George Michael"],
-        "content": "",
-        "content_type": "",
-        "category": ["Pop", "Funk"],
-        "era": "1980s",
-        "challenge": 2
-    },
-    {
-        "id": 42,
-        "question": "Which hip hop collective, based in New York, featured artists like Mos Def and Talib Kweli?",
-        "answer": "Black Star",
-        "incorrect_answers": ["Native Tongues", "Ruff Ryders", "Wu-Tang Clan"],
-        "content": "",
-        "content_type": "",
-        "category": ["Hip Hop"],
-        "era": "1990s",
-        "challenge": 2
-    },
-    {
-        "id": 43,
-        "question": "What is the term for the simultaneous sounding of three or more notes?",
-        "answer": "Chord",
-        "incorrect_answers": ["Interval", "Scale", "Arpeggio"],
-        "content": "",
-        "content_type": "",
-        "category": ["Music Theory"],
-        "era": "Multiple",
-        "challenge": 1
-    },
-    {
-        "id": 44,
-        "question": "Which rock band is known for their use of synthesizers and songs like 'Baba O'Riley'?",
-        "answer": "The Who",
-        "incorrect_answers": ["The Rolling Stones", "The Kinks", "The Animals"],
-        "content": "",
-        "content_type": "",
-        "category": ["Rock"],
-        "era": "1960s-1970s",
-        "challenge": 2
-    },
-    {
-        "id": 45,
-        "question": "Which R&B singer is known for her powerful vocals and songs like 'I Will Always Love You'?",
-        "answer": "Whitney Houston",
-        "incorrect_answers": ["Mariah Carey", "Celine Dion", "Toni Braxton"],
-        "content": "",
-        "content_type": "",
-        "category": ["R&B", "Pop"],
-        "era": "1980s-1990s",
-        "challenge": 2
-    },
-    {
-        "id": 46,
-        "question": "Which subgenre of electronic music is characterized by its dark, atmospheric sound and use of sub-bass frequencies?",
-        "answer": "Dubstep",
-        "incorrect_answers": ["Techno", "Trance", "House"],
-        "content": "",
-        "content_type": "",
-        "category": ["Electronic Music", "Dubstep"],
-        "era": "2000s-Present",
-        "challenge": 2
-    },
-    {
-        "id": 47,
-        "question": "Which pop artist is known for her ever-changing image and songs like 'Poker Face'?",
-        "answer": "Lady Gaga",
-        "incorrect_answers": ["Katy Perry", "Rihanna", "Beyoncé"],
-        "content": "",
-        "content_type": "",
-        "category": ["Pop", "Dance"],
-        "era": "2000s-Present",
-        "challenge": 2
-    },
-    {
-        "id": 48,
-        "question": "Which hip hop duo from Atlanta is known for their unique style and songs like 'Ms. Jackson'?",
-        "answer": "OutKast",
-        "incorrect_answers": ["Goodie Mob", "UGK", "8Ball & MJG"],
-        "content": "",
-        "content_type": "",
-        "category": ["Hip Hop", "Southern Hip Hop"],
-        "era": "1990s-2000s",
-        "challenge": 2
-    },
-    {
-        "id": 49,
-        "question": "What is the term for a musical passage that brings a piece or a section to a close?",
-        "answer": "Cadence",
-        "incorrect_answers": ["Phrase", "Motif", "Sequence"],
-        "content": "",
-        "content_type": "",
-        "category": ["Music Theory"],
-        "era": "Multiple",
-        "challenge": 2
-    },
-    {
-        "id": 50,
-        "question": "Which rock band is known for their progressive rock epics and songs like 'Roundabout'?",
-        "answer": "Yes",
-        "incorrect_answers": ["Genesis", "Emerson, Lake & Palmer", "King Crimson"],
-        "content": "",
-        "content_type": "",
-        "category": ["Rock", "Progressive Rock"],
-        "era": "1970s",
-        "challenge": 2
-    },
-        {
-        "id": 51,
-        "question": "Which R&B/Pop singer had hits like 'Crazy in Love' and is married to Jay-Z?",
-        "answer": "Beyoncé",
-        "incorrect_answers": ["Rihanna", "Alicia Keys", "Ciara"],
-        "content": "",
-        "content_type": "",
-        "category": ["R&B", "Pop"],
-        "era": "2000s-Present",
-        "challenge": 1
-    },
-    {
-        "id": 52,
-        "question": "Which subgenre of electronic music is known for its fast tempo, repetitive synth melodies, and four-on-the-floor beat?",
-        "answer": "Techno",
-        "incorrect_answers": ["House", "Trance", "Dubstep"],
-        "content": "",
-        "content_type": "",
-        "category": ["Electronic Music", "Techno"],
-        "era": "1980s-Present",
-        "challenge": 2
-    },
-    {
-        "id": 53,
-        "question": "Which rock band is known for their heavy metal sound and songs like 'Iron Man'?",
-        "answer": "Black Sabbath",
-        "incorrect_answers": ["Led Zeppelin", "Deep Purple", "Judas Priest"],
-        "content": "",
-        "content_type": "",
-        "category": ["Rock", "Heavy Metal"],
-        "era": "1970s",
-        "challenge": 2
-    },
-    {
-        "id": 54,
-        "question": "Which R&B singer is known for his smooth vocals and songs like 'Sexual Healing'?",
-        "answer": "Marvin Gaye",
-        "incorrect_answers": ["Al Green", "Stevie Wonder", "Luther Vandross"],
-        "content": "",
-        "content_type": "",
-        "category": ["R&B", "Soul"],
-        "era": "1970s-1980s",
-        "challenge": 2
-    },
-    {
-        "id": 55,
-        "question": "Which hip-hop artist is known for his storytelling and songs like 'Stan'?",
-        "answer": "Eminem",
-        "incorrect_answers": ["Nas", "Jay-Z", "The Notorious B.I.G."],
-        "content": "",
-        "content_type": "",
-        "category": ["Hip Hop"],
-        "era": "2000s",
-        "challenge": 2
-    },
-    {
-        "id": 56,
-        "question": "What is the term for two or more melodies played simultaneously?",
-        "answer": "Polyphony",
-        "incorrect_answers": ["Homophony", "Monophony", "Heterophony"],
-        "content": "",
-        "content_type": "",
-        "category": ["Music Theory"],
-        "era": "Multiple",
-        "challenge": 3
-    },
-    {
-        "id": 57,
-        "question": "Which jazz pianist is known for his innovative harmonies and compositions like 'Take Five'?",
-        "answer": "Dave Brubeck",
-        "incorrect_answers": ["Thelonious Monk", "Count Basie", "Duke Ellington"],
-        "content": "",
-        "content_type": "",
-        "category": ["Jazz", "Piano"],
-        "era": "1950s-1960s",
-        "challenge": 2
-    },
-    {
-        "id": 58,
-        "question": "Which genre of electronic music is characterized by its use of synthesizers, sequencers, and drum machines, and often features futuristic themes?",
-        "answer": "Synthpop",
-        "incorrect_answers": ["House", "Techno", "Trance"],
-        "content": "",
-        "content_type": "",
-        "category": ["Electronic Music", "Synthpop"],
-        "era": "1980s",
-        "challenge": 2
-    },
-    {
-        "id": 59,
-        "question": "Which pop group, known for their elaborate costumes and makeup, had hits like 'Detroit Rock City'?",
-        "answer": "KISS",
-        "incorrect_answers": ["Aerosmith", "Alice Cooper", "Bon Jovi"],
-        "content": "",
-        "content_type": "",
-        "category": ["Rock", "Glam Rock"],
-        "era": "1970s",
-        "challenge": 2
-    },
-    {
-        "id": 60,
-        "question": "Which R&B group is known for their smooth harmonies and songs like 'End of the Road'?",
-        "answer": "Boyz II Men",
-        "incorrect_answers": ["Jodeci", "Dru Hill", "New Edition"],
-        "content": "",
-        "content_type": "",
-        "category": ["R&B"],
-        "era": "1990s",
-        "challenge": 2
-    },
-    {
-        "id": 61,
-        "question": "Which hip-hop artist is known for his conscious lyrics and albums like 'To Pimp a Butterfly'?",
-        "answer": "Kendrick Lamar",
-        "incorrect_answers": ["J. Cole", "Drake", "Kanye West"],
-        "content": "",
-        "content_type": "",
-        "category": ["Hip Hop"],
-        "era": "2010s-Present",
-        "challenge": 2
-    },
-    {
-        "id": 62,
-        "question": "What is the term for a musical composition for a solo instrument, often showcasing technical virtuosity?",
-        "answer": "Étude",
-        "incorrect_answers": ["Sonata", "Concerto", "Symphony"],
-        "content": "",
-        "content_type": "",
-        "category": ["Music Theory", "Classical Music"],
-        "era": "Multiple",
-        "challenge": 3
-    },
-    {
-        "id": 63,
-        "question": "Which jazz saxophonist is known for his hard bop style and albums like 'Saxophone Colossus'?",
-        "answer": "Sonny Rollins",
-        "incorrect_answers": ["John Coltrane", "Charlie Parker", "Stan Getz"],
-        "content": "",
-        "content_type": "",
-        "category": ["Jazz", "Hard Bop"],
-        "era": "1950s-1960s",
-        "challenge": 2
-    },
-    {
-        "id": 64,
-        "question": "Which genre of electronic music is characterized by its use of synthesizers, arpeggiated melodies, and a driving four-on-the-floor beat?",
-        "answer": "Trance",
-        "incorrect_answers": ["Techno", "House", "Drum and Bass"],
-        "content": "",
-        "content_type": "",
-        "category": ["Electronic Music", "Trance"],
-        "era": "1990s-Present",
-        "challenge": 2
-    },
-    {
-        "id": 65,
-        "question": "Which rock band is known for their psychedelic sound and albums like 'Sgt. Pepper's Lonely Hearts Club Band'?",
-        "answer": "The Beatles",
-        "incorrect_answers": ["The Rolling Stones", "The Who", "The Kinks"],
-        "content": "",
-        "content_type": "",
-        "category": ["Rock", "Psychedelic Rock"],
-        "era": "1960s",
-        "challenge": 2
-    },
-    {
-        "id": 66,
-        "question": "Which R&B singer is known for his smooth vocals and songs like 'Let's Stay Together'?",
-        "answer": "Al Green",
-        "incorrect_answers": ["Marvin Gaye", "Stevie Wonder", "Otis Redding"],
-        "content": "",
-        "content_type": "",
-        "category": ["R&B", "Soul"],
-        "era": "1970s",
-        "challenge": 2
-    },
-    {
-        "id": 67,
-        "question": "Which hip-hop group is known for their political lyrics and songs like '911 Is a Joke'?",
-        "answer": "Public Enemy",
-        "incorrect_answers": ["N.W.A", "Boogie Down Productions", "Dead Prez"],
-        "content": "",
-        "content_type": "",
-        "category": ["Hip Hop", "Conscious Hip Hop"],
-        "era": "1980s-1990s",
-        "challenge": 2
-    },
-    {
-        "id": 68,
-        "question": "What is the term for a musical composition written for a large orchestra?",
-        "answer": "Symphony",
-        "incorrect_answers": ["Concerto", "Sonata", "Overture"],
-        "content": "",
-        "content_type": "",
-        "category": ["Music Theory", "Classical Music"],
-        "era": "Multiple",
-        "challenge": 2
-    },
-    {
-        "id": 69,
-        "question": "Which jazz trumpeter is known for his virtuosic playing and high-register solos?",
-        "answer": "Dizzy Gillespie",
-        "incorrect_answers": ["Miles Davis", "Louis Armstrong", "Chet Baker"],
-        "content": "",
-        "content_type": "",
-        "category": ["Jazz", "Trumpet"],
-        "era": "1940s-1950s",
-        "challenge": 2
-    },
-    {
-        "id": 70,
-        "question": "Which genre of electronic music is characterized by its use of heavy distortion, aggressive sounds, and fast tempos?",
-        "answer": "Industrial",
-        "incorrect_answers": ["Techno", "House", "Ambient"],
-        "content": "",
-        "content_type": "",
-        "category": ["Electronic Music", "Industrial"],
-        "era": "1970s-Present",
-        "challenge": 3
-    },
-    {
-        "id": 71,
-        "question": "Which rock band is known for their theatrical stage presence and songs like 'School's Out'?",
-        "answer": "Alice Cooper",
-        "incorrect_answers": ["Kiss", "Mötley Crüe", "Twisted Sister"],
-        "content": "",
-        "content_type": "",
-        "category": ["Rock", "Shock Rock"],
-        "era": "1970s",
-        "challenge": 2
-    },
-    {
-        "id": 72,
-        "question": "Which R&B singer is known for her powerful voice and songs like 'Respect'?",
-        "answer": "Aretha Franklin",
-        "incorrect_answers": ["Gladys Knight", "Tina Turner", "Chaka Khan"],
-        "content": "",
-        "content_type": "",
-        "category": ["R&B", "Soul"],
-        "era": "1960s-1970s",
-        "challenge": 1
-    },
-    {
-        "id": 73,
-        "question": "Which hip-hop group is known for their innovative production and psychedelic sound?",
-        "answer": "De La Soul",
-        "incorrect_answers": ["A Tribe Called Quest", "The Pharcyde", "The Jungle Brothers"],
-        "content": "",
-        "content_type": "",
-        "category": ["Hip Hop", "Alternative Hip Hop"],
-        "era": "1980s-1990s",
-        "challenge": 2
-    },
-    {
-        "id": 74,
-        "question": "What is the term for a musical composition in which a theme is stated and then varied in different ways?",
-        "answer": "Theme and Variations",
-        "incorrect_answers": ["Rondo", "Sonata Form", "Fugue"],
-        "content": "",
-        "content_type": "",
-        "category": ["Music Theory", "Classical Music"],
-        "era": "Multiple",
-        "challenge": 3
-    },
-    {
-        "id": 75,
-        "question": "Which jazz guitarist is known for his smooth tone and bossa nova influence?",
-        "answer": "Stan Getz",
-        "incorrect_answers": ["Wes Montgomery", "Joe Pass", "Charlie Christian"],
-        "content": "",
-        "content_type": "",
-        "category": ["Jazz", "Bossa Nova"],
-        "era": "1950s-1960s",
-        "challenge": 2
-    },
-    {
-        "id": 76,
-        "question": "Which genre of electronic music is characterized by its use of complex rhythms, syncopation, and often features a dark and atmospheric sound?",
-        "answer": "IDM (Intelligent Dance Music)",
-        "incorrect_answers": ["House", "Techno", "Ambient"],
-        "content": "",
-        "content_type": "",
-        "category": ["Electronic Music", "IDM"],
-        "era": "1990s-Present",
-        "challenge": 3
-    },
-    {
-        "id": 77,
-        "question": "Which rock band is known for their hard rock sound and songs like 'Back in Black'?",
-        "answer": "AC/DC",
-        "incorrect_answers": ["Led Zeppelin", "Deep Purple", "Guns N' Roses"],
-        "content": "",
-        "content_type": "",
-        "category": ["Rock", "Hard Rock"],
-        "era": "1970s-Present",
-        "challenge": 2
-    },
-    {
-        "id": 78,
-        "question": "Which R&B singer is known for his innovative use of synthesizers and songs like 'Superstition'?",
-        "answer": "Stevie Wonder",
-        "incorrect_answers": ["Marvin Gaye", "Ray Charles", "Lionel Richie"],
-        "content": "",
-        "content_type": "",
-        "category": ["R&B", "Soul", "Funk"],
-        "era": "1970s-1980s",
-        "challenge": 2
-    },
-    {
-        "id": 79,
-        "question": "Which hip-hop artist is known for his complex rhyme schemes and intricate wordplay?",
-        "answer": "Rakim",
-        "incorrect_answers": ["Nas", "Big Daddy Kane", "Kool G Rap"],
-        "content": "",
-        "content_type": "",
-        "category": ["Hip Hop", "Golden Age Hip Hop"],
-        "era": "1980s-1990s",
-        "challenge": 3
-    },
-    {
-        "id": 80,
-        "question": "What is the term for a musical composition written for a solo instrument accompanied by an orchestra?",
-        "answer": "Concerto",
-        "incorrect_answers": ["Sonata", "Symphony", "Overture"],
-        "content": "",
-        "content_type": "",
-        "category": ["Music Theory", "Classical Music"],
-        "era": "Multiple",
-        "challenge": 2
-    },
-        {
-        "id": 81,
-        "question": "Which jazz musician was known for his clarinet playing and leading a big band?",
-        "answer": "Benny Goodman",
-        "incorrect_answers": ["Duke Ellington", "Count Basie", "Glenn Miller"],
-        "content": "",
-        "content_type": "",
-        "category": ["Jazz", "Big Band", "Swing"],
-        "era": "1930s-1940s",
-        "challenge": 2
-    },
-        {
-        "id": 82,
-        "question": "Which electronic music style often features fast tempos, distorted basslines, and aggressive vocals?",
-        "answer": "Hardcore Techno",
-        "incorrect_answers": ["Ambient", "Trance", "House"],
-        "content": "",
-        "content_type": "",
-        "category": ["Electronic Music", "Hardcore"],
-        "era": "1990s-Present",
-        "challenge": 3
-    },
-        {
-        "id": 83,
-        "question": "Which rock band is known for their use of elaborate stage makeup and costumes, and anthems like 'Rock and Roll All Nite'?",
-        "answer": "KISS",
-        "incorrect_answers": ["Aerosmith", "Alice Cooper", "Twisted Sister"],
-        "content": "",
-        "content_type": "",
-        "category": ["Rock", "Glam Rock", "Hard Rock"],
-        "era": "1970s",
-        "challenge": 2
-    },
-    {
-        "id": 84,
-        "question": "Which R&B group is known for their close harmonies and songs like 'Motownphilly'?",
-        "answer": "Boyz II Men",
-        "incorrect_answers": ["New Edition", "Jodeci", "Shai"],
-        "content": "",
-        "content_type": "",
-        "category": ["R&B", "New Jack Swing"],
-        "era": "1990s",
-        "challenge": 2
-    },
-    {
-        "id": 85,
-        "question": "Which hip-hop producer is known for his soulful samples and production for artists like Kanye West and Jay-Z?",
-        "answer": "Just Blaze",
-        "incorrect_answers": ["Dr. Dre", "Timbaland", "The Neptunes"],
-        "content": "",
-        "content_type": "",
-        "category": ["Hip Hop", "Production"],
-        "era": "2000s",
-        "challenge": 3
-    },
-    {
-        "id": 86,
-        "question": "What is the term for a musical work that is designed to be performed in a church service?",
-        "answer": "Cantata",
-        "incorrect_answers": ["Oratorio", "Mass", "Requiem"],
-        "content": "",
-        "content_type": "",
-        "category": ["Music Theory", "Classical Music"],
-        "era": "Multiple",
-        "challenge": 3
-    },
-    {
-        "id": 87,
-        "question": "Which jazz saxophonist is known for his cool jazz style and albums like 'Getz/Gilberto'?",
-        "answer": "Stan Getz",
-        "incorrect_answers": ["Lester Young", "Paul Desmond", "Gerry Mulligan"],
-        "content": "",
-        "content_type": "",
-        "category": ["Jazz", "Cool Jazz"],
-        "era": "1950s-1960s",
-        "challenge": 2
-    },
-    {
-        "id": 88,
-        "question": "Which electronic music genre is characterized by its use of breakbeats, heavy basslines, and Jamaican influences?",
-        "answer": "Jungle/Drum and Bass",
-        "incorrect_answers": ["Dubstep", "Grime", "UK Garage"],
-        "content": "",
-        "content_type": "",
-        "category": ["Electronic Music", "Jungle", "Drum and Bass"],
-        "era": "1990s",
-        "challenge": 2
-    },
-    {
-        "id": 89,
-        "question": "Which rock band is known for their blues-based rock and songs like 'Whole Lotta Love'?",
-        "answer": "Led Zeppelin",
-        "incorrect_answers": ["The Rolling Stones", "The Yardbirds", "Cream"],
-        "content": "",
-        "content_type": "",
-        "category": ["Rock", "Blues Rock", "Hard Rock"],
-        "era": "1960s-1970s",
-        "challenge": 2
-    },
-    {
-        "id": 90,
-        "question": "Which R&B singer is known for his smooth vocals and songs like 'Never Too Much'?",
-        "answer": "Luther Vandross",
-        "incorrect_answers": ["Teddy Pendergrass", "Peabo Bryson", "Jeffrey Osborne"],
-        "content": "",
-        "content_type": "",
-        "category": ["R&B"],
-        "era": "1980s-1990s",
-        "challenge": 2
-    },
-    {
-        "id": 91,
-        "question": "Which hip-hop group is known for their horrorcore style and often controversial lyrics?",
-        "answer": "Gravediggaz",
-        "incorrect_answers": ["Geto Boys", "Three 6 Mafia", "Brotha Lynch Hung"],
-        "content": "",
-        "content_type": "",
-        "category": ["Hip Hop", "Horrorcore"],
-        "era": "1990s",
-        "challenge": 3
-    },
-    {
-        "id": 92,
-        "question": "What is the term for a short, repeated musical phrase or pattern that forms the basis of a composition?",
-        "answer": "Ostinato",
-        "incorrect_answers": ["Motif", "Riff", "Sequence"],
-        "content": "",
-        "content_type": "",
-        "category": ["Music Theory"],
-        "era": "Multiple",
-        "challenge": 3
-    },
-    {
-        "id": 93,
-        "question": "Which jazz composer and bandleader is known for his innovative use of orchestration and compositions like 'Mood Indigo'?",
-        "answer": "Duke Ellington",
-        "incorrect_answers": ["Count Basie", "Glenn Miller", "Cab Calloway"],
-        "content": "",
-        "content_type": "",
-        "category": ["Jazz", "Big Band"],
-        "era": "1920s-1970s",
-        "challenge": 2
-    },
-    {
-        "id": 94,
-        "question": "Which electronic music genre is characterized by its use of ambient textures, atmospheric soundscapes, and often features a slow tempo?",
-        "answer": "Ambient",
-        "incorrect_answers": ["Techno", "House", "Trance"],
-        "content": "",
-        "content_type": "",
-        "category": ["Electronic Music", "Ambient"],
-        "era": "1970s-Present",
-        "challenge": 2
-    },
-    {
-        "id": 95,
-        "question": "Which rock band is known for their progressive rock concept albums and complex musical arrangements?",
-        "answer": "Genesis",
-        "incorrect_answers": ["Yes", "King Crimson", "Emerson, Lake & Palmer"],
-        "content": "",
-        "content_type": "",
-        "category": ["Rock", "Progressive Rock"],
-        "era": "1970s-1980s",
-        "challenge": 2
-    },
-    {
-        "id": 96,
-        "question": "Which R&B singer is known for his powerful vocals and songs like 'A Change Is Gonna Come'?",
-        "answer": "Sam Cooke",
-        "incorrect_answers": ["Otis Redding", "Jackie Wilson", "Ray Charles"],
-        "content": "",
-        "content_type": "",
-        "category": ["R&B", "Soul"],
-        "era": "1950s-1960s",
-        "challenge": 2
-    },
-    {
-        "id": 97,
-        "question": "Which hip-hop artist is known for his socially conscious lyrics and albums like 'The Miseducation of Lauryn Hill'?",
-        "answer": "Lauryn Hill",
-        "incorrect_answers": ["Queen Latifah", "Missy Elliott", "MC Lyte"],
-        "content": "",
-        "content_type": "",
-        "category": ["Hip Hop", "Conscious Hip Hop", "Female MCs"],
-        "era": "1990s",
-        "challenge": 2
-    },
-    {
-        "id": 98,
-        "question": "What is the term for the distance between two musical notes?",
-        "answer": "Interval",
-        "incorrect_answers": ["Chord", "Scale", "Rhythm"],
-        "content": "",
-        "content_type": "",
-        "category": ["Music Theory"],
-        "era": "Multiple",
-        "challenge": 1
-    },
-    {
-        "id": 99,
-        "question": "Which jazz trumpeter and vocalist is known for his distinctive gravelly voice and songs like 'What a Wonderful World'?",
-        "answer": "Louis Armstrong",
-        "incorrect_answers": ["Dizzy Gillespie", "Miles Davis", "Chet Baker"],
-        "content": "",
-        "content_type": "",
-        "category": ["Jazz", "Trumpet", "Vocal Jazz"],
-        "era": "1920s-1960s",
-        "challenge": 2
-    },
-    {
-        "id": 100,
-        "question": "Which electronic music genre is characterized by its use of four-on-the-floor beats, synthesizers, and often features a prominent melody or vocal hook?",
-        "answer": "House Music",
-        "incorrect_answers": ["Techno", "Trance", "Dubstep"],
-        "content": "",
-        "content_type": "",
-        "category": ["Electronic Music", "House"],
-        "era": "1980s-Present",
-        "challenge": 1
-    }
+  },
+  {
+    "id": 19,
+    "question": "Which band released the album 'Nevermind' in 1991, ushering in the grunge era?",
+    "answer": "Nirvana",
+    "incorrect_answers": [
+      "Pearl Jam",
+      "Soundgarden",
+      "Alice in Chains"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Rock",
+      "Grunge"
+    ],
+    "era": "1990s",
+    "challenge": 2
+  },
+  {
+    "id": 20,
+    "question": "What is the name of the rhythmic pattern that emphasizes the off-beats in reggae music?",
+    "answer": "Syncopation",
+    "incorrect_answers": [
+      "Swing",
+      "Backbeat",
+      "Polyrhythm"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Reggae",
+      "Music Theory"
+    ],
+    "era": "Multiple",
+    "challenge": 2
+  },
+  {
+    "id": 21,
+    "question": "Which British rock band is known for their concept albums like 'The Dark Side of the Moon'?",
+    "answer": "Pink Floyd",
+    "incorrect_answers": [
+      "The Rolling Stones",
+      "The Who",
+      "The Kinks"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Rock",
+      "Progressive Rock"
+    ],
+    "era": "1970s",
+    "challenge": 2
+  },
+  {
+    "id": 22,
+    "question": "Which female artist is known as the 'Queen of Soul'?",
+    "answer": "Aretha Franklin",
+    "incorrect_answers": [
+      "Gladys Knight",
+      "Tina Turner",
+      "Diana Ross"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Soul",
+      "Music"
+    ],
+    "era": "1960s-1970s",
+    "challenge": 1
+  },
+  {
+    "id": 23,
+    "question": "Which rapper is known for his alter ego Slim Shady?",
+    "answer": "Eminem",
+    "incorrect_answers": [
+      "Jay-Z",
+      "Dr. Dre",
+      "Snoop Dogg"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Hip Hop",
+      "Music"
+    ],
+    "era": "2000s",
+    "challenge": 1
+  },
+  {
+    "id": 24,
+    "question": "What is the name of the musical form that features a repeating bass line?",
+    "answer": "Ground Bass",
+    "incorrect_answers": [
+      "Rondo",
+      "Sonata",
+      "Fugue"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Music Theory"
+    ],
+    "era": "Multiple",
+    "challenge": 3
+  },
+  {
+    "id": 25,
+    "question": "Which jazz trumpeter was known for his innovative style and albums like 'Kind of Blue'?",
+    "answer": "Miles Davis",
+    "incorrect_answers": [
+      "Louis Armstrong",
+      "Dizzy Gillespie",
+      "Chet Baker"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Jazz",
+      "Music"
+    ],
+    "era": "1950s-1970s",
+    "challenge": 2
+  },
+  {
+    "id": 26,
+    "question": "Which electronic music duo is known for wearing robot helmets?",
+    "answer": "Daft Punk",
+    "incorrect_answers": [
+      "The Chemical Brothers",
+      "Underworld",
+      "Orbital"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Electronic Music",
+      "House",
+      "Dance"
+    ],
+    "era": "1990s-2010s",
+    "challenge": 2
+  },
+  {
+    "id": 27,
+    "question": "Which pop star had hits such as 'Like a Virgin' and 'Material Girl'?",
+    "answer": "Madonna",
+    "incorrect_answers": [
+      "Cyndi Lauper",
+      "Whitney Houston",
+      "Janet Jackson"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Pop",
+      "Music"
+    ],
+    "era": "1980s",
+    "challenge": 1
+  },
+  {
+    "id": 28,
+    "question": "Which hip-hop group is known for their socially conscious lyrics and songs like 'Fight the Power'?",
+    "answer": "Public Enemy",
+    "incorrect_answers": [
+      "N.W.A",
+      "Run-DMC",
+      "A Tribe Called Quest"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Hip Hop",
+      "Music"
+    ],
+    "era": "1980s-1990s",
+    "challenge": 2
+  },
+  {
+    "id": 29,
+    "question": "What is the term for a short melodic phrase that is repeated throughout a musical piece?",
+    "answer": "Motif",
+    "incorrect_answers": [
+      "Theme",
+      "Phrase",
+      "Cadence"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Music Theory"
+    ],
+    "era": "Multiple",
+    "challenge": 2
+  },
+  {
+    "id": 30,
+    "question": "Which rock guitarist is known for his blues-influenced playing and songs like 'Voodoo Child'?",
+    "answer": "Jimi Hendrix",
+    "incorrect_answers": [
+      "Eric Clapton",
+      "Jimmy Page",
+      "Jeff Beck"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Rock",
+      "Blues Rock"
+    ],
+    "era": "1960s",
+    "challenge": 2
+  },
+  {
+    "id": 31,
+    "question": "Which R&B artist is known for his falsetto vocals and songs like 'Let's Get It On'?",
+    "answer": "Marvin Gaye",
+    "incorrect_answers": [
+      "Stevie Wonder",
+      "Al Green",
+      "Smokey Robinson"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "R&B",
+      "Soul"
+    ],
+    "era": "1960s-1970s",
+    "challenge": 2
+  },
+  {
+    "id": 32,
+    "question": "What is the name of the musical texture consisting of a melody with chordal accompaniment?",
+    "answer": "Homophony",
+    "incorrect_answers": [
+      "Polyphony",
+      "Monophony",
+      "Heterophony"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Music Theory"
+    ],
+    "era": "Multiple",
+    "challenge": 3
+  },
+  {
+    "id": 33,
+    "question": "Which influential jazz saxophonist is known for his bebop style?",
+    "answer": "Charlie Parker",
+    "incorrect_answers": [
+      "John Coltrane",
+      "Sonny Rollins",
+      "Cannonball Adderley"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Jazz",
+      "Bebop"
+    ],
+    "era": "1940s-1950s",
+    "challenge": 2
+  },
+  {
+    "id": 34,
+    "question": "Which city is considered the birthplace of house music?",
+    "answer": "Chicago",
+    "incorrect_answers": [
+      "Detroit",
+      "New York",
+      "London"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "House",
+      "Electronic Music"
+    ],
+    "era": "1980s",
+    "challenge": 1
+  },
+  {
+    "id": 35,
+    "question": "Which pop artist is known for his flamboyant costumes and songs like 'Rocket Man'?",
+    "answer": "Elton John",
+    "incorrect_answers": [
+      "David Bowie",
+      "Freddie Mercury",
+      "Billy Joel"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Pop",
+      "Rock"
+    ],
+    "era": "1970s",
+    "challenge": 2
+  },
+  {
+    "id": 36,
+    "question": "Which hip hop group is known for their Native Tongues Posse affiliation and jazz-influenced sound?",
+    "answer": "A Tribe Called Quest",
+    "incorrect_answers": [
+      "De La Soul",
+      "Jungle Brothers",
+      "The Pharcyde"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Hip Hop",
+      "Jazz Rap"
+    ],
+    "era": "1990s",
+    "challenge": 2
+  },
+  {
+    "id": 37,
+    "question": "What is the term for a musical device where a melody is played backwards?",
+    "answer": "Retrograde",
+    "incorrect_answers": [
+      "Inversion",
+      "Augmentation",
+      "Diminution"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Music Theory"
+    ],
+    "era": "Multiple",
+    "challenge": 3
+  },
+  {
+    "id": 38,
+    "question": "Which blues musician is known as the 'King of the Blues'?",
+    "answer": "B.B. King",
+    "incorrect_answers": [
+      "Muddy Waters",
+      "Howlin' Wolf",
+      "Robert Johnson"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Blues",
+      "Music"
+    ],
+    "era": "1940s-2000s",
+    "challenge": 2
+  },
+  {
+    "id": 39,
+    "question": "Which R&B group is known for their harmonies and songs like 'My Girl'?",
+    "answer": "The Temptations",
+    "incorrect_answers": [
+      "The Four Tops",
+      "The Jackson 5",
+      "The O'Jays"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "R&B",
+      "Motown"
+    ],
+    "era": "1960s-1970s",
+    "challenge": 2
+  },
+  {
+    "id": 40,
+    "question": "Which genre of electronic music is characterized by fast tempos, heavy basslines, and breakbeats?",
+    "answer": "Drum and Bass",
+    "incorrect_answers": [
+      "Techno",
+      "Trance",
+      "Dubstep"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Electronic Music",
+      "Drum and Bass"
+    ],
+    "era": "1990s-Present",
+    "challenge": 2
+  },
+  {
+    "id": 41,
+    "question": "Which pop artist is known for his elaborate stage shows and songs like 'Purple Rain'?",
+    "answer": "Prince",
+    "incorrect_answers": [
+      "Michael Jackson",
+      "David Bowie",
+      "George Michael"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Pop",
+      "Funk"
+    ],
+    "era": "1980s",
+    "challenge": 2
+  },
+  {
+    "id": 42,
+    "question": "Which hip hop collective, based in New York, featured artists like Mos Def and Talib Kweli?",
+    "answer": "Black Star",
+    "incorrect_answers": [
+      "Native Tongues",
+      "Ruff Ryders",
+      "Wu-Tang Clan"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Hip Hop"
+    ],
+    "era": "1990s",
+    "challenge": 2
+  },
+  {
+    "id": 43,
+    "question": "What is the term for the simultaneous sounding of three or more notes?",
+    "answer": "Chord",
+    "incorrect_answers": [
+      "Interval",
+      "Scale",
+      "Arpeggio"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Music Theory"
+    ],
+    "era": "Multiple",
+    "challenge": 1
+  },
+  {
+    "id": 44,
+    "question": "Which rock band is known for their use of synthesizers and songs like 'Baba O'Riley'?",
+    "answer": "The Who",
+    "incorrect_answers": [
+      "The Rolling Stones",
+      "The Kinks",
+      "The Animals"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Rock"
+    ],
+    "era": "1960s-1970s",
+    "challenge": 2
+  },
+  {
+    "id": 45,
+    "question": "Which R&B singer is known for her powerful vocals and songs like 'I Will Always Love You'?",
+    "answer": "Whitney Houston",
+    "incorrect_answers": [
+      "Mariah Carey",
+      "Celine Dion",
+      "Toni Braxton"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "R&B",
+      "Pop"
+    ],
+    "era": "1980s-1990s",
+    "challenge": 2
+  },
+  {
+    "id": 46,
+    "question": "Which subgenre of electronic music is characterized by its dark, atmospheric sound and use of sub-bass frequencies?",
+    "answer": "Dubstep",
+    "incorrect_answers": [
+      "Techno",
+      "Trance",
+      "House"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Electronic Music",
+      "Dubstep"
+    ],
+    "era": "2000s-Present",
+    "challenge": 2
+  },
+  {
+    "id": 47,
+    "question": "Which pop artist is known for her ever-changing image and songs like 'Poker Face'?",
+    "answer": "Lady Gaga",
+    "incorrect_answers": [
+      "Katy Perry",
+      "Rihanna",
+      "Beyoncé"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Pop",
+      "Dance"
+    ],
+    "era": "2000s-Present",
+    "challenge": 2
+  },
+  {
+    "id": 48,
+    "question": "Which hip hop duo from Atlanta is known for their unique style and songs like 'Ms. Jackson'?",
+    "answer": "OutKast",
+    "incorrect_answers": [
+      "Goodie Mob",
+      "UGK",
+      "8Ball & MJG"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Hip Hop",
+      "Southern Hip Hop"
+    ],
+    "era": "1990s-2000s",
+    "challenge": 2
+  },
+  {
+    "id": 49,
+    "question": "What is the term for a musical passage that brings a piece or a section to a close?",
+    "answer": "Cadence",
+    "incorrect_answers": [
+      "Phrase",
+      "Motif",
+      "Sequence"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Music Theory"
+    ],
+    "era": "Multiple",
+    "challenge": 2
+  },
+  {
+    "id": 50,
+    "question": "Which rock band is known for their progressive rock epics and songs like 'Roundabout'?",
+    "answer": "Yes",
+    "incorrect_answers": [
+      "Genesis",
+      "Emerson, Lake & Palmer",
+      "King Crimson"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Rock",
+      "Progressive Rock"
+    ],
+    "era": "1970s",
+    "challenge": 2
+  },
+  {
+    "id": 51,
+    "question": "Which R&B/Pop singer had hits like 'Crazy in Love' and is married to Jay-Z?",
+    "answer": "Beyoncé",
+    "incorrect_answers": [
+      "Rihanna",
+      "Alicia Keys",
+      "Ciara"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "R&B",
+      "Pop"
+    ],
+    "era": "2000s-Present",
+    "challenge": 1
+  },
+  {
+    "id": 52,
+    "question": "Which subgenre of electronic music is known for its fast tempo, repetitive synth melodies, and four-on-the-floor beat?",
+    "answer": "Techno",
+    "incorrect_answers": [
+      "House",
+      "Trance",
+      "Dubstep"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Electronic Music",
+      "Techno"
+    ],
+    "era": "1980s-Present",
+    "challenge": 2
+  },
+  {
+    "id": 53,
+    "question": "Which rock band is known for their heavy metal sound and songs like 'Iron Man'?",
+    "answer": "Black Sabbath",
+    "incorrect_answers": [
+      "Led Zeppelin",
+      "Deep Purple",
+      "Judas Priest"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Rock",
+      "Heavy Metal"
+    ],
+    "era": "1970s",
+    "challenge": 2
+  },
+  {
+    "id": 54,
+    "question": "Which R&B singer is known for his smooth vocals and songs like 'Sexual Healing'?",
+    "answer": "Marvin Gaye",
+    "incorrect_answers": [
+      "Al Green",
+      "Stevie Wonder",
+      "Luther Vandross"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "R&B",
+      "Soul"
+    ],
+    "era": "1970s-1980s",
+    "challenge": 2
+  },
+  {
+    "id": 55,
+    "question": "Which hip-hop artist is known for his storytelling and songs like 'Stan'?",
+    "answer": "Eminem",
+    "incorrect_answers": [
+      "Nas",
+      "Jay-Z",
+      "The Notorious B.I.G."
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Hip Hop"
+    ],
+    "era": "2000s",
+    "challenge": 2
+  },
+  {
+    "id": 56,
+    "question": "What is the term for two or more melodies played simultaneously?",
+    "answer": "Polyphony",
+    "incorrect_answers": [
+      "Homophony",
+      "Monophony",
+      "Heterophony"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Music Theory"
+    ],
+    "era": "Multiple",
+    "challenge": 3
+  },
+  {
+    "id": 57,
+    "question": "Which jazz pianist is known for his innovative harmonies and compositions like 'Take Five'?",
+    "answer": "Dave Brubeck",
+    "incorrect_answers": [
+      "Thelonious Monk",
+      "Count Basie",
+      "Duke Ellington"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Jazz",
+      "Piano"
+    ],
+    "era": "1950s-1960s",
+    "challenge": 2
+  },
+  {
+    "id": 58,
+    "question": "Which genre of electronic music is characterized by its use of synthesizers, sequencers, and drum machines, and often features futuristic themes?",
+    "answer": "Synthpop",
+    "incorrect_answers": [
+      "House",
+      "Techno",
+      "Trance"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Electronic Music",
+      "Synthpop"
+    ],
+    "era": "1980s",
+    "challenge": 2
+  },
+  {
+    "id": 59,
+    "question": "Which pop group, known for their elaborate costumes and makeup, had hits like 'Detroit Rock City'?",
+    "answer": "KISS",
+    "incorrect_answers": [
+      "Aerosmith",
+      "Alice Cooper",
+      "Bon Jovi"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Rock",
+      "Glam Rock"
+    ],
+    "era": "1970s",
+    "challenge": 2
+  },
+  {
+    "id": 60,
+    "question": "Which R&B group is known for their smooth harmonies and songs like 'End of the Road'?",
+    "answer": "Boyz II Men",
+    "incorrect_answers": [
+      "Jodeci",
+      "Dru Hill",
+      "New Edition"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "R&B"
+    ],
+    "era": "1990s",
+    "challenge": 2
+  },
+  {
+    "id": 61,
+    "question": "Which hip-hop artist is known for his conscious lyrics and albums like 'To Pimp a Butterfly'?",
+    "answer": "Kendrick Lamar",
+    "incorrect_answers": [
+      "J. Cole",
+      "Drake",
+      "Kanye West"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Hip Hop"
+    ],
+    "era": "2010s-Present",
+    "challenge": 2
+  },
+  {
+    "id": 62,
+    "question": "What is the term for a musical composition for a solo instrument, often showcasing technical virtuosity?",
+    "answer": "Étude",
+    "incorrect_answers": [
+      "Sonata",
+      "Concerto",
+      "Symphony"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Music Theory",
+      "Classical Music"
+    ],
+    "era": "Multiple",
+    "challenge": 3
+  },
+  {
+    "id": 63,
+    "question": "Which jazz saxophonist is known for his hard bop style and albums like 'Saxophone Colossus'?",
+    "answer": "Sonny Rollins",
+    "incorrect_answers": [
+      "John Coltrane",
+      "Charlie Parker",
+      "Stan Getz"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Jazz",
+      "Hard Bop"
+    ],
+    "era": "1950s-1960s",
+    "challenge": 2
+  },
+  {
+    "id": 64,
+    "question": "Which genre of electronic music is characterized by its use of synthesizers, arpeggiated melodies, and a driving four-on-the-floor beat?",
+    "answer": "Trance",
+    "incorrect_answers": [
+      "Techno",
+      "House",
+      "Drum and Bass"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Electronic Music",
+      "Trance"
+    ],
+    "era": "1990s-Present",
+    "challenge": 2
+  },
+  {
+    "id": 65,
+    "question": "Which rock band is known for their psychedelic sound and albums like 'Sgt. Pepper's Lonely Hearts Club Band'?",
+    "answer": "The Beatles",
+    "incorrect_answers": [
+      "The Rolling Stones",
+      "The Who",
+      "The Kinks"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Rock",
+      "Psychedelic Rock"
+    ],
+    "era": "1960s",
+    "challenge": 2
+  },
+  {
+    "id": 66,
+    "question": "Which R&B singer is known for his smooth vocals and songs like 'Let's Stay Together'?",
+    "answer": "Al Green",
+    "incorrect_answers": [
+      "Marvin Gaye",
+      "Stevie Wonder",
+      "Otis Redding"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "R&B",
+      "Soul"
+    ],
+    "era": "1970s",
+    "challenge": 2
+  },
+  {
+    "id": 67,
+    "question": "Which hip-hop group is known for their political lyrics and songs like '911 Is a Joke'?",
+    "answer": "Public Enemy",
+    "incorrect_answers": [
+      "N.W.A",
+      "Boogie Down Productions",
+      "Dead Prez"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Hip Hop",
+      "Conscious Hip Hop"
+    ],
+    "era": "1980s-1990s",
+    "challenge": 2
+  },
+  {
+    "id": 68,
+    "question": "What is the term for a musical composition written for a large orchestra?",
+    "answer": "Symphony",
+    "incorrect_answers": [
+      "Concerto",
+      "Sonata",
+      "Overture"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Music Theory",
+      "Classical Music"
+    ],
+    "era": "Multiple",
+    "challenge": 2
+  },
+  {
+    "id": 69,
+    "question": "Which jazz trumpeter is known for his virtuosic playing and high-register solos?",
+    "answer": "Dizzy Gillespie",
+    "incorrect_answers": [
+      "Miles Davis",
+      "Louis Armstrong",
+      "Chet Baker"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Jazz",
+      "Trumpet"
+    ],
+    "era": "1940s-1950s",
+    "challenge": 2
+  },
+  {
+    "id": 70,
+    "question": "Which genre of electronic music is characterized by its use of heavy distortion, aggressive sounds, and fast tempos?",
+    "answer": "Industrial",
+    "incorrect_answers": [
+      "Techno",
+      "House",
+      "Ambient"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Electronic Music",
+      "Industrial"
+    ],
+    "era": "1970s-Present",
+    "challenge": 3
+  },
+  {
+    "id": 71,
+    "question": "Which rock band is known for their theatrical stage presence and songs like 'School's Out'?",
+    "answer": "Alice Cooper",
+    "incorrect_answers": [
+      "Kiss",
+      "Mötley Crüe",
+      "Twisted Sister"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Rock",
+      "Shock Rock"
+    ],
+    "era": "1970s",
+    "challenge": 2
+  },
+  {
+    "id": 72,
+    "question": "Which R&B singer is known for her powerful voice and songs like 'Respect'?",
+    "answer": "Aretha Franklin",
+    "incorrect_answers": [
+      "Gladys Knight",
+      "Tina Turner",
+      "Chaka Khan"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "R&B",
+      "Soul"
+    ],
+    "era": "1960s-1970s",
+    "challenge": 1
+  },
+  {
+    "id": 73,
+    "question": "Which hip-hop group is known for their innovative production and psychedelic sound?",
+    "answer": "De La Soul",
+    "incorrect_answers": [
+      "A Tribe Called Quest",
+      "The Pharcyde",
+      "The Jungle Brothers"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Hip Hop",
+      "Alternative Hip Hop"
+    ],
+    "era": "1980s-1990s",
+    "challenge": 2
+  },
+  {
+    "id": 74,
+    "question": "What is the term for a musical composition in which a theme is stated and then varied in different ways?",
+    "answer": "Theme and Variations",
+    "incorrect_answers": [
+      "Rondo",
+      "Sonata Form",
+      "Fugue"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Music Theory",
+      "Classical Music"
+    ],
+    "era": "Multiple",
+    "challenge": 3
+  },
+  {
+    "id": 75,
+    "question": "Which jazz guitarist is known for his smooth tone and bossa nova influence?",
+    "answer": "Stan Getz",
+    "incorrect_answers": [
+      "Wes Montgomery",
+      "Joe Pass",
+      "Charlie Christian"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Jazz",
+      "Bossa Nova"
+    ],
+    "era": "1950s-1960s",
+    "challenge": 2
+  },
+  {
+    "id": 76,
+    "question": "Which genre of electronic music is characterized by its use of complex rhythms, syncopation, and often features a dark and atmospheric sound?",
+    "answer": "IDM (Intelligent Dance Music)",
+    "incorrect_answers": [
+      "House",
+      "Techno",
+      "Ambient"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Electronic Music",
+      "IDM"
+    ],
+    "era": "1990s-Present",
+    "challenge": 3
+  },
+  {
+    "id": 77,
+    "question": "Which rock band is known for their hard rock sound and songs like 'Back in Black'?",
+    "answer": "AC/DC",
+    "incorrect_answers": [
+      "Led Zeppelin",
+      "Deep Purple",
+      "Guns N' Roses"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Rock",
+      "Hard Rock"
+    ],
+    "era": "1970s-Present",
+    "challenge": 2
+  },
+  {
+    "id": 78,
+    "question": "Which R&B singer is known for his innovative use of synthesizers and songs like 'Superstition'?",
+    "answer": "Stevie Wonder",
+    "incorrect_answers": [
+      "Marvin Gaye",
+      "Ray Charles",
+      "Lionel Richie"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "R&B",
+      "Soul",
+      "Funk"
+    ],
+    "era": "1970s-1980s",
+    "challenge": 2
+  },
+  {
+    "id": 79,
+    "question": "Which hip-hop artist is known for his complex rhyme schemes and intricate wordplay?",
+    "answer": "Rakim",
+    "incorrect_answers": [
+      "Nas",
+      "Big Daddy Kane",
+      "Kool G Rap"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Hip Hop",
+      "Golden Age Hip Hop"
+    ],
+    "era": "1980s-1990s",
+    "challenge": 3
+  },
+  {
+    "id": 80,
+    "question": "What is the term for a musical composition written for a solo instrument accompanied by an orchestra?",
+    "answer": "Concerto",
+    "incorrect_answers": [
+      "Sonata",
+      "Symphony",
+      "Overture"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Music Theory",
+      "Classical Music"
+    ],
+    "era": "Multiple",
+    "challenge": 2
+  },
+  {
+    "id": 81,
+    "question": "Which jazz musician was known for his clarinet playing and leading a big band?",
+    "answer": "Benny Goodman",
+    "incorrect_answers": [
+      "Duke Ellington",
+      "Count Basie",
+      "Glenn Miller"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Jazz",
+      "Big Band",
+      "Swing"
+    ],
+    "era": "1930s-1940s",
+    "challenge": 2
+  },
+  {
+    "id": 82,
+    "question": "Which electronic music style often features fast tempos, distorted basslines, and aggressive vocals?",
+    "answer": "Hardcore Techno",
+    "incorrect_answers": [
+      "Ambient",
+      "Trance",
+      "House"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Electronic Music",
+      "Hardcore"
+    ],
+    "era": "1990s-Present",
+    "challenge": 3
+  },
+  {
+    "id": 83,
+    "question": "Which rock band is known for their use of elaborate stage makeup and costumes, and anthems like 'Rock and Roll All Nite'?",
+    "answer": "KISS",
+    "incorrect_answers": [
+      "Aerosmith",
+      "Alice Cooper",
+      "Twisted Sister"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Rock",
+      "Glam Rock",
+      "Hard Rock"
+    ],
+    "era": "1970s",
+    "challenge": 2
+  },
+  {
+    "id": 84,
+    "question": "Which R&B group is known for their close harmonies and songs like 'Motownphilly'?",
+    "answer": "Boyz II Men",
+    "incorrect_answers": [
+      "New Edition",
+      "Jodeci",
+      "Shai"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "R&B",
+      "New Jack Swing"
+    ],
+    "era": "1990s",
+    "challenge": 2
+  },
+  {
+    "id": 85,
+    "question": "Which hip-hop producer is known for his soulful samples and production for artists like Kanye West and Jay-Z?",
+    "answer": "Just Blaze",
+    "incorrect_answers": [
+      "Dr. Dre",
+      "Timbaland",
+      "The Neptunes"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Hip Hop",
+      "Production"
+    ],
+    "era": "2000s",
+    "challenge": 3
+  },
+  {
+    "id": 86,
+    "question": "What is the term for a musical work that is designed to be performed in a church service?",
+    "answer": "Cantata",
+    "incorrect_answers": [
+      "Oratorio",
+      "Mass",
+      "Requiem"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Music Theory",
+      "Classical Music"
+    ],
+    "era": "Multiple",
+    "challenge": 3
+  },
+  {
+    "id": 87,
+    "question": "Which jazz saxophonist is known for his cool jazz style and albums like 'Getz/Gilberto'?",
+    "answer": "Stan Getz",
+    "incorrect_answers": [
+      "Lester Young",
+      "Paul Desmond",
+      "Gerry Mulligan"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Jazz",
+      "Cool Jazz"
+    ],
+    "era": "1950s-1960s",
+    "challenge": 2
+  },
+  {
+    "id": 88,
+    "question": "Which electronic music genre is characterized by its use of breakbeats, heavy basslines, and Jamaican influences?",
+    "answer": "Jungle/Drum and Bass",
+    "incorrect_answers": [
+      "Dubstep",
+      "Grime",
+      "UK Garage"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Electronic Music",
+      "Jungle",
+      "Drum and Bass"
+    ],
+    "era": "1990s",
+    "challenge": 2
+  },
+  {
+    "id": 89,
+    "question": "Which rock band is known for their blues-based rock and songs like 'Whole Lotta Love'?",
+    "answer": "Led Zeppelin",
+    "incorrect_answers": [
+      "The Rolling Stones",
+      "The Yardbirds",
+      "Cream"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Rock",
+      "Blues Rock",
+      "Hard Rock"
+    ],
+    "era": "1960s-1970s",
+    "challenge": 2
+  },
+  {
+    "id": 90,
+    "question": "Which R&B singer is known for his smooth vocals and songs like 'Never Too Much'?",
+    "answer": "Luther Vandross",
+    "incorrect_answers": [
+      "Teddy Pendergrass",
+      "Peabo Bryson",
+      "Jeffrey Osborne"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "R&B"
+    ],
+    "era": "1980s-1990s",
+    "challenge": 2
+  },
+  {
+    "id": 91,
+    "question": "Which hip-hop group is known for their horrorcore style and often controversial lyrics?",
+    "answer": "Gravediggaz",
+    "incorrect_answers": [
+      "Geto Boys",
+      "Three 6 Mafia",
+      "Brotha Lynch Hung"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Hip Hop",
+      "Horrorcore"
+    ],
+    "era": "1990s",
+    "challenge": 3
+  },
+  {
+    "id": 92,
+    "question": "What is the term for a short, repeated musical phrase or pattern that forms the basis of a composition?",
+    "answer": "Ostinato",
+    "incorrect_answers": [
+      "Motif",
+      "Riff",
+      "Sequence"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Music Theory"
+    ],
+    "era": "Multiple",
+    "challenge": 3
+  },
+  {
+    "id": 93,
+    "question": "Which jazz composer and bandleader is known for his innovative use of orchestration and compositions like 'Mood Indigo'?",
+    "answer": "Duke Ellington",
+    "incorrect_answers": [
+      "Count Basie",
+      "Glenn Miller",
+      "Cab Calloway"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Jazz",
+      "Big Band"
+    ],
+    "era": "1920s-1970s",
+    "challenge": 2
+  },
+  {
+    "id": 94,
+    "question": "Which electronic music genre is characterized by its use of ambient textures, atmospheric soundscapes, and often features a slow tempo?",
+    "answer": "Ambient",
+    "incorrect_answers": [
+      "Techno",
+      "House",
+      "Trance"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Electronic Music",
+      "Ambient"
+    ],
+    "era": "1970s-Present",
+    "challenge": 2
+  },
+  {
+    "id": 95,
+    "question": "Which rock band is known for their progressive rock concept albums and complex musical arrangements?",
+    "answer": "Genesis",
+    "incorrect_answers": [
+      "Yes",
+      "King Crimson",
+      "Emerson, Lake & Palmer"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Rock",
+      "Progressive Rock"
+    ],
+    "era": "1970s-1980s",
+    "challenge": 2
+  },
+  {
+    "id": 96,
+    "question": "Which R&B singer is known for his powerful vocals and songs like 'A Change Is Gonna Come'?",
+    "answer": "Sam Cooke",
+    "incorrect_answers": [
+      "Otis Redding",
+      "Jackie Wilson",
+      "Ray Charles"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "R&B",
+      "Soul"
+    ],
+    "era": "1950s-1960s",
+    "challenge": 2
+  },
+  {
+    "id": 97,
+    "question": "Which hip-hop artist is known for his socially conscious lyrics and albums like 'The Miseducation of Lauryn Hill'?",
+    "answer": "Lauryn Hill",
+    "incorrect_answers": [
+      "Queen Latifah",
+      "Missy Elliott",
+      "MC Lyte"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Hip Hop",
+      "Conscious Hip Hop",
+      "Female MCs"
+    ],
+    "era": "1990s",
+    "challenge": 2
+  },
+  {
+    "id": 98,
+    "question": "What is the term for the distance between two musical notes?",
+    "answer": "Interval",
+    "incorrect_answers": [
+      "Chord",
+      "Scale",
+      "Rhythm"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Music Theory"
+    ],
+    "era": "Multiple",
+    "challenge": 1
+  },
+  {
+    "id": 99,
+    "question": "Which jazz trumpeter and vocalist is known for his distinctive gravelly voice and songs like 'What a Wonderful World'?",
+    "answer": "Louis Armstrong",
+    "incorrect_answers": [
+      "Dizzy Gillespie",
+      "Miles Davis",
+      "Chet Baker"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Jazz",
+      "Trumpet",
+      "Vocal Jazz"
+    ],
+    "era": "1920s-1960s",
+    "challenge": 2
+  },
+  {
+    "id": 100,
+    "question": "Which electronic music genre is characterized by its use of four-on-the-floor beats, synthesizers, and often features a prominent melody or vocal hook?",
+    "answer": "House Music",
+    "incorrect_answers": [
+      "Techno",
+      "Trance",
+      "Dubstep"
+    ],
+    "content": "",
+    "content_type": "",
+    "category": [
+      "Electronic Music",
+      "House"
+    ],
+    "era": "1980s-Present",
+    "challenge": 1
+  }
 ]

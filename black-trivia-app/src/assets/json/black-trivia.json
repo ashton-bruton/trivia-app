@@ -1865,7 +1865,7 @@
   },
   {
     "id": 110,
-    "question": "What was DJ Kool Herc's sound system, know for its massive volume, called?",
+    "question": "What was DJ Kool Herc's sound system, known for its massive volume, called?",
     "answer": "The Herculords",
     "incorrect_answers": [
       "Technics 1200",
@@ -1906,9 +1906,9 @@
     "question": "[Finish the Line] - Idolatar! Your soul is required...",
     "answer": "...in hell",
     "incorrect_answers": [
-      "Now",
-      "In Heaven",
-      "To Repent"
+      "...Now",
+      "...In Heaven",
+      "...To Repent"
     ],
     "content": "https://www.youtube.com/embed/hHXN3WBOfss?si=LpA8HXcdpeXAE4ok&amp;controls=0&amp;end=18",
     "content_type": "youtube_video",
@@ -2003,8 +2003,8 @@
       "Booker T. Washington",
       "Marcus Garvey"
     ],
-    "content": "",
-    "content_type": "",
+    "content": "https://www.youtube.com/embed/WMfWGc5kyBg?si=v6YVgxpv7tV3Rm0p&amp;controls=0",
+    "content_type": "youtube_video",
     "category": [
       "History",
       "Education"
@@ -2021,8 +2021,8 @@
       "bell hooks",
       "Patricia Hill Collins"
     ],
-    "content": "",
-    "content_type": "",
+    "content": "https://www.youtube.com/embed/ViDtnfQ9FHc?si=k7Pvk3ao0IES5niW&amp;controls=0",
+    "content_type": "youtube_video",
     "category": [
       "Sociology",
       "History",
@@ -2077,8 +2077,8 @@
       "Desmond Tutu",
       "Nelson Mandela"
     ],
-    "content": "",
-    "content_type": "",
+    "content": "https://www.youtube.com/embed/dCdQBY2FO64?si=5eCK0Z1OefzROsNB&amp;controls=0",
+    "content_type": "youtube_video",
     "category": [
       "History",
       "Politics"
@@ -2095,8 +2095,8 @@
       "Southern Christian Leadership Conference (SCLC)",
       "Student Nonviolent Coordinating Committee (SNCC)"
     ],
-    "content": "",
-    "content_type": "",
+    "content": "https://www.youtube.com/embed/R-XjloOKl60?si=k-o02PPNtnOTWIX5&amp;controls=0",
+    "content_type": "youtube_video",
     "category": [
       "History",
       "Politics",
@@ -2134,7 +2134,12 @@
     ],
     "content": "https://www.youtube.com/embed/vgN35XWnPKg?si=TOI8a3Rqy7En_q-Z&amp;controls=0",
     "content_type": "youtube_video",
-    "category": ["poetry", "politics", "music", "history"],
+    "category": [
+      "poetry",
+      "politics",
+      "music",
+      "history"
+    ],
     "era": "1900",
     "challenge": 2
   },
@@ -2149,7 +2154,11 @@
     ],
     "content": "https://www.youtube.com/embed/IB8DYpLAIfs?si=6D2tpnyu59DoNqI2&amp;controls=0",
     "content_type": "youtube_video",
-    "category": ["pop culture", "history", "television"],
+    "category": [
+      "pop culture",
+      "history",
+      "television"
+    ],
     "era": "1990's",
     "challenge": 3
   },
@@ -2164,7 +2173,11 @@
     ],
     "content": "https://www.youtube.com/embed/SItkQuuQ1Wo?si=QpNP62MN5IDwQo20&amp;controls=0",
     "content_type": "youtube_video",
-    "category": ["history", "pop culture", "television"],
+    "category": [
+      "history",
+      "pop culture",
+      "television"
+    ],
     "era": "2020's",
     "challenge": 2
   },
@@ -2179,7 +2192,10 @@
     ],
     "content": "https://www.youtube.com/embed/9ki6mJMqbQQ?si=_KpyqXRcJ0BERWrk&amp;controls=0",
     "content_type": "youtube_video",
-    "category": ["history", "african history"],
+    "category": [
+      "history",
+      "african history"
+    ],
     "era": "14th Century",
     "challenge": 2
   },
@@ -2194,8 +2210,49 @@
     ],
     "content": "https://www.youtube.com/embed/HNJCl3EtTtE?si=azU1oA6LgMWWoZsZ&amp;controls=0",
     "content_type": "youtube_video",
-    "category": ["history", "explorer"],
+    "category": [
+      "history",
+      "explorer"
+    ],
     "era": "20th Century",
     "challenge": 2
+  },
+  {
+    "id": 129,
+    "question": "[Scenario] - You are at a family get together and the song 'Stairway To Heaven' comes on.  Who sings it?",
+    "answer": "The O'Jays",
+    "incorrect_answers": [
+      "Led Zeppelin",
+      "Neil Sedaka",
+      "Pure Prairie League"
+    ],
+    "content": "https://www.youtube.com/embed/MqGO4myoJH8?si=obODSe0BEDHpIrMW&amp;controls=0",
+    "content_type": "youtube_video",
+    "category": [
+      "music",
+      "culture",
+      "soul"
+    ],
+    "era": "1970's",
+    "challenge": 2
+  },
+  {
+    "id": 130,
+    "question": "'Then, I go to my brother and I say, 'Brother, help me, please'. But he winds up knockin' me back down on my knees, oh' are lyrics by what artist?",
+    "answer": "Sam Cooke",
+    "incorrect_answers": [
+      "Booby Womack",
+      "James Brown",
+      "Otis Redding"
+    ],
+    "content": "https://www.youtube.com/embed/wEBlaMOmKV4?si=hvdt3uBwcnt53syR&amp;controls=0",
+    "content_type": "youtube_video",
+    "category": [
+      "music",
+      "soul",
+      "culture"
+    ],
+    "era": "1960's",
+    "challenge": 1
   }
 ]
